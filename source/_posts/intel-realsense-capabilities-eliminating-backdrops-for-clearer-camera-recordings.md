@@ -1,7 +1,7 @@
 ---
 title: "Intel RealSense Capabilities: Eliminating Backdrops for Clearer Camera Recordings"
-date: 2024-09-19 21:45:28
-updated: 2024-09-20 11:36:49
+date: 2024-09-15T06:03:47.599Z
+updated: 2024-09-19T21:38:18.814Z
 tags:
   - product
 categories:
@@ -69,6 +69,13 @@ Requirements for using webcam background removal with Intel® RealSense™:
 
 ![Mirillis Action! - Webcam settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_settings_intel_realsense.jpg "Action! Webcam Settings") 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Webcam recording settings and preview 
 
  Set webcam **Recording mode** to **Always record** or **Record on button down** and adjust other settings if required. 
@@ -76,6 +83,13 @@ Requirements for using webcam background removal with Intel® RealSense™:
  Check preview to see how your webcam will look like in final video recording. Adjust webcam size and position using "Draggable mode". 
 
 ![Mirillis Action! - Webcam settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_intel_realsense_setup.jpg "Webcam settings") 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make a gameplay recording 
 
@@ -86,8 +100,6 @@ Requirements for using webcam background removal with Intel® RealSense™:
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

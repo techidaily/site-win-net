@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Steps for Snapping Screenshots of Any Webpage!
-date: 2024-09-19 18:55:53
-updated: 2024-09-20 10:15:32
+date: 2024-09-15T23:16:02.641Z
+updated: 2024-09-20T01:36:53.389Z
 tags:
   - product
 categories:
@@ -62,6 +62,13 @@ Action Tutorials
 
 ![Mirillis Action! - selecting desktop region](https://mirillis.com/res/old/gfx/tutorials/howto/w2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to capture the complete website view, you can use “snap to windows” tool to quickly select website view area. You can also change selected area size and position manually. 
 
 ![Mirillis Action! - desktop region mode - snap to windows](https://mirillis.com/res/old/gfx/tutorials/howto/w3.png) 
@@ -70,6 +77,13 @@ Action Tutorials
 
 ![Mirillis Action! - capture screenshot button](https://mirillis.com/res/old/gfx/tutorials/howto/w4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  All your captured website screenshots are visibile in Action! Screenshots manager. You can use manager buttons, to view website screenshots, delete selected website screenshots or open screenshots output folder.
 
 <ins class="adsbygoogle"
@@ -77,8 +91,6 @@ Action Tutorials
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
