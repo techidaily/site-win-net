@@ -1,7 +1,7 @@
 ---
 title: "Evolving with the Times: How Microsoft's Consumer Approach Is Shifting, According to ZDNet"
-date: 2024-09-13T23:10:29.995Z
-updated: 2024-09-20T05:12:45.501Z
+date: 2024-09-23T17:51:59.827Z
+updated: 2024-09-25T18:38:43.650Z
 tags:
   - microsoft
 categories:
@@ -84,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -129,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -179,3 +193,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-30-must-play-sandbox-adventures/"><u>[New] In 2024, Top 30 Must-Play Sandbox Adventures</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-clearing-tactics-for-youtubes-stored-video-queue/"><u>[Updated] Clearing Tactics for YouTube's Stored Video Queue</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/android-screen-capture-kings-the-ultimate-8-free-guide/"><u>Android Screen Capture Kings The Ultimate 8-Free Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/clarifying-common-errors-in-perceiving-macos-by-windows-enthusiasts-analysis-on-zdnet/"><u>Clarifying Common Errors in Perceiving macOS by Windows Enthusiasts - Analysis on ZDNet</u></a></li>
+<li><a href="https://win-net.techidaily.com/find-your-perfect-riding-desk-the-number-one-picks-for-2023-insights-from-zdnet/"><u>Find Your Perfect Riding Desk: The Number One Picks for 202[3] - Insights From ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-pro-4g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 Pro 4G Phone with Broken Screen</u></a></li>
+<li><a href="https://win-net.techidaily.com/impact-of-ddos-cyberattacks-how-microsofts-office-365-services-were-compromised-insights-from-zdnet/"><u>Impact of DDoS Cyberattacks: How Microsoft's Office 365 Services Were Compromised - Insights From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-game-sound-transformation-the-no-cost-pathway-in-free-fire/"><u>In 2024, In-Game Sound Transformation The No-Cost Pathway in Free Fire</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/revolutionize-your-desk-setup-for-ultimate-comfort-on-a-budget-the-must-have-50-gadget-for-sitters-and-standees-featured-by-zdnet/"><u>Revolutionize Your Desk Setup for Ultimate Comfort on a Budget: The Must-Have $50 Gadget for Sitters and Standees - Featured by ZDNET</u></a></li>
+<li><a href="https://win-net.techidaily.com/top-5-comfortable-and-supportive-ergonomic-office-chairs-recommended-by-tech-experts/"><u>Top 5 Comfortable and Supportive Ergonomic Office Chairs - Recommended by Tech Experts</u></a></li>
+</ul></div>
+

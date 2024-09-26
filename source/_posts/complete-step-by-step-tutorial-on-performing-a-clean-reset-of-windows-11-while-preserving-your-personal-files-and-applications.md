@@ -1,7 +1,7 @@
 ---
 title: Complete Step-by-Step Tutorial on Performing a Clean Reset of Windows 11 While Preserving Your Personal Files and Applications
-date: 2024-09-13T18:15:52.534Z
-updated: 2024-09-20T04:58:25.043Z
+date: 2024-09-20T21:26:59.189Z
+updated: 2024-09-26T00:05:19.257Z
 tags:
   - windows
 categories:
@@ -27,24 +27,31 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -55,6 +62,19 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
@@ -62,10 +82,10 @@ Double-click the icon, and a window opens with all the available settings. The c
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Search for a command
@@ -96,13 +116,6 @@ Screenshot by Lance Whitney/ZDNET
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -146,3 +159,21 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-basics-of-effective-fb-ad-cta-design-for-2024/"><u>[New] Basics of Effective FB Ad CTA Design for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-analysis-on-slomo-video-softwares-performance/"><u>[New] Expert Analysis on SloMo Video Software's Performance</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-arsenal-of-classics-top-7-precision-games/"><u>[Updated] 2024 Approved Arsenal of Classics Top 7 Precision Games</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-ultimate-hexa-copter-ranks-unveiled/"><u>2024 Approved Ultimate Hexa-Copter Ranks Unveiled</u></a></li>
+<li><a href="https://win-net.techidaily.com/creative-tims-react-ui-kit-with-bootstrap-4-and-react-hooks-get-your-free-copy-today/"><u>Creative Tim's React UI Kit with Bootstrap 4 & React Hooks - Get Your FREE Copy Today!</u></a></li>
+<li><a href="https://win-net.techidaily.com/customizing-flipbook-with-your-corporate-insignia-in-the-application-interface/"><u>Customizing FlipBook with Your Corporate Insignia in the Application Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-a-non-functional-printer-in-the-os-environment/"><u>Fixing a Non-Functional Printer in the OS Environment</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/vision-to-value-an-all-inclusive-guide-on-analyzing-views-clicks-and-monetization-for-2024/"><u>From Vision to Value An All-Inclusive Guide on Analyzing Views, Clicks, & Monetization for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-plus-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Plus to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-real-time-vr-hardware-analysis/"><u>In 2024, Real-Time VR Hardware Analysis</u></a></li>
+<li><a href="https://win-net.techidaily.com/scaling-recipes-requires-increasing-ingredients-at-the-same-rate-to-maintain-flavor-balance/"><u>Scaling Recipes Requires Increasing Ingredients at the Same Rate to Maintain Flavor Balance.</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/1714916461400-sound-effects-for-podcasts-11-places-to-find-them-for-2024/"><u>Sound Effects for Podcasts 11 Places To Find Them for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/stunning-bootstrapped-landing-pages-at-no-cost-get-started-with-creative-tim/"><u>Stunning Bootstrapped Landing Pages at No Cost - Get Started with Creative Tim</u></a></li>
+</ul></div>
+

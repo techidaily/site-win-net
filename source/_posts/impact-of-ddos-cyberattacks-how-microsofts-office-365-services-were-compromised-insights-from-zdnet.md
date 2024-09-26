@@ -1,7 +1,7 @@
 ---
 title: "Impact of DDoS Cyberattacks: How Microsoft's Office 365 Services Were Compromised - Insights From ZDNet"
-date: 2024-09-18T21:33:33.658Z
-updated: 2024-09-19T19:51:39.619Z
+date: 2024-09-22T21:01:48.552Z
+updated: 2024-09-25T16:10:11.585Z
 tags:
   - microsoft
 categories:
@@ -112,10 +112,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-quick-pics-windows-11s-fast-photo-viewer/"><u>[New] 2024 Approved Quick Pics Windows 11'S Fast Photo Viewer</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-precision-guide-for-subtitles-insertion-in-mp4-files/"><u>[Updated] Precision Guide for Subtitles Insertion in MP4 Files</u></a></li>
+<li><a href="https://article-tips.techidaily.com/bridging-the-gap-how-to-successfully-export-srt-from-premiere/"><u>Bridging the Gap How to Successfully Export SRT From Premiere</u></a></li>
+<li><a href="https://win-net.techidaily.com/copilot-vs-microsofts-ai-assistant-evaluating-cost-effectiveness-for-your-tech-needs-zdnet/"><u>Copilot Vs. Microsoft's AI Assistant: Evaluating Cost-Effectiveness for Your Tech Needs | ZDNet</u></a></li>
+<li><a href="https://win-net.techidaily.com/evolving-with-the-times-how-microsofts-consumer-approach-is-shifting-according-to-zdnet/"><u>Evolving with the Times: How Microsoft's Consumer Approach Is Shifting, According to ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-infinix-hot-40-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Hot 40 Fingerprint Lock</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-engage-audiences-effortlessly-social-medias-screen-share-guide/"><u>In 2024, Engage Audiences Effortlessly Social Media's Screen Share Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-6-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 6 Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/learning-leaders-most-influential-edu-tutorials-yt/"><u>Learning Leaders Most Influential Edu Tutorials YT</u></a></li>
+<li><a href="https://win-net.techidaily.com/microsofts-response-key-privacy-and-security-enhancements-post-tough-feedback-technewszdnet/"><u>Microsoft's Response: Key Privacy & Security Enhancements Post-Tough Feedback | TechNewsZDNet</u></a></li>
+<li><a href="https://win-net.techidaily.com/navigate-your-deskless-files-with-windows-ai-powered-recall-feature-exclusive-guide/"><u>Navigate Your Deskless Files with Windows' AI-Powered Recall Feature – Exclusive Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/signing-into-windows-11-using-a-microsoft-365-business-account-benefits-and-steps-explained/"><u>Signing Into Windows 11 Using a Microsoft 365 Business Account: Benefits & Steps Explained</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simplify-your-system-seamless-drivers-updates-with-windows/"><u>Simplify Your System: Seamless Drivers Updates with Windows</u></a></li>
+<li><a href="https://win-net.techidaily.com/the-shocking-revelation-from-microsofts-quest-for-workplace-joy-and-engagement/"><u>The Shocking Revelation From Microsoft's Quest for Workplace Joy and Engagement</u></a></li>
+<li><a href="https://win-net.techidaily.com/unveiling-microsofts-windows-11-se-the-latest-educational-computing-solutions-by-pc-manufacturers/"><u>Unveiling Microsoft's Windows 11 SE: The Latest Educational Computing Solutions by PC Manufacturers</u></a></li>
+<li><a href="https://win-net.techidaily.com/unveiling-windows-11-se-pc-manufacturers-newest-venture-in-educational-technology-insights-from-zdnet/"><u>Unveiling Windows 11 SE: PC Manufacturers' Newest Venture in Educational Technology - Insights From ZDNet</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

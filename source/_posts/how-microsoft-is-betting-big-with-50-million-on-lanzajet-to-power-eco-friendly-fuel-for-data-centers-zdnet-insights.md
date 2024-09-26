@@ -1,7 +1,7 @@
 ---
 title: How Microsoft Is Betting Big with $50 Million on LanzaJet to Power Eco-Friendly Fuel for Data Centers | ZDNet Insights
-date: 2024-09-18T19:28:29.757Z
-updated: 2024-09-19T22:11:15.629Z
+date: 2024-09-21T21:17:50.644Z
+updated: 2024-09-25T19:15:54.371Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -116,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -134,22 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -191,3 +199,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-masterclass-in-making-memories-expert-tips-for-snapchat-edits/"><u>[Updated] Masterclass in Making Memories Expert Tips for Snapchat Edits</u></a></li>
+<li><a href="https://win-net.techidaily.com/celebrating-freedom-discover-the-unique-ways-tech-giants-commemorate-juneteenth/"><u>Celebrating Freedom: Discover the Unique Ways Tech Giants Commemorate Juneteenth</u></a></li>
+<li><a href="https://win-blog.techidaily.com/common-issues-preventing-age-of-empires-4-from-starting/"><u>Common Issues Preventing Age of Empires 4 From Starting</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/deep-dive-into-3d-color-grading-tools-for-2024/"><u>Deep Dive Into 3D Color Grading Tools for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/discover-how-to-access-newly-integrated-ai-tools-with-microsofts-copilot-for-enhanced-productivity/"><u>Discover How to Access Newly Integrated AI Tools with Microsoft's Copilot for Enhanced Productivity</u></a></li>
+<li><a href="https://win-net.techidaily.com/elevate-your-pc-experience-with-microsofts-new-approach-to-integrating-windows-copilot-as-a-commonplace-application-zdnet/"><u>Elevate Your PC Experience with Microsoft's New Approach to Integrating Windows Copilot as a Commonplace Application | ZDNet</u></a></li>
+<li><a href="https://win-net.techidaily.com/enhancing-code-output-how-generation-ai-elevates-developer-workflow-insights-from-zdnet/"><u>Enhancing Code Output: How Generation AI Elevates Developer Workflow - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/enrich-facebook-tales-unlimited-no-cost-online-and-mobile-upgrades-for-2024/"><u>Enrich Facebook Tales Unlimited, No-Cost Online & Mobile Upgrades for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/former-microsoft-leader-steve-ballmer-concedes-lack-of-bravery-in-bold-revelation-tech-news-by-zdnet/"><u>Former Microsoft Leader Steve Ballmer Concedes Lack of Bravery in Bold Revelation | Tech News by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-intelligent-systems-are-redefining-game-creation-and-consumption/"><u>How Intelligent Systems Are Redefining Game Creation and Consumption</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-s18-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo S18 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-lenovo-thinkphone-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Lenovo ThinkPhone Pattern Lock Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-13c-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Redmi 13C 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/lightweight-kodi-19-setup-a-step-by-step-guide-to-adding-the-chains-matrix-addon/"><u>Lightweight Kodi 19 Setup: A Step-by-Step Guide to Adding the Chains Matrix Addon</u></a></li>
+<li><a href="https://win-net.techidaily.com/zdnets-expert-tips-for-cleaning-up-bloatware-and-optimizing-performance-on-windows-10-systems/"><u>ZDNet's Expert Tips for Cleaning Up Bloatware and Optimizing Performance on Windows 10 Systems</u></a></li>
+</ul></div>
+

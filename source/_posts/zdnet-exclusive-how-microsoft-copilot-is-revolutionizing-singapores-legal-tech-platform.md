@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: How Microsoft Copilot Is Revolutionizing Singapore's Legal Tech Platform"
-date: 2024-09-17T02:12:03.828Z
-updated: 2024-09-19T20:23:45.533Z
+date: 2024-09-22T17:25:17.864Z
+updated: 2024-09-26T00:06:00.107Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -84,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,18 +136,24 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -179,3 +199,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-ultimate-screen-recorders-guide-trusted-recommendations/"><u>[New] 2024 Approved The Ultimate Screen Recorders Guide - Trusted Recommendations</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-enablingdisabling-safaris-dual-screen-feature/"><u>[Updated] In 2024, Enabling/Disabling Safari's Dual-Screen Feature</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-perfect-your-content-with-vimeo-on-instagram/"><u>[Updated] Perfect Your Content with Vimeo on Instagram</u></a></li>
+<li><a href="https://win-net.techidaily.com/1-superior-viteui-dashboard-template-zero-cost-solution-for-vuejs-3-and-bootstrap-5-developers-by-creative-tim/"><u>1. Superior ViteUI Dashboard Template: Zero Cost Solution for VueJS 3 and Bootstrap 5 Developers by Creative Tim</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-top-12-strategies-reviving-non-visible-fb-video-posts/"><u>2024 Approved Top 12 Strategies Reviving Non-Visible FB Video Posts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unfreezing-photo-booth-recordings-a-guide-to-smoother-playback/"><u>2024 Approved Unfreezing Photo Booth Recordings A Guide to Smoother Playback</u></a></li>
+<li><a href="https://win-net.techidaily.com/advanced-material-dashboard-pro-with-bootstrap-4-and-django-a-complete-professional-admin-panel/"><u>Advanced Material Dashboard Pro with Bootstrap 4 & Django: A Complete, Professional Admin Panel</u></a></li>
+<li><a href="https://win-net.techidaily.com/advanced-material-kit-pro-elite-bootstrap-and-material-design-themes-by-creative-tim/"><u>Advanced Material Kit Pro: Elite Bootstrap and Material Design Themes by Creative Tim</u></a></li>
+<li><a href="https://win-net.techidaily.com/advanced-pro-ui-dashboard-with-bootstrap-4-and-angular-by-creative-tim-ultimate-angular-admin-suite/"><u>Advanced Pro UI Dashboard with Bootstrap 4 and Angular by Creative Tim: Ultimate Angular Admin Suite</u></a></li>
+<li><a href="https://win-net.techidaily.com/advanced-rubik-layouts-luxe-single-page-bootstrap-framework-crafted-with-precision-by-times-ingenuity/"><u>Advanced Rubik Layouts: Luxe Single-Page Bootstrap Framework, Crafted with Precision by Time's Ingenuity</u></a></li>
+<li><a href="https://win-net.techidaily.com/amplify-your-brand-with-ultra-premium-creative-tim-theme-collections-more-than-144-choices-await/"><u>Amplify Your Brand with Ultra-Premium Creative Tim Theme Collections: More than 144 Choices Await!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audioarchitect-designing-without-dacast/"><u>In 2024, AudioArchitect Designing Without DaCast</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-updating-your-samsung-smart-tv-for-optimal-performance/"><u>Step-by-Step Guide: Updating Your Samsung Smart TV for Optimal Performance</u></a></li>
+<li><a href="https://discover-best.techidaily.com/streamlining-your-brands-path-innovative-approaches-to-customer-experience-automation/"><u>Streamlining Your Brand's Path: Innovative Approaches to Customer Experience Automation</u></a></li>
+<li><a href="https://win-net.techidaily.com/uncover-the-hidden-functionality-of-google-chromes-latest-power-saving-tools/"><u>Uncover the Hidden Functionality of Google Chrome's Latest Power-Saving Tools</u></a></li>
+</ul></div>
+
