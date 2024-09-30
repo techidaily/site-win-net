@@ -1,7 +1,7 @@
 ---
 title: Explore Over 20 Innovative Vue.js Projects Featuring API Integration by Creative Tim
-date: 2024-09-23T20:10:00.225Z
-updated: 2024-09-25T19:10:47.294Z
+date: 2024-09-22T21:24:13.341Z
+updated: 2024-09-30T05:09:04.647Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,20 +54,15 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-comprehensive-guide-to-showmores-efficient-recording-tools/"><u>[New] 2024 Approved Comprehensive Guide to ShowMore's Efficient Recording Tools</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-discreetly-watch-instas-hidden-gems-here/"><u>[New] Discreetly Watch Insta's Hidden Gems, Here</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-secure-your-sound-3-safe-methods-of-audio-from-youtube/"><u>[New] In 2024, Secure Your Sound 3 Safe Methods of Audio From YouTube</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-watermark-wisdom-for-every-photographers-toolkit/"><u>[Updated] 2024 Approved Watermark Wisdom for Every Photographer's Toolkit</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-mastering-brand-collaboration-on-youtube/"><u>[Updated] In 2024, Mastering Brand Collaboration on YouTube</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/boost-your-site-with-cookiebot-the-ultimate-marketing-automation-tool/"><u>Boost Your Site with Cookiebot: The Ultimate Marketing Automation Tool</u></a></li>
-<li><a href="https://win-net.techidaily.com/creative-tims-react-ui-kit-with-bootstrap-4-and-react-hooks-get-your-free-copy-today/"><u>Creative Tim's React UI Kit with Bootstrap 4 & React Hooks - Get Your FREE Copy Today!</u></a></li>
-<li><a href="https://win-net.techidaily.com/customizing-flipbook-with-your-corporate-insignia-in-the-application-interface/"><u>Customizing FlipBook with Your Corporate Insignia in the Application Interface</u></a></li>
-<li><a href="https://extra-information.techidaily.com/fun-filled-photography-how-to-use-lens-on-snapchat-for-playfulness/"><u>Fun-Filled Photography How To Use Lens on Snapchat for Playfulness</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-to-build-your-own-interactive-book-app-for-ios-and-macos-with-flipbuilder/"><u>How to Build Your Own Interactive Book App for iOS and macOS with FlipBuilder</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-five-must-know-tech-tools-for-business/"><u>Leveraging AI: Five Must-Know Tech Tools for Business</u></a></li>
-<li><a href="https://win-net.techidaily.com/professional-vuejs-administrative-template-with-bootstrap-4-and-papers-ui-pro-version-by-creative-tim/"><u>Professional Vue.js Administrative Template with Bootstrap 4 and Papers UI - Pro Version by Creative Tim</u></a></li>
-<li><a href="https://win-net.techidaily.com/scaling-recipes-requires-increasing-ingredients-at-the-same-rate-to-maintain-flavor-balance/"><u>Scaling Recipes Requires Increasing Ingredients at the Same Rate to Maintain Flavor Balance.</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solving-screen-sync-problems-post-win11-update/"><u>Solving Screen Sync Problems Post-Win11 Update</u></a></li>
-<li><a href="https://win-net.techidaily.com/stunning-bootstrapped-landing-pages-at-no-cost-get-started-with-creative-tim/"><u>Stunning Bootstrapped Landing Pages at No Cost - Get Started with Creative Tim</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-mastering-live-game-capture-on-xbox-one/"><u>[New] 2024 Approved Mastering Live Game Capture on Xbox One</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-honor-magic-5-lite-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Honor Magic 5 Lite is off? | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/guide-to-converting-and-downloading-your-favorite-sky-sports-shows-in-various-formats/"><u>Guide to Converting and Downloading Your Favorite Sky Sports Shows in Various Formats</u></a></li>
+<li><a href="https://win-net.techidaily.com/guide-saving-kocowa-movies-as-video-files-tips-for-mp4-mov-and-avi-conversion/"><u>Guide: Saving Kocowa Movies as Video Files - Tips for MP4, MOV, and AVI Conversion</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-to-download-la7tv-content-in-various-formats-including-mp4-and-wmv/"><u>How to Download La7.tv Content in Various Formats Including MP4 and WMV</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-to-export-360-degree-footage-from-facebook-in-various-formats-mp4-mov-avi-for-windowsmac-users/"><u>How to Export 360 Degree Footage From Facebook in Various Formats (MP4, MOV, AVI) for Windows/Mac Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/new-years-linguistic-achievement-goal/"><u>New Year's Linguistic Achievement Goal</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-tips-lipo-power-sources-for-aerial-vehicles-for-2024/"><u>Top Tips LiPo Power Sources for Aerial Vehicles for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-new-potential-in-mac-data-recovery-stellars-latest-release/"><u>Unlocking New Potential in Mac Data Recovery - Stellar's Latest Release</u></a></li>
 </ul></div>
 

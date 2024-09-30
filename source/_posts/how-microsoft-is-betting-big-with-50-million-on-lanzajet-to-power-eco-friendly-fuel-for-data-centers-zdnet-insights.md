@@ -1,7 +1,7 @@
 ---
 title: How Microsoft Is Betting Big with $50 Million on LanzaJet to Power Eco-Friendly Fuel for Data Centers | ZDNet Insights
-date: 2024-09-21T21:17:50.644Z
-updated: 2024-09-25T19:15:54.371Z
+date: 2024-09-27T02:37:16.647Z
+updated: 2024-09-30T14:14:55.167Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,16 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -202,20 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-masterclass-in-making-memories-expert-tips-for-snapchat-edits/"><u>[Updated] Masterclass in Making Memories Expert Tips for Snapchat Edits</u></a></li>
-<li><a href="https://win-net.techidaily.com/celebrating-freedom-discover-the-unique-ways-tech-giants-commemorate-juneteenth/"><u>Celebrating Freedom: Discover the Unique Ways Tech Giants Commemorate Juneteenth</u></a></li>
-<li><a href="https://win-blog.techidaily.com/common-issues-preventing-age-of-empires-4-from-starting/"><u>Common Issues Preventing Age of Empires 4 From Starting</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/deep-dive-into-3d-color-grading-tools-for-2024/"><u>Deep Dive Into 3D Color Grading Tools for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/discover-how-to-access-newly-integrated-ai-tools-with-microsofts-copilot-for-enhanced-productivity/"><u>Discover How to Access Newly Integrated AI Tools with Microsoft's Copilot for Enhanced Productivity</u></a></li>
-<li><a href="https://win-net.techidaily.com/elevate-your-pc-experience-with-microsofts-new-approach-to-integrating-windows-copilot-as-a-commonplace-application-zdnet/"><u>Elevate Your PC Experience with Microsoft's New Approach to Integrating Windows Copilot as a Commonplace Application | ZDNet</u></a></li>
-<li><a href="https://win-net.techidaily.com/enhancing-code-output-how-generation-ai-elevates-developer-workflow-insights-from-zdnet/"><u>Enhancing Code Output: How Generation AI Elevates Developer Workflow - Insights From ZDNet</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/enrich-facebook-tales-unlimited-no-cost-online-and-mobile-upgrades-for-2024/"><u>Enrich Facebook Tales Unlimited, No-Cost Online & Mobile Upgrades for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/former-microsoft-leader-steve-ballmer-concedes-lack-of-bravery-in-bold-revelation-tech-news-by-zdnet/"><u>Former Microsoft Leader Steve Ballmer Concedes Lack of Bravery in Bold Revelation | Tech News by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-intelligent-systems-are-redefining-game-creation-and-consumption/"><u>How Intelligent Systems Are Redefining Game Creation and Consumption</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-s18-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo S18 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-lenovo-thinkphone-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Lenovo ThinkPhone Pattern Lock Screen</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-13c-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Redmi 13C 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/lightweight-kodi-19-setup-a-step-by-step-guide-to-adding-the-chains-matrix-addon/"><u>Lightweight Kodi 19 Setup: A Step-by-Step Guide to Adding the Chains Matrix Addon</u></a></li>
-<li><a href="https://win-net.techidaily.com/zdnets-expert-tips-for-cleaning-up-bloatware-and-optimizing-performance-on-windows-10-systems/"><u>ZDNet's Expert Tips for Cleaning Up Bloatware and Optimizing Performance on Windows 10 Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-detailed-guide-on-making-gifs-into-stickers-whatsapp-discord-and-telegram-edition/"><u>[New] A Detailed Guide on Making GIFs Into Stickers WhatsApp, Discord & Telegram Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-compilation-of-the-best-10-image-sharing-sites/"><u>[Updated] A Compilation of the Best 10 Image Sharing Sites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigate-the-world-of-video-conferencing/"><u>2024 Approved Navigate the World of Video Conferencing</u></a></li>
+<li><a href="https://win-net.techidaily.com/adding-hyperlinks-to-pdf-flipbooks-is-it-possible-with-flipbuilders-tools/"><u>Adding Hyperlinks to PDF Flipbooks: Is It Possible with FlipBuilder's Tools?</u></a></li>
+<li><a href="https://win-net.techidaily.com/are-there-file-size-requirements-for-creating-a-flipbook-from-pdf-inputs-in-flipbuilder-software/"><u>Are There File Size Requirements for Creating a Flipbook From PDF Inputs in FlipBuilder Software?</u></a></li>
+<li><a href="https://win-net.techidaily.com/arranging-images-in-advance-tips-for-a-seamless-flipbook-conversion-with-flipbuilder/"><u>Arranging Images in Advance: Tips for a Seamless Flipbook Conversion with FlipBuilder</u></a></li>
+<li><a href="https://win-net.techidaily.com/bulk-upgrade-offer-transform-multiple-pdf-files-into-dynamic-flash-ebooks-for-free/"><u>Bulk Upgrade Offer: Transform Multiple PDF Files Into Dynamic Flash eBooks for Free!</u></a></li>
+<li><a href="https://win-net.techidaily.com/create-personalized-booklets-from-multiple-pdfs-at-once-with-flipbuilder-easy-guide/"><u>Create Personalized Booklets From Multiple PDFs at Once with FlipBuilder - Easy Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/creating-customized-backdrops-adding-your-business-emblem-to-flipbook-pages-using-flipbuilder/"><u>Creating Customized Backdrops: Adding Your Business Emblem to FlipBook Pages Using FlipBuilder</u></a></li>
+<li><a href="https://win-net.techidaily.com/creative-image-editing-tips-incornating-clipart-for-stunning-visuals-on-flipbuilder/"><u>Creative Image Editing Tips: Incornating Clipart for Stunning Visuals on FlipBuilder</u></a></li>
+<li><a href="https://win-net.techidaily.com/creative-visual-styling-step-by-step-instructions-for-incorpressing-clipart-in-images-with-flipbuilder/"><u>Creative Visual Styling: Step-by-Step Instructions for Incorpressing Clipart in Images with FlipBuilder</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-guide-steps-to-successfully-change-your-ipads-battery/"><u>DIY Guide: Steps to Successfully Change Your iPad's Battery</u></a></li>
+<li><a href="https://win-net.techidaily.com/download-ready-flipbooks-a-simple-guide-on-setting-up-your-site-with-flipbuilder/"><u>Download-Ready Flipbooks: A Simple Guide on Setting Up Your Site with FlipBuilder</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27-4g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y27 4G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-honor-v-purse-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Honor V Purse Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-simplified-avi-to-gif-editing-with-filmora-on-windows-and-macos-platforms/"><u>In 2024, Simplified AVI to GIF Editing with Filmora on Windows & macOS Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-windows-11-error-0xc19001e1/"><u>Troubleshooting Guide: Fixing Windows 11 Error 0xC19001E1</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-poco-x6-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Poco X6 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-repair-guide-when-your-btws-mic-fails-to-function/"><u>Ultimate Repair Guide: When Your BTWS Mic Fails to Function</u></a></li>
 </ul></div>
 

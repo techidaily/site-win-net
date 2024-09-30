@@ -1,7 +1,7 @@
 ---
 title: Elevate Your PC Experience with Microsoft's New Approach to Integrating Windows Copilot as a Commonplace Application | ZDNet
-date: 2024-09-24T17:21:00.985Z
-updated: 2024-09-25T20:24:14.597Z
+date: 2024-09-27T03:04:58.523Z
+updated: 2024-09-29T16:42:58.292Z
 tags:
   - microsoft
 categories:
@@ -64,16 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -97,16 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -159,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -208,18 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-communicating-confidently-on-google-meet/"><u>[Updated] In 2024, Communicating Confidently on Google Meet</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-next-level-livestream-selecting-the-best-360-cameras-for-2024/"><u>[Updated] Next-Level Livestream Selecting the Best 360° Cameras for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-expert-tips-for-recording-fan-favorite-sports-games/"><u>2024 Approved Expert Tips for Recording Fan-Favorite Sports Games</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/audio-flow-streamlining-sound-segments-for-2024/"><u>Audio Flow Streamlining Sound Segments for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/boost-your-pcs-performance-eliminate-laggy-apps-faster-using-an-undiscovered-windows-grooks-feature-unveiled-by-zdnet/"><u>Boost Your PC's Performance: Eliminate Laggy Apps Faster Using an Undiscovered Windows Grooks Feature | Unveiled by ZDNET</u></a></li>
-<li><a href="https://win-net.techidaily.com/clarifying-common-errors-in-perceiving-macos-by-windows-enthusiasts-analysis-on-zdnet/"><u>Clarifying Common Errors in Perceiving macOS by Windows Enthusiasts - Analysis on ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-power-of-gpt-3s-latest-browsing-updates/"><u>Discover the Power of GPT-3's Latest Browsing Updates</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-performance-lowering-edges-resource-load/"><u>Enhancing Performance: Lowering Edge's Resource Load</u></a></li>
-<li><a href="https://win-net.techidaily.com/essential-windows-11-tweaks-top-9-adjustments-for-extended-laptop-battery-endurance-zdnet/"><u>Essential Windows 11 Tweaks: Top 9 Adjustments for Extended Laptop Battery Endurance | ZDNet</u></a></li>
-<li><a href="https://win-net.techidaily.com/expert-insights-top-picks-from-best-buys-tech-guru-on-choosing-the-ultimate-windows-laptop-a-zdnet-exclusive/"><u>Expert Insights: Top Picks From Best Buy's Tech Guru on Choosing the Ultimate Windows Laptop - A ZDNet Exclusive</u></a></li>
-<li><a href="https://win-net.techidaily.com/find-your-perfect-riding-desk-the-number-one-picks-for-2023-insights-from-zdnet/"><u>Find Your Perfect Riding Desk: The Number One Picks for 202[3] - Insights From ZDNET</u></a></li>
-<li><a href="https://win-net.techidaily.com/revolutionize-your-desk-setup-for-ultimate-comfort-on-a-budget-the-must-have-50-gadget-for-sitters-and-standees-featured-by-zdnet/"><u>Revolutionize Your Desk Setup for Ultimate Comfort on a Budget: The Must-Have $50 Gadget for Sitters and Standees - Featured by ZDNET</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-ultimate-methods-of-acquiring-ipodcasts-for-your-iphone-for-2024/"><u>The Ultimate Methods of Acquiring IPodcasts for Your iPhone for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-wechat-photo-frame-specifications/"><u>[New] 2024 Approved WeChat Photo Frame Specifications</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-influential-force-of-endorsements-for-2024/"><u>[New] The Influential Force of Endorsements for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-effortless-offline-access-best-youtube-playlist-downloaders/"><u>[Updated] Effortless Offline Access Best YouTube Playlist Downloaders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-screen-capture-on-macbook-webcam/"><u>[Updated] Mastering Screen Capture on MacBook Webcam</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-samsung-ue590-review-top-tier-4k-uhd-tv-for-gamers/"><u>[Updated] Samsung UE590 Review - Top-Tier 4K UHD TV for Gamers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-vector-image-fundamentals-introduction-and-categories/"><u>[Updated] Vector Image Fundamentals Introduction & Categories</u></a></li>
+<li><a href="https://win-net.techidaily.com/access-kissasian-tv-shows-stream-free-episodes-from-kissasiancom/"><u>Access Kissasian TV Shows - Stream Free Episodes From kissasian.com</u></a></li>
+<li><a href="https://win-net.techidaily.com/allavsoft-the-top-choice-for-macos-and-windows-users-seeking-an-ilivid-alternative-in-video-downloading/"><u>Allavsoft: The Top Choice for macOS & Windows Users Seeking an ILivid Alternative in Video Downloading</u></a></li>
+<li><a href="https://win-net.techidaily.com/convert-and-save-videos-from-genvideos-in-various-formats-mp4-mov-avi-for-pc-or-mac/"><u>Convert and Save Videos From GenVideos in Various Formats (MP4, MOV, AVI) for PC or Mac</u></a></li>
+<li><a href="https://win-net.techidaily.com/convert-and-save-your-favorite-disclosetv-videos-as-high-quality-mp4-files-with-easy-converter-tools/"><u>Convert and Save Your Favorite Disclose.tv Videos as High-Quality MP4 Files with Easy Converter Tools</u></a></li>
+<li><a href="https://win-net.techidaily.com/convert-your-favorite-movie-and-tv-show-previews-from-itunes-downloads-to-mp4-format/"><u>Convert Your Favorite Movie and TV Show Previews From iTunes Downloads to MP4 Format</u></a></li>
+<li><a href="https://win-net.techidaily.com/download-and-convert-music-from-any-playlist-to-multiple-file-types-including-aac-m4a-flac-etc/"><u>Download and Convert Music From Any Playlist to Multiple File Types Including AAC, M4A, FLAC Etc.</u></a></li>
+<li><a href="https://win-net.techidaily.com/download-and-extract-audio-tracks-from-youtube-as-multiple-file-types-mp3-wma-flac-etc/"><u>Download and Extract Audio Tracks From YouTube as Multiple File Types (MP3, WMA, FLAC, Etc.)</u></a></li>
+<li><a href="https://win-net.techidaily.com/download-and-save-vids-as-mp4-with-gorillavid-tool-the-ultimate-guide-for-smooth-downloading-experience/"><u>Download and Save Vids as MP4 with GorillaVid Tool: The Ultimate Guide for Smooth Downloading Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-and-effective-methods-for-factory-resetting-your-dell-pc-or-laptop/"><u>Easy and Effective Methods for Factory Resetting Your Dell PC or Laptop</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-honor-play-40c-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Honor Play 40C Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-guide-transforming-your-yt-gaming-content-with-hashtags-for-2024/"><u>Step-by-Step Guide Transforming Your YT Gaming Content with Hashtags for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Complete Step-by-Step Tutorial on Performing a Clean Reset of Windows 11 While Preserving Your Personal Files and Applications
-date: 2024-09-20T21:26:59.189Z
-updated: 2024-09-26T00:05:19.257Z
+date: 2024-09-26T04:21:00.401Z
+updated: 2024-09-30T10:19:11.209Z
 tags:
   - windows
 categories:
@@ -28,10 +28,10 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 ## How to set up God Mode in Windows 11 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check your account
@@ -39,13 +39,6 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Create a new folder
 
@@ -62,37 +55,24 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -111,6 +91,13 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -122,6 +109,13 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -162,18 +156,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-basics-of-effective-fb-ad-cta-design-for-2024/"><u>[New] Basics of Effective FB Ad CTA Design for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-analysis-on-slomo-video-softwares-performance/"><u>[New] Expert Analysis on SloMo Video Software's Performance</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-arsenal-of-classics-top-7-precision-games/"><u>[Updated] 2024 Approved Arsenal of Classics Top 7 Precision Games</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-ultimate-hexa-copter-ranks-unveiled/"><u>2024 Approved Ultimate Hexa-Copter Ranks Unveiled</u></a></li>
-<li><a href="https://win-net.techidaily.com/creative-tims-react-ui-kit-with-bootstrap-4-and-react-hooks-get-your-free-copy-today/"><u>Creative Tim's React UI Kit with Bootstrap 4 & React Hooks - Get Your FREE Copy Today!</u></a></li>
-<li><a href="https://win-net.techidaily.com/customizing-flipbook-with-your-corporate-insignia-in-the-application-interface/"><u>Customizing FlipBook with Your Corporate Insignia in the Application Interface</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-a-non-functional-printer-in-the-os-environment/"><u>Fixing a Non-Functional Printer in the OS Environment</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/vision-to-value-an-all-inclusive-guide-on-analyzing-views-clicks-and-monetization-for-2024/"><u>From Vision to Value An All-Inclusive Guide on Analyzing Views, Clicks, & Monetization for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-plus-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Plus to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-real-time-vr-hardware-analysis/"><u>In 2024, Real-Time VR Hardware Analysis</u></a></li>
-<li><a href="https://win-net.techidaily.com/scaling-recipes-requires-increasing-ingredients-at-the-same-rate-to-maintain-flavor-balance/"><u>Scaling Recipes Requires Increasing Ingredients at the Same Rate to Maintain Flavor Balance.</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/1714916461400-sound-effects-for-podcasts-11-places-to-find-them-for-2024/"><u>Sound Effects for Podcasts 11 Places To Find Them for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/stunning-bootstrapped-landing-pages-at-no-cost-get-started-with-creative-tim/"><u>Stunning Bootstrapped Landing Pages at No Cost - Get Started with Creative Tim</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-from-aspect-ratio-woes-to-winning-instagram-square-video/"><u>[New] From Aspect Ratio Woes to Winning Instagram Square Video</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-high-tech-5-live-screen-recorders-for-2024/"><u>[New] High-Tech 5 Live Screen Recorders for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-one-step-guide-for-sharing-tiktok-videos-on-facebook/"><u>[Updated] In 2024, One-Step Guide for Sharing TikTok Videos on Facebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-best-love-stories-perfectly-captured-weddings/"><u>2024 Approved YouTube's Best Love Stories Perfectly Captured Weddings</u></a></li>
+<li><a href="https://win-net.techidaily.com/affordable-professional-productivity-secure-microsoft-office-on-windowsmac-at-an-unbelievable-price-of-only-25-detailed-deal-info-available-here/"><u>Affordable Professional Productivity: Secure Microsoft Office on Windows/Mac at an Unbelievable Price of Only $25 – Detailed Deal Info Available Here!</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oneplus-nord-ce-3-lite-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on OnePlus Nord CE 3 Lite 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/automatic-onedrive-folder-sync-activated-in-windows-11-update-unwanted-changes-tech-analysis/"><u>Automatic OneDrive Folder Sync Activated in Windows 11 Update: Unwanted Changes? - Tech Analysis</u></a></li>
+<li><a href="https://review-topics.techidaily.com/expert-review-of-the-portable-aphaca-bt69-bluetooth-fm-broadcasting-device-for-cars/"><u>Expert Review of the Portable Aphaca BT69 Bluetooth FM Broadcasting Device for Cars</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-convert-rip-proof-dvds-into-multiple-formats-like-avi-mp4-mkv-and-more/"><u>How to Convert Rip-Proof DVDs Into Multiple Formats Like AVI, MP4, MKV & More</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-to-extend-the-life-of-your-old-computer-on-windows-n-top-5-strategies-cost-free-zdnet-insights/"><u>How to Extend the Life of Your Old Computer on Windows N: Top 5 Strategies (Cost-Free!) | ZDNET Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-subtitle-files-like-a-pro-in-macos/"><u>In 2024, Navigating Subtitle Files Like a Pro in macOS</u></a></li>
+<li><a href="https://win-net.techidaily.com/quick-and-simple-steps-for-snapping-screenshots-of-any-webpage/"><u>Quick and Simple Steps for Snapping Screenshots of Any Webpage!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/swift-and-simple-method-for-screenshots-on-ios-devices-for-2024/"><u>Swift and Simple Method for Screenshots on IOS Devices for 2024</u></a></li>
 </ul></div>
 

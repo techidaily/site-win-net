@@ -1,7 +1,7 @@
 ---
 title: "Impact of DDoS Cyberattacks: How Microsoft's Office 365 Services Were Compromised - Insights From ZDNet"
-date: 2024-09-22T21:01:48.552Z
-updated: 2024-09-25T16:10:11.585Z
+date: 2024-09-27T21:08:34.654Z
+updated: 2024-09-30T04:04:49.069Z
 tags:
   - microsoft
 categories:
@@ -114,29 +114,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-quick-pics-windows-11s-fast-photo-viewer/"><u>[New] 2024 Approved Quick Pics Windows 11'S Fast Photo Viewer</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-precision-guide-for-subtitles-insertion-in-mp4-files/"><u>[Updated] Precision Guide for Subtitles Insertion in MP4 Files</u></a></li>
-<li><a href="https://article-tips.techidaily.com/bridging-the-gap-how-to-successfully-export-srt-from-premiere/"><u>Bridging the Gap How to Successfully Export SRT From Premiere</u></a></li>
-<li><a href="https://win-net.techidaily.com/copilot-vs-microsofts-ai-assistant-evaluating-cost-effectiveness-for-your-tech-needs-zdnet/"><u>Copilot Vs. Microsoft's AI Assistant: Evaluating Cost-Effectiveness for Your Tech Needs | ZDNet</u></a></li>
-<li><a href="https://win-net.techidaily.com/evolving-with-the-times-how-microsofts-consumer-approach-is-shifting-according-to-zdnet/"><u>Evolving with the Times: How Microsoft's Consumer Approach Is Shifting, According to ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-infinix-hot-40-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Hot 40 Fingerprint Lock</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-engage-audiences-effortlessly-social-medias-screen-share-guide/"><u>In 2024, Engage Audiences Effortlessly Social Media's Screen Share Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-6-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 6 Plus Apple ID and Apple Pay</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/learning-leaders-most-influential-edu-tutorials-yt/"><u>Learning Leaders Most Influential Edu Tutorials YT</u></a></li>
-<li><a href="https://win-net.techidaily.com/microsofts-response-key-privacy-and-security-enhancements-post-tough-feedback-technewszdnet/"><u>Microsoft's Response: Key Privacy & Security Enhancements Post-Tough Feedback | TechNewsZDNet</u></a></li>
-<li><a href="https://win-net.techidaily.com/navigate-your-deskless-files-with-windows-ai-powered-recall-feature-exclusive-guide/"><u>Navigate Your Deskless Files with Windows' AI-Powered Recall Feature – Exclusive Guide</u></a></li>
-<li><a href="https://win-net.techidaily.com/signing-into-windows-11-using-a-microsoft-365-business-account-benefits-and-steps-explained/"><u>Signing Into Windows 11 Using a Microsoft 365 Business Account: Benefits & Steps Explained</u></a></li>
-<li><a href="https://driver-download.techidaily.com/simplify-your-system-seamless-drivers-updates-with-windows/"><u>Simplify Your System: Seamless Drivers Updates with Windows</u></a></li>
-<li><a href="https://win-net.techidaily.com/the-shocking-revelation-from-microsofts-quest-for-workplace-joy-and-engagement/"><u>The Shocking Revelation From Microsoft's Quest for Workplace Joy and Engagement</u></a></li>
-<li><a href="https://win-net.techidaily.com/unveiling-microsofts-windows-11-se-the-latest-educational-computing-solutions-by-pc-manufacturers/"><u>Unveiling Microsoft's Windows 11 SE: The Latest Educational Computing Solutions by PC Manufacturers</u></a></li>
-<li><a href="https://win-net.techidaily.com/unveiling-windows-11-se-pc-manufacturers-newest-venture-in-educational-technology-insights-from-zdnet/"><u>Unveiling Windows 11 SE: PC Manufacturers' Newest Venture in Educational Technology - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-masterful-zoom-sound-adjustment-guide-clearer-cleaner-sounds/"><u>[New] Masterful Zoom Sound Adjustment Guide Clearer, Cleaner Sounds</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-shatter-the-illusion-true-viewers-of-your-insta-posts-revealed-for-2024/"><u>[Updated] Shatter the Illusion True Viewers of Your Insta Posts Revealed for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-hindered-by-low-available-resources/"><u>Device Hindered by Low Available Resources</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/essential-steps-for-fb-file-transfers-on-linux-mac/"><u>Essential Steps for FB File Transfers on Linux, Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-search-issues-and-enhance-usability-in-your-windows-11-system/"><u>How to Fix Search Issues and Enhance Usability in Your Windows 11 System</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-to-install-and-use-flipbuilder-app-directly-from-your-usb-a-complete-guide/"><u>How to Install and Use FlipBuilder App Directly From Your USB: A Complete Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-to-modify-page-colors-in-your-flipbooks-with-flipbuilder-a-comprehensive-guide/"><u>How to Modify Page Colors in Your Flipbooks with FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-to-select-and-import-specific-pages-from-your-document-using-flipbuilder/"><u>How to Select and Import Specific Pages From Your Document Using FlipBuilder</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-for-using-zoom-via-gmail/"><u>In 2024, Step-by-Step Guide for Using Zoom via Gmail</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-photos-using-adobes-power/"><u>In 2024, Transform Your Photos Using Adobe's Power</u></a></li>
+<li><a href="https://win-net.techidaily.com/incorporating-timestamps-into-text-documents-for-flash-book-creation-on-flipbuilder/"><u>Incorporating Timestamps Into Text Documents for Flash Book Creation on FlipBuilder</u></a></li>
+<li><a href="https://win-net.techidaily.com/master-the-art-of-self-made-picture-albums-using-flipbuilders-step-by-step-guide/"><u>Master the Art of Self-Made Picture Albums Using FlipBuilder's Step-by-Step Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/mastering-flipbook-shadows-a-step-by-step-guide-on-precision-alignment/"><u>Mastering FlipBook Shadows: A Step-by-Step Guide on Precision Alignment</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-process-how-to-undo-a-windows-11-update/"><u>Navigating the Process: How To Undo a Windows 11 Update</u></a></li>
+<li><a href="https://win-net.techidaily.com/no-charge-image-to-pdf-maker-expert-tool-for-mass-converting-pictures-to-professional-pdf-formats/"><u>No Charge Image to Pdf Maker - Expert Tool for Mass Converting Pictures to Professional PDF Formats</u></a></li>
+<li><a href="https://win-net.techidaily.com/optimizing-your-flipbuildercom-e-book-for-mobile-devices-a-comprehensive-guide/"><u>Optimizing Your FlipBuilder.com E-Book for Mobile Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/protecting-your-digital-content-ensuring-only-authorized-users-read-your-published-flipbooks-on-flipbuildercom/"><u>Protecting Your Digital Content - Ensuring Only Authorized Users Read Your Published FlipBooks on FlipBuilder.com</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722883487115-troubleshooting-guide-for-resolving-netflix-playback-problems/"><u>Troubleshooting Guide for Resolving Netflix Playback Problems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-realme-11-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Realme 11 5G Phone Network-Ready</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
