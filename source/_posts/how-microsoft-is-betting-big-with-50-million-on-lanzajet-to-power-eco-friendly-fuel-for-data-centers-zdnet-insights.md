@@ -1,7 +1,7 @@
 ---
 title: How Microsoft Is Betting Big with $50 Million on LanzaJet to Power Eco-Friendly Fuel for Data Centers | ZDNet Insights
-date: 2024-09-27T02:37:16.647Z
-updated: 2024-09-30T14:14:55.167Z
+date: 2024-10-03T18:52:27.458Z
+updated: 2024-10-05T16:31:34.420Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-detailed-guide-on-making-gifs-into-stickers-whatsapp-discord-and-telegram-edition/"><u>[New] A Detailed Guide on Making GIFs Into Stickers WhatsApp, Discord & Telegram Edition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-compilation-of-the-best-10-image-sharing-sites/"><u>[Updated] A Compilation of the Best 10 Image Sharing Sites</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigate-the-world-of-video-conferencing/"><u>2024 Approved Navigate the World of Video Conferencing</u></a></li>
-<li><a href="https://win-net.techidaily.com/adding-hyperlinks-to-pdf-flipbooks-is-it-possible-with-flipbuilders-tools/"><u>Adding Hyperlinks to PDF Flipbooks: Is It Possible with FlipBuilder's Tools?</u></a></li>
-<li><a href="https://win-net.techidaily.com/are-there-file-size-requirements-for-creating-a-flipbook-from-pdf-inputs-in-flipbuilder-software/"><u>Are There File Size Requirements for Creating a Flipbook From PDF Inputs in FlipBuilder Software?</u></a></li>
-<li><a href="https://win-net.techidaily.com/arranging-images-in-advance-tips-for-a-seamless-flipbook-conversion-with-flipbuilder/"><u>Arranging Images in Advance: Tips for a Seamless Flipbook Conversion with FlipBuilder</u></a></li>
-<li><a href="https://win-net.techidaily.com/bulk-upgrade-offer-transform-multiple-pdf-files-into-dynamic-flash-ebooks-for-free/"><u>Bulk Upgrade Offer: Transform Multiple PDF Files Into Dynamic Flash eBooks for Free!</u></a></li>
-<li><a href="https://win-net.techidaily.com/create-personalized-booklets-from-multiple-pdfs-at-once-with-flipbuilder-easy-guide/"><u>Create Personalized Booklets From Multiple PDFs at Once with FlipBuilder - Easy Guide</u></a></li>
-<li><a href="https://win-net.techidaily.com/creating-customized-backdrops-adding-your-business-emblem-to-flipbook-pages-using-flipbuilder/"><u>Creating Customized Backdrops: Adding Your Business Emblem to FlipBook Pages Using FlipBuilder</u></a></li>
-<li><a href="https://win-net.techidaily.com/creative-image-editing-tips-incornating-clipart-for-stunning-visuals-on-flipbuilder/"><u>Creative Image Editing Tips: Incornating Clipart for Stunning Visuals on FlipBuilder</u></a></li>
-<li><a href="https://win-net.techidaily.com/creative-visual-styling-step-by-step-instructions-for-incorpressing-clipart-in-images-with-flipbuilder/"><u>Creative Visual Styling: Step-by-Step Instructions for Incorpressing Clipart in Images with FlipBuilder</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-guide-steps-to-successfully-change-your-ipads-battery/"><u>DIY Guide: Steps to Successfully Change Your iPad's Battery</u></a></li>
-<li><a href="https://win-net.techidaily.com/download-ready-flipbooks-a-simple-guide-on-setting-up-your-site-with-flipbuilder/"><u>Download-Ready Flipbooks: A Simple Guide on Setting Up Your Site with FlipBuilder</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27-4g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y27 4G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-honor-v-purse-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Honor V Purse Phone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-simplified-avi-to-gif-editing-with-filmora-on-windows-and-macos-platforms/"><u>In 2024, Simplified AVI to GIF Editing with Filmora on Windows & macOS Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-windows-11-error-0xc19001e1/"><u>Troubleshooting Guide: Fixing Windows 11 Error 0xC19001E1</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-poco-x6-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Poco X6 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-repair-guide-when-your-btws-mic-fails-to-function/"><u>Ultimate Repair Guide: When Your BTWS Mic Fails to Function</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-best-free-and-paid-drawing-apps-for-android-os/"><u>[New] 2024 Approved Best Free and Paid Drawing Apps for Android OS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-top-tweets-on-screen-expert-guide-for-capturing-vids/"><u>[New] Top Tweets on Screen Expert Guide for Capturing Vids</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-output-on-facebook-with-these-5-proven-methods/"><u>Boost Your Output on Facebook with These 5 Proven Methods</u></a></li>
+<li><a href="https://win-net.techidaily.com/convert-and-save-videos-from-genvideos-in-various-formats-mp4-mov-avi-for-pc-or-mac/"><u>Convert and Save Videos From GenVideos in Various Formats (MP4, MOV, AVI) for PC or Mac</u></a></li>
+<li><a href="https://win-net.techidaily.com/convert-and-save-your-favorite-disclosetv-videos-as-high-quality-mp4-files-with-easy-converter-tools/"><u>Convert and Save Your Favorite Disclose.tv Videos as High-Quality MP4 Files with Easy Converter Tools</u></a></li>
+<li><a href="https://win-net.techidaily.com/convert-your-favorite-movie-and-tv-show-previews-from-itunes-downloads-to-mp4-format/"><u>Convert Your Favorite Movie and TV Show Previews From iTunes Downloads to MP4 Format</u></a></li>
+<li><a href="https://win-net.techidaily.com/download-and-convert-music-from-any-playlist-to-multiple-file-types-including-aac-m4a-flac-etc/"><u>Download and Convert Music From Any Playlist to Multiple File Types Including AAC, M4A, FLAC Etc.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-overcome-hp-beats-sound-card-installation-challenges-in-windows-1087-environments/"><u>How to Overcome HP Beats Sound Card Installation Challenges in Windows 10/8/7 Environments</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/anked-5-game-chat-systems-for-vloggers-for-2024/"><u>Top-Ranked 5 Game Chat Systems for Vloggers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-power-of-virtual-reality-learn-to-stream-and-play-games-with-steam-and-meta-quest/"><u>Unlock the Power of Virtual Reality - Learn to Stream and Play Games with Steam & Meta Quest</u></a></li>
 </ul></div>
 

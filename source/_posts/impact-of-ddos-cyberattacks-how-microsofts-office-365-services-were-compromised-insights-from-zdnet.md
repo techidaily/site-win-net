@@ -1,7 +1,7 @@
 ---
 title: "Impact of DDoS Cyberattacks: How Microsoft's Office 365 Services Were Compromised - Insights From ZDNet"
-date: 2024-09-27T21:08:34.654Z
-updated: 2024-09-30T04:04:49.069Z
+date: 2024-10-02T17:16:11.601Z
+updated: 2024-10-05T16:59:25.449Z
 tags:
   - microsoft
 categories:
@@ -114,31 +114,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-masterful-zoom-sound-adjustment-guide-clearer-cleaner-sounds/"><u>[New] Masterful Zoom Sound Adjustment Guide Clearer, Cleaner Sounds</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-shatter-the-illusion-true-viewers-of-your-insta-posts-revealed-for-2024/"><u>[Updated] Shatter the Illusion True Viewers of Your Insta Posts Revealed for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-hindered-by-low-available-resources/"><u>Device Hindered by Low Available Resources</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/essential-steps-for-fb-file-transfers-on-linux-mac/"><u>Essential Steps for FB File Transfers on Linux, Mac</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-search-issues-and-enhance-usability-in-your-windows-11-system/"><u>How to Fix Search Issues and Enhance Usability in Your Windows 11 System</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-to-install-and-use-flipbuilder-app-directly-from-your-usb-a-complete-guide/"><u>How to Install and Use FlipBuilder App Directly From Your USB: A Complete Guide</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-to-modify-page-colors-in-your-flipbooks-with-flipbuilder-a-comprehensive-guide/"><u>How to Modify Page Colors in Your Flipbooks with FlipBuilder - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-to-select-and-import-specific-pages-from-your-document-using-flipbuilder/"><u>How to Select and Import Specific Pages From Your Document Using FlipBuilder</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-for-using-zoom-via-gmail/"><u>In 2024, Step-by-Step Guide for Using Zoom via Gmail</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-photos-using-adobes-power/"><u>In 2024, Transform Your Photos Using Adobe's Power</u></a></li>
-<li><a href="https://win-net.techidaily.com/incorporating-timestamps-into-text-documents-for-flash-book-creation-on-flipbuilder/"><u>Incorporating Timestamps Into Text Documents for Flash Book Creation on FlipBuilder</u></a></li>
-<li><a href="https://win-net.techidaily.com/master-the-art-of-self-made-picture-albums-using-flipbuilders-step-by-step-guide/"><u>Master the Art of Self-Made Picture Albums Using FlipBuilder's Step-by-Step Guide</u></a></li>
-<li><a href="https://win-net.techidaily.com/mastering-flipbook-shadows-a-step-by-step-guide-on-precision-alignment/"><u>Mastering FlipBook Shadows: A Step-by-Step Guide on Precision Alignment</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-process-how-to-undo-a-windows-11-update/"><u>Navigating the Process: How To Undo a Windows 11 Update</u></a></li>
-<li><a href="https://win-net.techidaily.com/no-charge-image-to-pdf-maker-expert-tool-for-mass-converting-pictures-to-professional-pdf-formats/"><u>No Charge Image to Pdf Maker - Expert Tool for Mass Converting Pictures to Professional PDF Formats</u></a></li>
-<li><a href="https://win-net.techidaily.com/optimizing-your-flipbuildercom-e-book-for-mobile-devices-a-comprehensive-guide/"><u>Optimizing Your FlipBuilder.com E-Book for Mobile Devices: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-net.techidaily.com/protecting-your-digital-content-ensuring-only-authorized-users-read-your-published-flipbooks-on-flipbuildercom/"><u>Protecting Your Digital Content - Ensuring Only Authorized Users Read Your Published FlipBooks on FlipBuilder.com</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722883487115-troubleshooting-guide-for-resolving-netflix-playback-problems/"><u>Troubleshooting Guide for Resolving Netflix Playback Problems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-realme-11-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Realme 11 5G Phone Network-Ready</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-overhaul-the-2023-updates-explained/"><u>[New] Facebook Overhaul The 2023 Updates Explained</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-sly-satire-crafting-digital-chuckles-on-kapwing/"><u>[New] In 2024, Sly Satire Crafting Digital Chuckles on Kapwing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-10-sizzling-tiktok-cooking-secrets/"><u>[Updated] 10 Sizzling TikTok Cooking Secrets</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-streamline-your-virtual-gatherings-with-this-10-free-web-application-list/"><u>[Updated] Streamline Your Virtual Gatherings With This 10 Free Web Application List</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unplugged-entertainment-essential-free-apps-for-offline-playing-for-2024/"><u>[Updated] Unplugged Entertainment Essential Free Apps for Offline Playing for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/accelerate-your-workflow-effortless-free-tools-for-shrinking-tiff-files-quickly/"><u>Accelerate Your Workflow: Effortless, Free Tools for Shrinking TIFF Files Quickly</u></a></li>
+<li><a href="https://win-net.techidaily.com/browser-based-game-emulators-relive-the-classics-with-just-a-click/"><u>Browser-Based Game Emulators: Relive the Classics with Just a Click</u></a></li>
+<li><a href="https://win-net.techidaily.com/comprehensive-tutorials-mastering-screen-capture-in-ios-11/"><u>Comprehensive Tutorials: Mastering Screen Capture in iOS 11</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-to-transform-3gp-videos-into-wmv-format-guide-on-free-and-shareable-software-solutions/"><u>How to Transform 3GP Videos Into WMV Format: Guide on Free & Shareable Software Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-tecno-spark-20-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Tecno Spark 20 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-future-is-now-harnessing-instagrams-newest-filter-features/"><u>In 2024, The Future Is Now Harnessing Instagram's Newest Filter Features</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximizing-frame-rate-for-better-gameplay-in-tainted-grails-conquest-mode/"><u>Maximizing Frame Rate for Better Gameplay in Tainted Grail's Conquest Mode</u></a></li>
+<li><a href="https://win-net.techidaily.com/quick-guide-converting-f4v-video-clips-to-compatible-mp4-files/"><u>Quick Guide: Converting F4V Video Clips to Compatible MP4 Files</u></a></li>
+<li><a href="https://win-net.techidaily.com/revolutionize-your-iphone-usage-with-proven-techniques-for-enhanced-battery-performance/"><u>Revolutionize Your iPhone Usage with Proven Techniques for Enhanced Battery Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-iphone-video-capture-apps/"><u>Top 10 iPhone Video Capture Apps</u></a></li>
+<li><a href="https://win-net.techidaily.com/top-picks-the-ultimate-review-of-leading-gif-capture-software/"><u>Top Picks: The Ultimate Review of Leading GIF Capture Software</u></a></li>
+<li><a href="https://win-net.techidaily.com/top-three-strategies-for-safeguarding-your-android-contact-data/"><u>Top Three Strategies for Safeguarding Your Android Contact Data</u></a></li>
+<li><a href="https://win-net.techidaily.com/top-ranking-quick-video-clips-tools-of-2021/"><u>Top-Ranking Quick Video Clips Tools of 2021</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-where-is-d3dx9amoleddll-fixes-for-when-its-nowhere-to-be-found/"><u>Troubleshooting: Where Is d3dx9_amoled.dll? Fixes for When It's Nowhere to Be Found</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Evolving with the Times: How Microsoft's Consumer Approach Is Shifting, According to ZDNet"
-date: 2024-09-29T04:53:07.376Z
-updated: 2024-09-29T22:11:16.518Z
+date: 2024-09-29T19:37:44.919Z
+updated: 2024-10-05T17:39:47.713Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-essential-apps-for-professional-video-editing-on-androidpc/"><u>[New] 2024 Approved Essential Apps for Professional Video Editing on Android/PC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-smartly-schedule-facebook-posts-exclusive-free-access/"><u>[New] In 2024, Smartly Schedule Facebook Posts - Exclusive Free Access</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-recover-lost-watch-visual-preview-for-2024/"><u>[New] Recover Lost Watch Visual Preview for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-discovering-pc-gaming-the-quintessential-5-gb-advance-emulators/"><u>[Updated] 2024 Approved Discovering PC Gaming The Quintessential 5 GB Advance Emulators</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-illustrator-wizards-guide-to-3d-text/"><u>[Updated] 2024 Approved The Illustrator Wizard's Guide to 3D Text</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expert-insights-bridging-obs-and-facebook-live-streaming-for-2024/"><u>[Updated] Expert Insights Bridging OBS and Facebook Live Streaming for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/convert-and-save-your-favorite-disclosetv-videos-as-high-quality-mp4-files-with-easy-converter-tools/"><u>Convert and Save Your Favorite Disclose.tv Videos as High-Quality MP4 Files with Easy Converter Tools</u></a></li>
-<li><a href="https://win-net.techidaily.com/convert-your-favorite-movie-and-tv-show-previews-from-itunes-downloads-to-mp4-format/"><u>Convert Your Favorite Movie and TV Show Previews From iTunes Downloads to MP4 Format</u></a></li>
-<li><a href="https://win-net.techidaily.com/download-and-convert-music-from-any-playlist-to-multiple-file-types-including-aac-m4a-flac-etc/"><u>Download and Convert Music From Any Playlist to Multiple File Types Including AAC, M4A, FLAC Etc.</u></a></li>
-<li><a href="https://win-net.techidaily.com/download-and-extract-audio-tracks-from-youtube-as-multiple-file-types-mp3-wma-flac-etc/"><u>Download and Extract Audio Tracks From YouTube as Multiple File Types (MP3, WMA, FLAC, Etc.)</u></a></li>
-<li><a href="https://win-net.techidaily.com/download-and-save-vids-as-mp4-with-gorillavid-tool-the-ultimate-guide-for-smooth-downloading-experience/"><u>Download and Save Vids as MP4 with GorillaVid Tool: The Ultimate Guide for Smooth Downloading Experience</u></a></li>
-<li><a href="https://win-net.techidaily.com/download-hd-lgbtqplus-adult-films-in-multiple-formats-mp4-mov-avi/"><u>Download HD LGBTQ+ Adult Films in Multiple Formats (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://win-net.techidaily.com/download-tmz-celeb-gossip-in-high-quality-formats-mp4-mov-avi-with-easy-tmz-video-extractor/"><u>Download TMZ Celeb Gossip in High-Quality Formats (MP4, MOV, AVI) with Easy TMZ Video Extractor</u></a></li>
-<li><a href="https://win-net.techidaily.com/download-zootopia-movie-in-high-quality-formats-mp4-mov-and-avi-streaming-free/"><u>Download Zootopia Movie in High-Quality Formats: MP4, MOV & AVI Streaming - Free!</u></a></li>
-<li><a href="https://win-net.techidaily.com/effortless-podomatic-repository-save-your-favorite-episodes-and-tunes-from-the-cloud/"><u>Effortless PodOmatic Repository: Save Your Favorite Episodes & Tunes From the Cloud</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-2023s-ultimate-list-of-affordable-live-stream-software-and-apps/"><u>In 2024, 2023’S Ultimate List of Affordable Live Stream Software and Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-taking-stock-of-magix-project-management-app/"><u>In 2024, Taking Stock of MAGIX Project Management App</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721471825106-struggling-with-unrecognized-iphones-in-itunesfinder-discover-effective-solutions-here/"><u>Struggling with Unrecognized iPhones in iTunes/Finder? Discover Effective Solutions Here!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-the-premium-experience-a-deep-dive-into-the-iphone-xs-max/"><u>Unboxing the Premium Experience: A Deep Dive Into the iPhone XS Max</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-insta-snap-confirmation-essentials-unveiled/"><u>[New] In 2024, Insta Snap Confirmation Essentials Unveiled</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-navigating-the-convergence-of-obs-and-zoom-for-enhanced-streaming/"><u>[New] In 2024, Navigating the Convergence of OBS & Zoom for Enhanced Streaming</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebooks-10-best-music-clips-making-them-happen/"><u>[Updated] Facebook's 10 Best Music Clips Making Them Happen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-screen-pro-tips-and-tricks-for-editors/"><u>[Updated] Full Screen Pro Tips and Tricks for Editors</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastering-windows-11-movie-maker-a-step-by-step-guide/"><u>[Updated] In 2024, Mastering Windows 11 Movie Maker A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/1-best-no-cost-ipad-video-transformers-on-mac/"><u>1. Best No-Cost iPad Video Transformers on Mac</u></a></li>
+<li><a href="https://win-net.techidaily.com/1-how-to-smoothly-stream-wma-files-on-your-iphone/"><u>1. How to Smoothly Stream WMA Files on Your iPhone</u></a></li>
+<li><a href="https://win-net.techidaily.com/best-4-video-editing-software-of-2018-a-comprehensive-guide/"><u>Best 4 Video Editing Software of 2018: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-methods-for-recording-webinars-with-gotowebina/"><u>Effective Methods for Recording Webinars with Gotowebina</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-strategies-for-converting-mts-files-into-mp4-format/"><u>Effective Strategies for Converting MTS Files Into MP4 Format</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-techniques-for-isolating-audio-in-mp4-file-format/"><u>Effective Techniques for Isolating Audio in MP4 File Format</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-easily-eliminate-windows-11-user-profiles-via-revouninstaller/"><u>Expert Advice: How to Easily Eliminate Windows 11 User Profiles via RevoUninstaller</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-your-focus-a-guide-to-roblox-tight-scopes/"><u>In 2024, Perfect Your Focus A Guide to Roblox Tight Scopes</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-samsung-galaxy-a34-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy A34 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-effortlessly-import-blackberry-contacts-onto-your-iphone-65s/"><u>Step-by-Step Guide: Effortlessly Import BlackBerry Contacts Onto Your iPhone 6/5S</u></a></li>
+<li><a href="https://win-net.techidaily.com/ultimate-guide-mastering-the-art-of-deleting-playlists-from-your-iphone/"><u>Ultimate Guide: Mastering the Art of Deleting Playlists From Your iPhone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unlocking-visual-treasures-without-cost/"><u>Unlocking Visual Treasures Without Cost</u></a></li>
 </ul></div>
 
