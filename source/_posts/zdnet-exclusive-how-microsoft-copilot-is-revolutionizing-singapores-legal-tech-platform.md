@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: How Microsoft Copilot Is Revolutionizing Singapore's Legal Tech Platform"
-date: 2024-09-28T20:33:21.804Z
-updated: 2024-10-05T17:03:55.732Z
+date: 2024-10-09T10:54:47.594Z
+updated: 2024-10-11T01:04:13.965Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,19 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,22 +202,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-shaping-public-perception-5-essentials-for-instagram-marketing-mavericks/"><u>[New] In 2024, Shaping Public Perception 5 Essentials for Instagram Marketing Mavericks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cloaking-in-content-an-introduction-to-video-smoothing/"><u>[Updated] In 2024, Cloaking in Content An Introduction to Video Smoothing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-top-tier-editing-suites-in-apples-macos-big-sur-release/"><u>2024 Approved Top-Tier Editing Suites in Apple's MacOS Big Sur Release</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/pciphone-itunes/"><u>完全実現のテクニック：PCからiPhoneへの動画移行 - iTunesでない最も優れた方法</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/achieving-fluidity-in-audio-blending-using-audacity-tools-for-2024/"><u>Achieving Fluidity in Audio Blending Using Audacity Tools for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/affordable-microsoft-office-2019-bundle-at-25-installation-steps-for-windows-and-mac-users-expert-insights-from-zdnet/"><u>Affordable Microsoft Office 2019 Bundle at $25 - Installation Steps for Windows and Mac Users | Expert Insights From ZDNET</u></a></li>
-<li><a href="https://win-net.techidaily.com/affordable-microsoft-software-upgrade-save-with-20-off-on-project-and-visio-pros-offered-by-zdnet-exclusive/"><u>Affordable Microsoft Software Upgrade: Save with $20 Off on Project and Visio Pros, Offered by ZDNET Exclusive!</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/bringing-jujutsu-kaisen-characters-to-life-online-for-2024/"><u>Bringing Jujutsu Kaisen Characters to Life Online for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/former-microsoft-leader-steve-ballmer-concedes-lack-of-bravery-in-bold-revelation-tech-news-by-zdnet/"><u>Former Microsoft Leader Steve Ballmer Concedes Lack of Bravery in Bold Revelation | Tech News by ZDNet</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-word-2013-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for Word 2013</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-green-screen-apps-you-need-to-try-on-your-android-or-ios-device/"><u>Free Green Screen Apps You Need to Try on Your Android or iOS Device</u></a></li>
-<li><a href="https://win-net.techidaily.com/inside-microsofts-next-gen-ai-chip-showdown-against-the-apple-macbook-what-i-learned-from-the-experts-at-zdnet/"><u>Inside Microsoft's Next-Gen AI Chip Showdown Against the Apple MacBook – What I Learned From the Experts at ZDNET</u></a></li>
-<li><a href="https://win-net.techidaily.com/mastering-windows-11-vms-a-comprehensive-walkthrough-for-flawless-performance-tips-by-zdnet-experts/"><u>Mastering Windows 11 VMs: A Comprehensive Walkthrough for Flawless Performance - Tips by ZDNet Experts</u></a></li>
-<li><a href="https://win-net.techidaily.com/microsoft-announces-plans-for-a-revamped-windows-update-calendar-insights-from-zdnet/"><u>Microsoft Announces Plans for a Revamped Windows Update Calendar - Insights From ZDNet</u></a></li>
-<li><a href="https://win-net.techidaily.com/microsofts-major-challenge-addressing-windows-11-issues-before-the-clock-runs-out-insights-from-zdnet/"><u>Microsoft's Major Challenge: Addressing Windows 11 Issues Before the Clock Runs Out - Insights From ZDNet</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitters-guide-to-downloading-gifs-a-step-by-step-approach/"><u>Twitter's Guide to Downloading GIFs A Step-by-Step Approach</u></a></li>
-<li><a href="https://win-net.techidaily.com/unlock-the-potential-of-windows-11-by-integrating-your-microsoft-365-business-profile-a-step-by-step-guide-and-reasons-to-do-so/"><u>Unlock the Potential of Windows 11 by Integrating Your Microsoft 365 Business Profile – A Step-by-Step Guide and Reasons to Do So!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-exploring-the-features-of-vimeos-innovative-recorder/"><u>[New] Exploring the Features of Vimeo's Innovative Recorder</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/niting-subscribers-through-shared-playlists/"><u>[New] Uniting Subscribers Through Shared Playlists</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/iuwlleeuupluswmluobruajiplusmghjrpq5jlk4hos6rjg5pjg4fjgqrjgbjjga7lpinmj5vmlrnms5ui/"><u>動画化の手順:高品質ビデオへの変換方法</u></a></li>
+<li><a href="https://win-net.techidaily.com/accelerate-your-pages-with-expert-tips-mastering-quick-page-turns-using-flipbuilder/"><u>Accelerate Your Pages with Expert Tips: Mastering Quick Page Turns Using FlipBuilder</u></a></li>
+<li><a href="https://win-net.techidaily.com/customizing-flipbook-with-your-corporate-insignia-in-the-application-interface/"><u>Customizing FlipBook with Your Corporate Insignia in the Application Interface</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-tips-to-fix-continuous-malfunctioning-of-darkest-dungeon-2-for-windows-users/"><u>Essential Tips to Fix Continuous Malfunctioning of Darkest Dungeon 2 for Windows Users</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-to-build-your-own-interactive-book-app-for-ios-and-macos-with-flipbuilder/"><u>How to Build Your Own Interactive Book App for iOS and macOS with FlipBuilder</u></a></li>
+<li><a href="https://extra-support.techidaily.com/progressive-array-of-engaging-queries-for-podcasters-for-2024/"><u>Progressive Array of Engaging Queries for Podcasters for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/troubleshooting-access-issues-with-html-ebooks-shared-via-flipbuilder-friend-compatibility/"><u>Troubleshooting Access Issues with HTML eBooks Shared via FlipBuilder - Friend Compatibility</u></a></li>
 </ul></div>
 

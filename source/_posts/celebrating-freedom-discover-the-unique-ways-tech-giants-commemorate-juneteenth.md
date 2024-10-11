@@ -1,7 +1,7 @@
 ---
 title: "Celebrating Freedom: Discover the Unique Ways Tech Giants Commemorate Juneteenth"
-date: 2024-10-03T22:58:01.999Z
-updated: 2024-10-05T19:09:24.427Z
+date: 2024-10-06T18:43:22.836Z
+updated: 2024-10-10T18:33:39.377Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +77,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -123,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,28 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,21 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-bright-future-for-your-android-videos-a-comprehensive-plan/"><u>[Updated] Bright Future for Your Android Videos - A Comprehensive Plan</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-beyond-fbx-cutting-edge-apps-for-video-game-archiving/"><u>[Updated] In 2024, Beyond FBX Cutting-Edge Apps for Video Game Archiving</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/best-value-for-money-in-budget-4k-cameras-(1000/"><u>Best Value for Money in Budget 4K Cameras (<$1,000)</u></a></li>
-<li><a href="https://win-net.techidaily.com/guide-to-converting-and-downloading-your-favorite-sky-sports-shows-in-various-formats/"><u>Guide to Converting and Downloading Your Favorite Sky Sports Shows in Various Formats</u></a></li>
-<li><a href="https://win-net.techidaily.com/guide-how-to-stream-your-favorite-tracks-from-spotify-to-apple-homepod/"><u>Guide: How to Stream Your Favorite Tracks From Spotify to Apple HomePod</u></a></li>
-<li><a href="https://win-net.techidaily.com/guide-saving-kocowa-movies-as-video-files-tips-for-mp4-mov-and-avi-conversion/"><u>Guide: Saving Kocowa Movies as Video Files - Tips for MP4, MOV, and AVI Conversion</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-to-download-la7tv-content-in-various-formats-including-mp4-and-wmv/"><u>How to Download La7.tv Content in Various Formats Including MP4 and WMV</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-to-export-360-degree-footage-from-facebook-in-various-formats-mp4-mov-avi-for-windowsmac-users/"><u>How to Export 360 Degree Footage From Facebook in Various Formats (MP4, MOV, AVI) for Windows/Mac Users</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-to-quickly-grab-220ro-streams-on-your-windows-or-mac-computer/"><u>How to Quickly Grab 220.ro Streams on Your Windows or Mac Computer</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-realme-c67-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Realme C67 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-inside-look-youtube-lives-image-interpretation/"><u>In 2024, Inside Look YouTube Live's Image Interpretation</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/master-the-art-of-video-cuts-essential-tools-for-mac-users/"><u>Master the Art of Video Cuts Essential Tools for Mac Users</u></a></li>
-<li><a href="https://win-net.techidaily.com/mp4-to-quicktime-transformation-tutorial-for-mac-os-x-yosemite-and-windows-users/"><u>MP4 to QuickTime Transformation Tutorial for Mac OS X Yosemite and Windows Users</u></a></li>
-<li><a href="https://solve-help.techidaily.com/real-time-streaming-and-virtual-camera-solutions-with-manycam/"><u>Real-Time Streaming and Virtual Camera Solutions with ManyCam</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/roku-device-face-off-express-edition-versus-original-stick/"><u>Roku Device Face-Off: Express Edition Versus Original Stick</u></a></li>
-<li><a href="https://win-dash.techidaily.com/updated-intel-wi-fiethernet-drivers-now-available-for-win-11-10-and-7-platforms/"><u>Updated Intel Wi-Fi/Ethernet Drivers Now Available for Win 11, 10 & 7 Platforms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-prime-websites-boosting-youtube-video-popularity/"><u>[New] In 2024, Prime Websites Boosting YouTube Video Popularity</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-bending-reality-a-short-history-of-virtual-space/"><u>[Updated] 2024 Approved Bending Reality A Short History of Virtual Space</u></a></li>
+<li><a href="https://win-net.techidaily.com/1-superior-viteui-dashboard-template-zero-cost-solution-for-vuejs-3-and-bootstrap-5-developers-by-creative-tim/"><u>1. Superior ViteUI Dashboard Template: Zero Cost Solution for VueJS 3 and Bootstrap 5 Developers by Creative Tim</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-keeping-your-audience-engaged-in-a-revised-social-lands-ward/"><u>2024 Approved Keeping Your Audience Engaged in a Revised Social Lands Ward</u></a></li>
+<li><a href="https://win-net.techidaily.com/advanced-material-dashboard-pro-with-bootstrap-4-and-django-a-complete-professional-admin-panel/"><u>Advanced Material Dashboard Pro with Bootstrap 4 & Django: A Complete, Professional Admin Panel</u></a></li>
+<li><a href="https://win-net.techidaily.com/advanced-material-kit-pro-elite-bootstrap-and-material-design-themes-by-creative-tim/"><u>Advanced Material Kit Pro: Elite Bootstrap and Material Design Themes by Creative Tim</u></a></li>
+<li><a href="https://win-net.techidaily.com/capture-images-against-a-pure-white-canvas/"><u>Capture Images Against a Pure White Canvas</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/caution-googles-bard-might-be-more-bug-than-genius/"><u>Caution: Google's Bard Might Be More Bug than Genius</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-techniques-for-isolating-audio-in-mp4-file-format/"><u>Effective Techniques for Isolating Audio in MP4 File Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-avi-file-combination-tools-for-windows-10-and-11-users-ultimate-joining-tips/"><u>Free AVI File Combination Tools for Windows 10 and 11 Users: Ultimate Joining Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-infinix-smart-7-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Infinix Smart 7 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/new-edge-converting-youtube-tracks-to-mp3/"><u>Mac's New Edge Converting YouTube Tracks to MP3</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-effortless-nft-design-for-2024/"><u>Mastering the Art of Effortless NFT Design for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/quick-tricks-for-seamlessly-moving-pdf-documents-to-an-android-smartphone-or-tablet/"><u>Quick Tricks for Seamlessly Moving PDF Documents to an Android Smartphone or Tablet</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-effortlessly-import-blackberry-contacts-onto-your-iphone-65s/"><u>Step-by-Step Guide: Effortlessly Import BlackBerry Contacts Onto Your iPhone 6/5S</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-future-at-your-fingertips-mycams-video-recorder-examined-for-2024/"><u>The Future at Your Fingertips – MyCam's Video Recorder Examined for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/ultimate-guide-mastering-the-art-of-deleting-playlists-from-your-iphone/"><u>Ultimate Guide: Mastering the Art of Deleting Playlists From Your iPhone</u></a></li>
 </ul></div>
 

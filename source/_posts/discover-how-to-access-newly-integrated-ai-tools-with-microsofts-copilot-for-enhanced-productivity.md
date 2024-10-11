@@ -1,7 +1,7 @@
 ---
 title: Discover How to Access Newly Integrated AI Tools with Microsoft's Copilot for Enhanced Productivity
-date: 2024-09-30T19:36:34.891Z
-updated: 2024-10-06T00:02:35.513Z
+date: 2024-10-04T12:01:55.003Z
+updated: 2024-10-10T22:07:14.284Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,16 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,18 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-leading-choices-no-fee-versatile-live-streaming-tools-for-every-device/"><u>[New] 2024 Approved Leading Choices No-Fee, Versatile Live Streaming Tools for Every Device</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-scriptwriting-mastery-elevate-your-youtube-channels-content-quality/"><u>[New] In 2024, Scriptwriting Mastery Elevate Your YouTube Channel's Content Quality</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-pixel-perfect-fun-unveiling-the-secrets-of-snapchats-filters-for-2024/"><u>[New] Pixel Perfect Fun Unveiling the Secrets of Snapchat's Filters for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/aim-for-picture-perfect-facebooks-hd-streaming-for-2024/"><u>Aim for Picture-Perfect Facebook's HD Streaming for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-reset-xiaomi-redmi-k70-pro-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Xiaomi Redmi K70 Pro Phone Screen Passcode/Pattern/Pin</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-infinix-smart-7-hd-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Infinix Smart 7 HD Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/overcoming-youtube-video-download-barriers-expert-tips-for-using-alternative-services-and-proxies/"><u>Overcoming YouTube Video Download Barriers: Expert Tips for Using Alternative Services and Proxies</u></a></li>
-<li><a href="https://win-net.techidaily.com/seamless-video-conversion-with-digitalmarketer-download-and-save-as-mp4-format/"><u>Seamless Video Conversion with DigitalMarketer: Download and Save as MP4 Format</u></a></li>
-<li><a href="https://win-net.techidaily.com/seamlessly-save-music-tracks-from-mp3zingvn-in-premium-formats-like-wav-mp3-or-flac-for-enhanced-listening-experience/"><u>Seamlessly Save Music Tracks From mp3.zing.vn in Premium Formats Like WAV, MP3, or FLAC for Enhanced Listening Experience</u></a></li>
-<li><a href="https://win-net.techidaily.com/spotizr-down-heres-how-to-fix-it-and-a-top-notch-free-substitute-you-can-download-today/"><u>Spotizr Down? Here's How to Fix It and a Top-Notch Free Substitute You Can Download Today!</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-downloading-rogers-cpa-exam-video-series-on-pc-and-mac/"><u>Step-by-Step Guide: Downloading Roger's CPA Exam Video Series on PC & Mac</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-streaming-youtube-on-your-kindle-fire-device/"><u>Step-by-Step Guide: Streaming YouTube on Your Kindle Fire Device</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-pinnacle-of-voice-recording-a-comprehensive-tome/"><u>The Pinnacle of Voice Recording A Comprehensive Tome</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-10-funniest-youtube-shorts-video-ideas/"><u>[New] 2024 Approved The 10 Funniest YouTube Shorts Video Ideas</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-mastering-tv-broadcasts-repeating-youtube-videos-effortlessly/"><u>[Updated] In 2024, Mastering TV Broadcasts Repeating YouTube Videos Effortlessly</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-prime-video-trendsetters-top-likers-and-viewers-on-twitter-for-2024/"><u>[Updated] Prime Video Trendsetters Top Likers & Viewers on Twitter for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/advanced-pro-ui-dashboard-with-bootstrap-4-and-angular-by-creative-tim-ultimate-angular-admin-suite/"><u>Advanced Pro UI Dashboard with Bootstrap 4 and Angular by Creative Tim: Ultimate Angular Admin Suite</u></a></li>
+<li><a href="https://win-net.techidaily.com/advanced-rubik-layouts-luxe-single-page-bootstrap-framework-crafted-with-precision-by-times-ingenuity/"><u>Advanced Rubik Layouts: Luxe Single-Page Bootstrap Framework, Crafted with Precision by Time's Ingenuity</u></a></li>
+<li><a href="https://win-net.techidaily.com/amplify-your-brand-with-ultra-premium-creative-tim-theme-collections-more-than-144-choices-await/"><u>Amplify Your Brand with Ultra-Premium Creative Tim Theme Collections: More than 144 Choices Await!</u></a></li>
+<li><a href="https://win-net.techidaily.com/bootstrap-4-material-design-kit-with-angular-complimentary-starter-set-by-creative-tim/"><u>Bootstrap 4 Material Design Kit with Angular - Complimentary Starter Set by Creative Tim</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-advanced-ai-systems-like-chatgpt-create-humor-that-truly-entertains-us/"><u>Can Advanced AI Systems Like ChatGPT Create Humor that Truly Entertains Us?</u></a></li>
+<li><a href="https://win-net.techidaily.com/creative-tims-expert-level-nuxt-ui-suite-for-web-development-professionals/"><u>Creative Tim's Expert-Level Nuxt UI Suite for Web Development Professionals</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-13-ultra-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi 13 Ultra to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-nokia-c300-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Nokia C300 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-uncapped-screenshot-savior-app/"><u>In 2024, Uncapped Screenshot Savior App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-troubleshooting-for-msi-dll-file-missing-error-solutions-and-fixes/"><u>The Ultimate Troubleshooting for MSI DLL File Missing Error: Solutions and Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-my-discord-microphone-working-solving-push-to-talk-problems-easily/"><u>Why Isn't My Discord Microphone Working? Solving Push-to-Talk Problems Easily</u></a></li>
 </ul></div>
 

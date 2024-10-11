@@ -1,7 +1,7 @@
 ---
 title: Complete Step-by-Step Tutorial on Performing a Clean Reset of Windows 11 While Preserving Your Personal Files and Applications
-date: 2024-09-29T18:24:09.015Z
-updated: 2024-10-05T16:34:00.288Z
+date: 2024-10-10T01:10:58.315Z
+updated: 2024-10-11T11:02:36.469Z
 tags:
   - windows
 categories:
@@ -34,16 +34,10 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -61,18 +55,18 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -85,6 +79,19 @@ Screenshot by Lance Whitney/ZDNET
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -103,13 +110,6 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
@@ -117,10 +117,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -162,22 +162,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-iptv-sharing-on-varied-systems/"><u>[New] 2024 Approved IPTV Sharing on Varied Systems</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-strategizing-your-data-space-pre-eminent-cloud-services/"><u>[New] In 2024, Strategizing Your Data Space Pre-Eminent Cloud Services</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-bright-beginnings-quick-ways-to-brighten-iphone-clips-and-more/"><u>[Updated] Bright Beginnings Quick Ways to Brighten iPhone Clips and More</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-ultimate-guide-to-streamline-your-podcast-on-google/"><u>[Updated] In 2024, The Ultimate Guide to Streamline Your Podcast on Google</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-splitting-views-ultimate-video-recorder-ranking/"><u>2024 Approved Splitting Views Ultimate Video Recorder Ranking?</u></a></li>
-<li><a href="https://win-net.techidaily.com/accelerate-your-workflow-effortless-free-tools-for-shrinking-tiff-files-quickly/"><u>Accelerate Your Workflow: Effortless, Free Tools for Shrinking TIFF Files Quickly</u></a></li>
-<li><a href="https://win-net.techidaily.com/browser-based-game-emulators-relive-the-classics-with-just-a-click/"><u>Browser-Based Game Emulators: Relive the Classics with Just a Click</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-sony-xperia-1-v-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Sony Xperia 1 V</u></a></li>
-<li><a href="https://win-net.techidaily.com/discover-leading-flv-video-editors-for-optimal-quality-and-speed-results/"><u>Discover Leading Flv Video Editors for Optimal Quality & Speed Results</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/professional-screenshot-solutions-affordable-and-effective-replacements-for-snagit/"><u>Professional Screenshot Solutions: Affordable & Effective Replacements for Snagit</u></a></li>
-<li><a href="https://win-net.techidaily.com/quick-guide-converting-f4v-video-clips-to-compatible-mp4-files/"><u>Quick Guide: Converting F4V Video Clips to Compatible MP4 Files</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simple-methods-to-quickly-refresh-your-acer-sound-device-software/"><u>Simple Methods to Quickly Refresh Your Acer Sound Device Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-picks-the-ultimate-review-of-leading-gif-capture-software/"><u>Top Picks: The Ultimate Review of Leading GIF Capture Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-three-strategies-for-safeguarding-your-android-contact-data/"><u>Top Three Strategies for Safeguarding Your Android Contact Data</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-ranking-quick-video-clips-tools-of-2021/"><u>Top-Ranking Quick Video Clips Tools of 2021</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-match-merge-and-master-color-correction-in-fcp/"><u>Updated In 2024, Match, Merge, and Master Color Correction in FCP</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-innovative-water-world-leading-game-experience-hits-for-2024/"><u>[New] Innovative Water World Leading Game Experience Hits for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-streamline-your-playback-the-ultimate-guide-to-roblox-replays-on-a-mac/"><u>[Updated] In 2024, Streamline Your Playback The Ultimate Guide to Roblox Replays on a Mac</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-mastering-zoom-integration-with-gmail-messages/"><u>[Updated] Mastering Zoom Integration with Gmail Messages</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-from-snaps-to-savings-on-snapchat/"><u>2024 Approved From Snaps to Savings on Snapchat</u></a></li>
+<li><a href="https://win-net.techidaily.com/capture-your-gaming-sessions-effortlessly-new-screen-record-app-with-intel-realsense-integration-now-available-for-download/"><u>Capture Your Gaming Sessions Effortlessly – New Screen Record App with Intel RealSense Integration Now Available for Download!</u></a></li>
+<li><a href="https://win-net.techidaily.com/download-mirillis-apps-and-programs-for-free-secure-installation-instructions/"><u>Download Mirillis Apps and Programs for Free – Secure Installation Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-upgrades-enhanced-cameras-and-wellness-tools-on-googles-pixel-devices/"><u>Exploring the Latest Upgrades: Enhanced Cameras & Wellness Tools on Google's Pixel Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-youtubes-monetization-a-deep-dive/"><u>In 2024, YouTube's Monetization A Deep Dive</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/modifying-monitor-border-symmetry/"><u>Modifying Monitor Border Symmetry</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-error-1114-during-windows-library-loading-issues/"><u>Resolved! Troubleshooting Error 1114 During Windows Library Loading Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solution-wind-speeds-over-5msec-can-increase-the-rate-of-moisture-loss-through-evaporation-leading-to-uneven-drying-surface-defects-and-reduced-strength-in-219/"><u>Solution: Wind Speeds over 5M/Sec Can Increase the Rate of Moisture Loss Through Evaporation, Leading to Uneven Drying, Surface Defects, and Reduced Strength in the Concrete</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-streaming-youtube-on-your-kindle-fire-device/"><u>Step-by-Step Guide: Streaming YouTube on Your Kindle Fire Device</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-successfully-retrieving-music-from-8tracks-using-a-reliable-downloader/"><u>Step-by-Step Guide: Successfully Retrieving Music From 8Tracks Using a Reliable Downloader</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-tutorial-on-saving-wakanim-anime-episodes-as-mp4-avi-or-mov-files/"><u>Step-by-Step Tutorial on Saving Wakanim Anime Episodes as MP4, AVI, or MOV Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-chatgpt-access-a-users-guide/"><u>Streamlining ChatGPT Access: A User's Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/top-rated-mac-compatible-video-downloader-the-ultimate-alternative-to-the-youkit-mac-download-app/"><u>Top Rated Mac-Compatible Video Downloader: The Ultimate Alternative to the YouKit Mac Download App</u></a></li>
+<li><a href="https://win-net.techidaily.com/ultimate-film-downloader-mac-and-windows-compatible-stream-from-movie4kto/"><u>Ultimate Film Downloader: Mac & Windows Compatible | Stream From movie4k.to</u></a></li>
+<li><a href="https://win-net.techidaily.com/video-grabber-pro-quick-and-easy-youtube-to-device-converter/"><u>Video Grabber Pro: Quick and Easy YouTube-to-Device Converter</u></a></li>
+<li><a href="https://win-net.techidaily.com/zapiks-video-downloader-easily-convert-and-save-sport-videos-as-mp4-avi-or-mov-files/"><u>Zapiks Video Downloader: Easily Convert and Save Sport Videos as MP4, AVI or MOV Files</u></a></li>
 </ul></div>
 

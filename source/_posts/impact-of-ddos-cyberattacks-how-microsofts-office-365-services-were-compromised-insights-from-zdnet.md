@@ -1,7 +1,7 @@
 ---
 title: "Impact of DDoS Cyberattacks: How Microsoft's Office 365 Services Were Compromised - Insights From ZDNet"
-date: 2024-10-02T17:16:11.601Z
-updated: 2024-10-05T16:59:25.449Z
+date: 2024-10-08T17:00:18.219Z
+updated: 2024-10-10T19:27:56.300Z
 tags:
   - microsoft
 categories:
@@ -114,31 +114,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-overhaul-the-2023-updates-explained/"><u>[New] Facebook Overhaul The 2023 Updates Explained</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-sly-satire-crafting-digital-chuckles-on-kapwing/"><u>[New] In 2024, Sly Satire Crafting Digital Chuckles on Kapwing</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-10-sizzling-tiktok-cooking-secrets/"><u>[Updated] 10 Sizzling TikTok Cooking Secrets</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-streamline-your-virtual-gatherings-with-this-10-free-web-application-list/"><u>[Updated] Streamline Your Virtual Gatherings With This 10 Free Web Application List</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-unplugged-entertainment-essential-free-apps-for-offline-playing-for-2024/"><u>[Updated] Unplugged Entertainment Essential Free Apps for Offline Playing for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/accelerate-your-workflow-effortless-free-tools-for-shrinking-tiff-files-quickly/"><u>Accelerate Your Workflow: Effortless, Free Tools for Shrinking TIFF Files Quickly</u></a></li>
-<li><a href="https://win-net.techidaily.com/browser-based-game-emulators-relive-the-classics-with-just-a-click/"><u>Browser-Based Game Emulators: Relive the Classics with Just a Click</u></a></li>
-<li><a href="https://win-net.techidaily.com/comprehensive-tutorials-mastering-screen-capture-in-ios-11/"><u>Comprehensive Tutorials: Mastering Screen Capture in iOS 11</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-to-transform-3gp-videos-into-wmv-format-guide-on-free-and-shareable-software-solutions/"><u>How to Transform 3GP Videos Into WMV Format: Guide on Free & Shareable Software Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-tecno-spark-20-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Tecno Spark 20 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-future-is-now-harnessing-instagrams-newest-filter-features/"><u>In 2024, The Future Is Now Harnessing Instagram's Newest Filter Features</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/maximizing-frame-rate-for-better-gameplay-in-tainted-grails-conquest-mode/"><u>Maximizing Frame Rate for Better Gameplay in Tainted Grail's Conquest Mode</u></a></li>
-<li><a href="https://win-net.techidaily.com/quick-guide-converting-f4v-video-clips-to-compatible-mp4-files/"><u>Quick Guide: Converting F4V Video Clips to Compatible MP4 Files</u></a></li>
-<li><a href="https://win-net.techidaily.com/revolutionize-your-iphone-usage-with-proven-techniques-for-enhanced-battery-performance/"><u>Revolutionize Your iPhone Usage with Proven Techniques for Enhanced Battery Performance</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-10-iphone-video-capture-apps/"><u>Top 10 iPhone Video Capture Apps</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-picks-the-ultimate-review-of-leading-gif-capture-software/"><u>Top Picks: The Ultimate Review of Leading GIF Capture Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-three-strategies-for-safeguarding-your-android-contact-data/"><u>Top Three Strategies for Safeguarding Your Android Contact Data</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-ranking-quick-video-clips-tools-of-2021/"><u>Top-Ranking Quick Video Clips Tools of 2021</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-where-is-d3dx9amoleddll-fixes-for-when-its-nowhere-to-be-found/"><u>Troubleshooting: Where Is d3dx9_amoled.dll? Fixes for When It's Nowhere to Be Found</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-affordable-yet-high-quality-cameras-list/"><u>[Updated] Affordable Yet High-Quality Cameras List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guffaws-in-grooves-parody-playlist-for-2024/"><u>[Updated] Guffaws in Grooves Parody Playlist for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-mobile-photography-strategies/"><u>[Updated] Professional Mobile Photography Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-collection-of-youtube-beauty-icons-to-admire/"><u>[Updated] The Ultimate Collection of YouTube Beauty Icons to Admire</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/creative-tims-expert-level-nuxt-ui-suite-for-web-development-professionals/"><u>Creative Tim's Expert-Level Nuxt UI Suite for Web Development Professionals</u></a></li>
+<li><a href="https://win-net.techidaily.com/download-now-complimentary-ui-toolkit-by-creative-tim-powered-with-bootstrap-4/"><u>Download Now: Complimentary UI Toolkit by Creative Tim - Powered with Bootstrap 4</u></a></li>
+<li><a href="https://win-net.techidaily.com/download-vue-notus-ui-framework-with-free-tailwind-css-and-vuejs-components-created-by-creative-tim/"><u>Download Vue Notus UI Framework with Free Tailwind CSS & VueJS Components - Created by Creative Tim</u></a></li>
+<li><a href="https://win-net.techidaily.com/enhance-your-angular-project-with-argon-style-guide-by-creative-tim-the-no-cost-bootstrap-4-affinity-system/"><u>Enhance Your Angular Project with Argon Style Guide by Creative Tim – The No-Cost Bootstrap 4 Affinity System</u></a></li>
+<li><a href="https://win-net.techidaily.com/explore-over-20-innovative-vuejs-projects-featuring-api-integration-by-creative-tim/"><u>Explore Over 20 Innovative Vue.js Projects Featuring API Integration by Creative Tim</u></a></li>
+<li><a href="https://win-net.techidaily.com/explore-the-ultimate-management-interface-argon-laravel-edition-by-creative-tim-and-updivision/"><u>Explore the Ultimate Management Interface - Argon Laravel Edition by Creative Tim and Updivision</u></a></li>
+<li><a href="https://win-net.techidaily.com/free-access-to-premium-nodejs-template-collections-by-creative-tim/"><u>Free Access to Premium Node.js Template Collections by Creative Tim</u></a></li>
+<li><a href="https://win-net.techidaily.com/free-bootstrap-vuejs-admin-layout-with-paper-ui-vue-creativos-professional-design/"><u>Free Bootstrap Vue.js Admin Layout with Paper UI - Vue Creativo's Professional Design</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-welcoming-practices-manual/"><u>Global Welcoming Practices Manual</u></a></li>
+<li><a href="https://win-net.techidaily.com/laravel-based-material-ui-admin-panel-enhanced-with-livewire-created-by-creative-tim-and-updivision/"><u>Laravel-Based Material UI Admin Panel Enhanced with Livewire - Created by Creative Tim & UPDIVISION</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-battle-for-video-editing-supremacy-final-cut-pro-vs-lumafusion-for-2024/"><u>New The Battle for Video Editing Supremacy Final Cut Pro vs LumaFusion for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-broken-service-register-errors-on-windows-11-systems/"><u>Resolving the Broken Service Register Errors on Windows 11 Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/seamlessly-move-apple-photos-a-comprehensive-list-of-10-techniques-for-iphone-to-mac-transfer/"><u>Seamlessly Move Apple Photos: A Comprehensive List of 10 Techniques for iPhone to Mac Transfer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-friends-realm-social-virtual-ventures/"><u>Top Friends' Realm Social Virtual Ventures</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

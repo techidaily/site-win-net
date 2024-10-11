@@ -1,7 +1,7 @@
 ---
 title: How Microsoft Is Betting Big with $50 Million on LanzaJet to Power Eco-Friendly Fuel for Data Centers | ZDNet Insights
-date: 2024-10-03T18:52:27.458Z
-updated: 2024-10-05T16:31:34.420Z
+date: 2024-10-07T23:54:24.231Z
+updated: 2024-10-10T19:42:05.733Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -91,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,15 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-best-free-and-paid-drawing-apps-for-android-os/"><u>[New] 2024 Approved Best Free and Paid Drawing Apps for Android OS</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-top-tweets-on-screen-expert-guide-for-capturing-vids/"><u>[New] Top Tweets on Screen Expert Guide for Capturing Vids</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-your-output-on-facebook-with-these-5-proven-methods/"><u>Boost Your Output on Facebook with These 5 Proven Methods</u></a></li>
-<li><a href="https://win-net.techidaily.com/convert-and-save-videos-from-genvideos-in-various-formats-mp4-mov-avi-for-pc-or-mac/"><u>Convert and Save Videos From GenVideos in Various Formats (MP4, MOV, AVI) for PC or Mac</u></a></li>
-<li><a href="https://win-net.techidaily.com/convert-and-save-your-favorite-disclosetv-videos-as-high-quality-mp4-files-with-easy-converter-tools/"><u>Convert and Save Your Favorite Disclose.tv Videos as High-Quality MP4 Files with Easy Converter Tools</u></a></li>
-<li><a href="https://win-net.techidaily.com/convert-your-favorite-movie-and-tv-show-previews-from-itunes-downloads-to-mp4-format/"><u>Convert Your Favorite Movie and TV Show Previews From iTunes Downloads to MP4 Format</u></a></li>
-<li><a href="https://win-net.techidaily.com/download-and-convert-music-from-any-playlist-to-multiple-file-types-including-aac-m4a-flac-etc/"><u>Download and Convert Music From Any Playlist to Multiple File Types Including AAC, M4A, FLAC Etc.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-overcome-hp-beats-sound-card-installation-challenges-in-windows-1087-environments/"><u>How to Overcome HP Beats Sound Card Installation Challenges in Windows 10/8/7 Environments</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/anked-5-game-chat-systems-for-vloggers-for-2024/"><u>Top-Ranked 5 Game Chat Systems for Vloggers for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-power-of-virtual-reality-learn-to-stream-and-play-games-with-steam-and-meta-quest/"><u>Unlock the Power of Virtual Reality - Learn to Stream and Play Games with Steam & Meta Quest</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-apex-storage-wizards-best-of-android-cloud/"><u>[New] Apex Storage Wizards Best of Android Cloud</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-best-in-class-ultra-fast-lapses/"><u>[New] Best-in-Class Ultra Fast Lapses</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streamlined-steps-to-document-chat-calls-on-whatsapp/"><u>[New] Streamlined Steps to Document Chat Calls on WhatsApp</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-solo-scrutiny-an-examination-of-3dr-printers/"><u>[Updated] Solo Scrutiny An Examination of '3DR' Printers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-swift-modification-youtube-aspect-ratio-on-mac/"><u>[Updated] Swift Modification YouTube Aspect Ratio on MAC</u></a></li>
+<li><a href="https://win-net.techidaily.com/1-how-to-smoothly-stream-wma-files-on-your-iphone/"><u>1. How to Smoothly Stream WMA Files on Your iPhone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-your-rhythm-top-free-beat-detectors-ready-to-test/"><u>2024 Approved Master Your Rhythm – Top Free Beat Detectors Ready to Test</u></a></li>
+<li><a href="https://win-net.techidaily.com/best-4-video-editing-software-of-2018-a-comprehensive-guide/"><u>Best 4 Video Editing Software of 2018: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-methods-for-recording-webinars-with-gotowebina/"><u>Effective Methods for Recording Webinars with Gotowebina</u></a></li>
+<li><a href="https://win-net.techidaily.com/effortless-methods-to-migrate-your-phonebook-from-older-iphone-to-new-iphone-8-without-using-apples-cloud-service/"><u>Effortless Methods to Migrate Your Phonebook From Older iPhone to New iPhone 8 Without Using Apple's Cloud Service</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/get-up-close-with-the-cycwagen-cargo-e-bike-an-in-depth-experience-report/"><u>Get Up Close with the CycWagen Cargo E-Bike: An In-Depth Experience Report</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pajama-plots-revisited-critique-and-analysis-for-kids-slumber/"><u>In 2024, Pajama Plots Revisited Critique and Analysis for Kids' Slumber</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigate-simply-and-economically-with-bouncie-trakka-an-in-depth-product-analysis/"><u>Navigate Simply and Economically with Bouncie Trakka: An In-Depth Product Analysis</u></a></li>
+<li><a href="https://win-net.techidaily.com/top-tools-for-converting-flv-files-into-mov-format/"><u>Top Tools for Converting FLV Files Into MOV Format</u></a></li>
 </ul></div>
 

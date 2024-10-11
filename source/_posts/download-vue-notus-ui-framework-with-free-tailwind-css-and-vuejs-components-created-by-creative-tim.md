@@ -1,7 +1,7 @@
 ---
 title: Download Vue Notus UI Framework with Free Tailwind CSS & VueJS Components - Created by Creative Tim
-date: 2024-10-02T18:30:20.920Z
-updated: 2024-10-05T17:27:26.500Z
+date: 2024-10-09T16:20:45.461Z
+updated: 2024-10-10T21:15:36.581Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,17 +54,18 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-net.techidaily.com/comprehensive-tutorials-mastering-screen-capture-in-ios-11/"><u>Comprehensive Tutorials: Mastering Screen Capture in iOS 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dealing-with-msiexecexe-not-found-effective-strategies-to-correct-missing-msi-dll-errors/"><u>Dealing with 'msiexec.exe Not Found': Effective Strategies to Correct Missing MSI DLL Errors</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-to-transform-3gp-videos-into-wmv-format-guide-on-free-and-shareable-software-solutions/"><u>How to Transform 3GP Videos Into WMV Format: Guide on Free & Shareable Software Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-13-mini-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 13 mini? Heres the Best Fixes</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-depth-review-mastering-facetunes-complete-features/"><u>In-Depth Review Mastering Facetune's Complete Features</u></a></li>
-<li><a href="https://win-net.techidaily.com/revolutionize-your-iphone-usage-with-proven-techniques-for-enhanced-battery-performance/"><u>Revolutionize Your iPhone Usage with Proven Techniques for Enhanced Battery Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/savvy-shoppers-guide-to-cheap-240hz-panels/"><u>Savvy Shoppers' Guide to Cheap 240Hz Panels</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-adding-music-downloads-to-your-samsung-phone/"><u>Step-by-Step Guide: Adding Music Downloads to Your Samsung Phone</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-transforming-your-mxf-files-into-compatible-mp4-format/"><u>Step-by-Step Guide: Transforming Your MXF Files Into Compatible MP4 Format</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-list-5-superior-webcams-with-sound-capture/"><u>[New] In 2024, Essential List 5 Superior Webcams with Sound Capture</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-best-low-cost-android-calls-compared-ranking-for-2024/"><u>[Updated] Best Low-Cost Android Calls Compared Ranking for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-strategy-supreme-the-top-7-battlefield-commanders/"><u>[Updated] Strategy Supreme The Top 7 Battlefield Commanders</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-make-your-pictures-speak-online-with-the-best-tools-recommended/"><u>In 2024, Make Your Pictures Speak Online With the Best Tools Recommended</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-macos-sierra-installation-procedures-for-2024/"><u>Mastering macOS Sierra Installation Procedures for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-streaming-youtube-on-your-kindle-fire-device/"><u>Step-by-Step Guide: Streaming YouTube on Your Kindle Fire Device</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-successfully-retrieving-music-from-8tracks-using-a-reliable-downloader/"><u>Step-by-Step Guide: Successfully Retrieving Music From 8Tracks Using a Reliable Downloader</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-tutorial-on-saving-wakanim-anime-episodes-as-mp4-avi-or-mov-files/"><u>Step-by-Step Tutorial on Saving Wakanim Anime Episodes as MP4, AVI, or MOV Files</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://win-net.techidaily.com/top-rated-mac-compatible-video-downloader-the-ultimate-alternative-to-the-youkit-mac-download-app/"><u>Top Rated Mac-Compatible Video Downloader: The Ultimate Alternative to the YouKit Mac Download App</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-overcoming-persona-4-goldens-runtime-problems/"><u>Troubleshooting Guide: Overcoming Persona 4 Golden's Runtime Problems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-different-lens-varieties-a-comprehensive-guide-to-6-main-camera-lens-types/"><u>Understanding Different Lens Varieties: A Comprehensive Guide to 6 Main Camera Lens Types</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upgrading-from-apple-vision-prometa-quest-3-check-these-budget-friendly-xr-wearables/"><u>Upgrading From Apple Vision Pro/Meta Quest 3? Check These Budget-Friendly XR Wearables</u></a></li>
 </ul></div>
 
