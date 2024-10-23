@@ -1,7 +1,7 @@
 ---
 title: "File Transfer Tutorial: Saving Documents on an Exterior HDD with Windows 10 Steps"
-date: 2024-10-07T08:26:40.686Z
-updated: 2024-10-11T09:21:35.847Z
+date: 2024-10-17T03:06:19.882Z
+updated: 2024-10-22T18:38:15.645Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0fc33f78a6ac7efb4d7528f193803031f45ec9e70c0aa03967d621fbfa5bc6d6.jpg
@@ -42,13 +42,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 4. [Suggestion: backup your crucial loading files in advance](https://tools.techidaily.com/ubackup/products/)
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## User case: Windows 11 winload.efi missing, F8 button not working
 
 My HP is not starting up. I’ve received the ‘winload efi is missing or corrupt’. All the troubleshooting steps require me to go into startup settings but in order for me to do that, I have to press F8 however when I do press it my screen flashes and it doesn’t take me there (this is on the blue ‘recovery’ screen with the error message). Can anyone help me please. I need to get back into my laptop. I can’t afford to reinstall the OS. Too much important files and data that I didn’t back up unfortunately.
@@ -64,10 +57,10 @@ If you meet similar problems that you can’t find winload.efi, you have been in
 Before we fix the file winload.efi missing error, let’s explore the causes that may lie with it:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What caused winload.efi missing error?
@@ -100,6 +93,13 @@ Step 1\. Download this software and open it. Click **Tools** and then choose **C
 
 [![Create Bootable Meida](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/create-bootable-meida.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2\. Select a type of bootable media you want to create and click **Next** to continue. For better performance, the **Windows PE bootable disc** is recommended.
 
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
@@ -107,6 +107,13 @@ Step 2\. Select a type of bootable media you want to create and click **Next** t
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
@@ -143,10 +150,10 @@ Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4\. Type or paste the following command and press **Enter**:
@@ -180,10 +187,10 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Exercise caution to avoid potential system errors when using this command.
@@ -240,13 +247,6 @@ You just need to download this software and install it. Open it and navigate to 
 
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This post outlines 5 effective methods to address the "Winload.efi missing Windows 11" boot error. Notably, AOMEI Backupper Standard offers user-friendly solutions to create a bootable media and offers system backup solution. When you encounter other computers issues like [Blue Screen on Windows 11](https://tools.techidaily.com/ubackup/products/).
@@ -259,22 +259,15 @@ Was the provided information useful? Your vote is important to us!
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Related Articles
@@ -297,6 +290,13 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -306,10 +306,10 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
@@ -329,18 +329,21 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ideal-voice-recorders-7-best-in-class-2023-edition/"><u>[Updated] 2024 Approved Ideal Voice Recorders 7 Best in Class, 2023 Edition</u></a></li>
-<li><a href="https://win-net.techidaily.com/affordable-microsoft-office-2019-bundle-at-25-installation-steps-for-windows-and-mac-users-expert-insights-from-zdnet/"><u>Affordable Microsoft Office 2019 Bundle at $25 - Installation Steps for Windows and Mac Users | Expert Insights From ZDNET</u></a></li>
-<li><a href="https://win-net.techidaily.com/affordable-microsoft-software-upgrade-save-with-20-off-on-project-and-visio-pros-offered-by-zdnet-exclusive/"><u>Affordable Microsoft Software Upgrade: Save with $20 Off on Project and Visio Pros, Offered by ZDNET Exclusive!</u></a></li>
-<li><a href="https://common-error.techidaily.com/conquer-windows-11-restlessness-at-night/"><u>Conquer Windows 11 Restlessness at Night</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/fcpx-essential-adding-a-countdown-timer-in-just-3-clicks-for-2024/"><u>FCPX Essential Adding a Countdown Timer in Just 3 Clicks for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/inside-microsofts-next-gen-ai-chip-showdown-against-the-apple-macbook-what-i-learned-from-the-experts-at-zdnet/"><u>Inside Microsoft's Next-Gen AI Chip Showdown Against the Apple MacBook – What I Learned From the Experts at ZDNET</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-tips-for-securely-acquiring-terrifying-movie-downloads/"><u>Quick Tips for Securely Acquiring Terrifying Movie Downloads</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/revolutionary-recording-aids-for-a-healthy-earth-for-2024/"><u>Revolutionary Recording Aids for a Healthy Earth for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-fixing-the-shell32dll-error-message/"><u>Step-by-Step Guide to Fixing the Shell32.dll Error Message</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-ranking-surface-computers-thorough-comparisons-by-tech-experts-zdnet-insights/"><u>Top-Ranking Surface Computers : Thorough Comparisons by Tech Experts - ZDNet Insights</u></a></li>
-<li><a href="https://win-net.techidaily.com/unlock-the-potential-of-windows-11-by-integrating-your-microsoft-365-business-profile-a-step-by-step-guide-and-reasons-to-do-so/"><u>Unlock the Potential of Windows 11 by Integrating Your Microsoft 365 Business Profile – A Step-by-Step Guide and Reasons to Do So!</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-loop-your-gifs-for-free-top-maker-tools/"><u>Updated 2024 Approved Loop Your GIFs for Free Top Maker Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-sculpting-your-online-presence-with-top-niche-creators/"><u>[New] 2024 Approved Sculpting Your Online Presence with Top Niche Creators</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/arnings-expansion-on-glamour-channels/"><u>[New] Earnings Expansion on Glamour Channels</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-obs-lagging-issues-stream-and-record/"><u>[SOLVED] OBS Lagging Issues | (Stream & Record)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-youtube-videos-with-professional-techniques-using-wmm/"><u>[Updated] In 2024, Enhancing YouTube Videos with Professional Techniques Using WMM</u></a></li>
+<li><a href="https://win-net.techidaily.com/acer-windows-10/"><u>Acer Windows 10 リカバリ ガイド - 新品状態でのシステムの初期化手順</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-pick-7-alarm-clock-apps-youll-love/"><u>Best Pick: 7 Alarm Clock Apps You'll Love</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-honor-magic-6-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Honor Magic 6 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-y27-4g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Y27 4G.</u></a></li>
+<li><a href="https://win-net.techidaily.com/overcome-error-code-0x8004010f-in-microsoft-outlook-using-these-2-proven-fixes/"><u>Overcome Error Code 0X8004010F in Microsoft Outlook Using These 2 Proven Fixes</u></a></li>
+<li><a href="https://win-net.techidaily.com/resurrecting-deleted-data-four-expert-tips-for-restoring-removed-items-on-windows-11/"><u>Resurrecting Deleted Data: Four Expert Tips for Restoring Removed Items on Windows 11</u></a></li>
+<li><a href="https://win-net.techidaily.com/tutorial-membuat-pemulihan-data-iphone-resiko-hanya-tanpa-gagal/"><u>Tutorial Membuat Pemulihan Data iPhone Resiko Hanya Tanpa Gagal</u></a></li>
+<li><a href="https://win-net.techidaily.com/ultimate-guide-to-free-image-synchronization-apps-for-windows-and-mac/"><u>Ultimate Guide to Free Image Synchronization Apps for Windows and Mac</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/upgrade-your-creativity-easy-steps-for-transforming-video-backgrounds-on-tiktok-for-2024/"><u>Upgrade Your Creativity Easy Steps for Transforming Video Backgrounds on TikTok for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-quality-excellence-leading-smartphones-equipped-with-optimal-stabilization/"><u>Video Quality Excellence Leading Smartphones Equipped With Optimal Stabilization</u></a></li>
+<li><a href="https://win-net.techidaily.com/1728468697391-windows-10/"><u>Windows 10 リファーリング前の重要な準備手順 - 何が必要か見逃すな</u></a></li>
+<li><a href="https://win-net.techidaily.com/windows-surface-prosurface-pro/"><u>Windowsラップトップ対面移行ガイド: Surface Proから別のSurface Proへ</u></a></li>
 </ul></div>
 
