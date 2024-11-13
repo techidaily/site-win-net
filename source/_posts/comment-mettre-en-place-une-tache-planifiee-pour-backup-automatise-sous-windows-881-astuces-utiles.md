@@ -1,7 +1,7 @@
 ---
 title: Comment Mettre en Place Une Tâche Planifiée Pour Backup Automatisé Sous Windows 8/8.1 - Astuces Utiles
-date: 2024-11-01T17:00:41.897Z
-updated: 2024-11-03T22:34:50.834Z
+date: 2024-11-11T17:55:12.965Z
+updated: 2024-11-13T00:04:48.439Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6aaf83c5a09999402e25379b87750585dedbdeb12f25c6a6196a672ab852e088.jpg
@@ -43,18 +43,18 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
@@ -93,6 +93,13 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -144,6 +151,13 @@ Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 5: Crea un Nuovo Account Utente
 
 Passo 1\. Apri Impostazioni:
@@ -171,10 +185,16 @@ Passo 6\. Testa la Barra di Ricerca:
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
@@ -197,6 +217,13 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -211,13 +238,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -225,13 +245,6 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -256,10 +269,16 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Scarica Gratis AOMEI Backupper Ora
@@ -271,13 +290,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -294,21 +306,17 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-divine-clash-thors-return-date/"><u>[New] 2024 Approved Divine Clash Thor's Return Date</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-exploring-the-magic-behind-color-grading-with-luts/"><u>[New] In 2024, Exploring the Magic Behind Color Grading with LUTs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-undoing-streams-a-complete-list-of-25-procedures-for-twitch/"><u>[New] Undoing Streams A Complete List of 25 Procedures for Twitch</u></a></li>
-<li><a href="https://extra-information.techidaily.com/8-premier-online-photo-frame-creators-revealed-for-2024/"><u>8 Premier Online Photo Frame Creators Revealed for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/el-software-ideal-para-descifrar-bitlocker-en-windows-11-8-7-y-mas/"><u>El Software Ideal Para Descifrar BitLocker en Windows 11, 8, 7 Y Más</u></a></li>
-<li><a href="https://win-net.techidaily.com/error-accidental-al-eliminar-tu-particion-de-recuperacion-resolucion-rapida-en-video/"><u>Error Accidental Al Eliminar Tu Partición De Recuperación - Resolución Rápida en Video</u></a></li>
-<li><a href="https://win-net.techidaily.com/guia-paso-a-paso-transferir-datos-de-hdd-a-ssd-en-computadoras-con-windows-preinstalado/"><u>Guía Paso a Paso: Transferir Datos De HDD a SSD en Computadoras Con Windows Preinstalado</u></a></li>
-<li><a href="https://win-net.techidaily.com/guide-dachat-du-logiciel-de-recuperation-onekey-tout-ce-que-vous-devez-savoir/"><u>Guide D'achat Du Logiciel De Récupération OneKey : Tout Ce Que Vous Devez Savoir</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo FRP In 3 Different Ways</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-to-resolve-system-write-processor-unavailability-during-backup-3-effective-fixes/"><u>How to Resolve System Write-Processor Unavailability During Backup (3 Effective Fixes)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-instagrams-role-in-distributing-your-podcast-episodes/"><u>In 2024, Instagram's Role in Distributing Your Podcast Episodes</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-tailoring-sound-techniques-for-altering-audio-speed-and-pitch-in-adobe-rush/"><u>New 2024 Approved Tailoring Sound Techniques for Altering Audio Speed & Pitch in Adobe Rush</u></a></li>
-<li><a href="https://win-net.techidaily.com/schritt-fur-schritt-anleitung-zum-einrichten-einer-zweiten-datentragerinstallation-unter-windows-10/"><u>Schritt-Für-Schritt Anleitung Zum Einrichten Einer Zweiten Datenträgerinstallation Unter Windows 10</u></a></li>
-<li><a href="https://win-net.techidaily.com/troubleshooting-and-repairing-failed-hard-drives-for-windows-10-8-and-7-systems/"><u>Troubleshooting and Repairing Failed Hard Drives for Windows 10, 8 & 7 Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-the-threat-how-windows-updates-can-be-manipulated-to-reverse-security-fixes/"><u>Unraveling the Threat: How Windows Updates Can Be Manipulated to Reverse Security Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-game-pass-demystified-what-you-need-to-know/"><u>Xbox Game Pass Demystified: What You Need to Know</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-premier-real-time-video-distribution-tools/"><u>[Updated] 2024 Approved Premier Real-Time Video Distribution Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-enriching-listening-activities-for-the-modern-ear-podder/"><u>[Updated] In 2024, Enriching Listening Activities for the Modern Ear-Podder</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/comprehensive-analysis-of-novaricas-smart-ocr-extraction-features-an-insightful-overview/"><u>Comprehensive Analysis of Novarica's Smart OCR Extraction Features: An Insightful Overview</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-galaxy-s24plus-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Galaxy S24+</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/methode-facile-et-gratuite-pour-convertir-des-fichiers-aifc-en-aiff-en-ligne-avec-movavi/"><u>Méthode Facile Et Gratuite Pour Convertir Des Fichiers AIFC en AIFF en Ligne Avec Movavi</u></a></li>
+<li><a href="https://win-net.techidaily.com/resolving-cannot-access-account-problems-on-microsoft-office-365-for-seamless-productivity/"><u>Resolving 'Cannot Access Account' Problems on Microsoft Office ^365 for Seamless Productivity</u></a></li>
+<li><a href="https://win-net.techidaily.com/resolving-the-mystery-of-vanishing-files-from-usb-drives-step-by-step-guide/"><u>Resolving the Mystery of Vanishing Files From USB Drives - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/simple-solutions-overcome-the-99-hurdle-in-your-windows-11-setup/"><u>Simple Solutions: Overcome the 99% Hurdle in Your Windows 11 Setup</u></a></li>
+<li><a href="https://win-net.techidaily.com/the-definitive-how-to-for-rebooting-windows-eon-hp-laptops-using-dual-approaches/"><u>The Definitive How-To for Rebooting Windows Eon HP Laptops Using Dual Approaches</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/topo-5-excelentes-software-de-rescate-de-datos-libre-para-windows-10-y-11/"><u>Topo 5 Excelentes Software De Rescate De Datos Libre Para Windows 10 Y 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/form-your-viewing-experience-activating-av1-on-youtube-for-2024/"><u>Transform Your Viewing Experience Activating AV1 on YouTube for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/1728470664037-windows-10/"><u>パソコン修復:Windows 10システムイメージバックアップからのリカバリ方法</u></a></li>
 </ul></div>
 
