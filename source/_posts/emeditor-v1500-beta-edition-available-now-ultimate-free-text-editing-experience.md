@@ -1,7 +1,7 @@
 ---
 title: EmEditor v15.0.0 Beta Edition Available Now – Ultimate Free Text Editing Experience
-date: 2024-10-27T23:09:51.251Z
-updated: 2024-11-03T19:09:19.144Z
+date: 2024-11-21T19:59:55.071Z
+updated: 2024-11-22T18:59:58.327Z
 tags:
   - product
 categories:
@@ -20,6 +20,11 @@ Posts
 Keymaster  
 Today, we are releasing EmEditor v15.0.0 RC (Release Candidate) 1.  
 Updates from v15.0.0 beta 7 include bug fixes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### To Download
 <http://files.emeditor.com/beta/emed64%5F14.9.990.exe> (64-bit installer)  
 <http://files.emeditor.com/beta/emed32%5F14.9.990.exe> (32-bit installer)  
@@ -49,25 +54,18 @@ Viewing 1 post (of 1 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-combine-sounds-into-powerpoint-narratives-for-2024/"><u>[New] Combine Sounds Into PowerPoint Narratives for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-record-yourself-on-webcam-via-vlc-media/"><u>[Updated] In 2024, Record Yourself on Webcam via VLC Media</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-practices-to-speed-up-or-slow-down-music-in-spotify-for-2024/"><u>Best Practices to Speed Up or Slow Down Music in Spotify for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/discover-top-free-software-downloads-compatible-with-windows-11/"><u>Discover Top Free Software Downloads Compatible with Windows 11</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-live-streaming-360-video-to-youtube/"><u>In 2024, How to Live Streaming 360 Video to Youtube</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-meaning-of-windows-mbr-error-messages/"><u>Mastering the Meaning of Windows MBR Error Messages</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/optimizing-images-with-ae-luts-step-by-step-for-2024/"><u>Optimizing Images with AE LUTs Step-by-Step for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/recovering-windows-10-primary-partition-after-accidental-deletion/"><u>Recovering Windows 10 Primary Partition After Accidental Deletion</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/resolve-your-missing-disk-space-issue-with-windows-11-step-by-step-partition-restoration-tutorial-video/"><u>Resolve Your Missing Disk Space Issue with Windows 11: Step-by-Step Partition Restoration Tutorial Video</u></a></li>
-<li><a href="https://win-net.techidaily.com/resolving-cannot-install-windows-10-version-21h2-step-by-step-troubleshooting-tips/"><u>Resolving 'Cannot Install Windows 10 Version 21H2': Step-by-Step Troubleshooting Tips</u></a></li>
-<li><a href="https://win-net.techidaily.com/resolving-windows-11s-corrupt-c-drive-issues-identifying-causes-and-implementing-repairs/"><u>Resolving Windows 11'S Corrupt C Drive Issues: Identifying Causes and Implementing Repairs</u></a></li>
-<li><a href="https://win-net.techidaily.com/simple-methods-to-transfer-your-gmail-messages-onto-your-pc-or-mac-a-comprehensive-guide/"><u>Simple Methods to Transfer Your Gmail Messages Onto Your PC or Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-15-best-ideas-to-post-on-snapchat/"><u>[New] 2024 Approved 15 Best Ideas To Post On Snapchat</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-understanding-the-dynamics-of-spotify-advertising/"><u>[New] Understanding the Dynamics of Spotify Advertising</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-beat-of-the-moment-the-1-10-music-video-ranks/"><u>2024 Approved Beat of the Moment The #1-#10 Music Video Ranks</u></a></li>
+<li><a href="https://win-net.techidaily.com/500gbhdd250gbssd/"><u>如何利用高效率免费软件将500GB的HDD数据成功复制到250GBSSD</u></a></li>
+<li><a href="https://win-net.techidaily.com/efficient-data-movement-in-windows-11-exploring-teracopy-features-and-premium-free-clones-for-optimal-performance/"><u>Efficient Data Movement in Windows 11: Exploring TeraCopy Features and Premium-Free Clones for Optimal Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-guide-transforming-your-avchd-files-into-mp4-format-with-easy-steps-on-windows-nul10/"><u>Free Guide: Transforming Your AVCHD Files Into MP4 Format with Easy Steps on Windows Nul.10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-disable-suggested-posts-and-improve-your-instagram-experience/"><u>Guide to Disable 'Suggested Posts' And Improve Your Instagram Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ideal-echo-chamber-recorders/"><u>Ideal Echo Chamber Recorders</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-samsung-galaxy-a24-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Samsung Galaxy A24 Phone</u></a></li>
+<li><a href="https://win-net.techidaily.com/les-7-outils-de-recovery-data-pour-windows-les-plus-efficaces/"><u>Les 7 Outils De Recovery Data Pour Windows Les Plus Efficaces</u></a></li>
+<li><a href="https://win-net.techidaily.com/master-your-smartphone-with-fonetool-best-android-and-ios-management-tool/"><u>Master Your Smartphone with FoneTool – Best Android & iOS Management Tool!</u></a></li>
+<li><a href="https://win-net.techidaily.com/resolution-guide-for-boot-device-not-found-errors-on-your-windows-11-and-ssd-setup/"><u>Resolution Guide for 'Boot Device Not Found' Errors on Your Windows 11 and SSD Setup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-google-tv-streaming-device-latest-info-on-costs-launch-timeline-features-and-hidden-gossip/"><u>Upcoming Google TV Streaming Device - Latest Info on Costs, Launch Timeline, Features & Hidden Gossip</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

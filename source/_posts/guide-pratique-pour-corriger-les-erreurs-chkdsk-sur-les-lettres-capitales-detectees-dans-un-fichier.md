@@ -1,7 +1,7 @@
 ---
 title: Guide Pratique Pour Corriger Les Erreurs CHKDSK Sur Les Lettres Capitales Detectées Dans Un Fichier
-date: 2024-10-30T22:13:48.954Z
-updated: 2024-11-03T21:35:17.864Z
+date: 2024-11-22T02:46:29.492Z
+updated: 2024-11-22T16:56:27.111Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d13956dfbeb425d156edf1af5a5.png
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -66,10 +70,7 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
@@ -93,21 +94,16 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -126,10 +122,7 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -148,28 +141,12 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -203,10 +180,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -224,20 +198,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-starlight-moment-capture-analysis-for-2024/"><u>[New] Starlight Moment Capture Analysis for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-finding-and-following-leading-biz-channels-online/"><u>[Updated] 2024 Approved Finding and Following Leading Biz Channels Online</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-exclusive-insight-into-mematics-app-features-for-2024/"><u>[Updated] Exclusive Insight Into Mematic's App Features for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-oneplus-ace-3-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock OnePlus Ace 3 Phone When You Forget the Password</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/four-effective-methods-to-safely-wipe-your-flash-drive-on-windows-11/"><u>Four Effective Methods to Safely Wipe Your Flash Drive on Windows 11</u></a></li>
-<li><a href="https://win-net.techidaily.com/get-the-latest-version-of-smart-switch-app-free-itunes-store-download/"><u>Get the Latest Version of Smart Switch App - Free iTunes Store Download!</u></a></li>
-<li><a href="https://win-net.techidaily.com/resolving-cannot-access-account-problems-on-microsoft-office-365-for-seamless-productivity/"><u>Resolving 'Cannot Access Account' Problems on Microsoft Office ^365 for Seamless Productivity</u></a></li>
-<li><a href="https://win-net.techidaily.com/simple-solutions-overcome-the-99-hurdle-in-your-windows-11-setup/"><u>Simple Solutions: Overcome the 99% Hurdle in Your Windows 11 Setup</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-masterclass-on-modifying-vcenter-sso-domain-settings-and-troubleshooting-typical-errors/"><u>Step-by-Step Masterclass on Modifying vCenter SSO Domain Settings & Troubleshooting Typical Errors</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-bootable-programs-for-effectively-copying-hard-drives-despite-corrupted-areas/"><u>Top Bootable Programs for Effectively Copying Hard Drives Despite Corrupted Areas</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-windows-users-correcting-user-profile-service-error-messages/"><u>Troubleshooting Tips for Windows Users: Correcting User Profile Service Error Messages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-of-successful-gmaps-integration-in-windows/"><u>Unveiling the Secrets of Successful GMaps Integration in Windows</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/visionaries-inventing-new-marvel-worlds-for-2024/"><u>Visionaries Inventing New Marvel Worlds for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/1728470664037-windows-10/"><u>パソコン修復:Windows 10システムイメージバックアップからのリカバリ方法</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unveiling-the-best-free-video-player-vlc-versus-mpc/"><u>[New] 2024 Approved Unveiling the Best Free Video Player VLC versus MPC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-navigate-video-rotations-seamlessly-via-vlc/"><u>[New] Navigate Video Rotations Seamlessly via VLC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-leading-ps2-emulators-unveiled-for-iphone-and-ipad/"><u>[Updated] 2024 Approved Leading PS2 Emulators Unveiled for iPhone and iPad</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-navigating-the-backlink-jungle-a-video-content-guide-for-2024/"><u>[Updated] Navigating the Backlink Jungle A Video Content Guide for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/1-fixing-a-locked-ps2-memory-unit-a-step-by-step-guide/"><u>1. Fixing a Locked PS2 Memory Unit: A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-decoding-the-functions-of-a-virtual-reality-helmet/"><u>2024 Approved Decoding The Functions Of A Virtual Reality Helmet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-syncing-your-phone-with-facebook-videos-on-appletv/"><u>2024 Approved Syncing Your Phone with Facebook Videos on AppleTV</u></a></li>
+<li><a href="https://win-net.techidaily.com/avoid-unwanted-changes-the-ultimate-guide-to-halting-windows-10-transition-to-windows-11-using-these-five-techniques/"><u>Avoid Unwanted Changes: The Ultimate Guide to Halting Windows 10 Transition to Windows 11 Using These Five Techniques</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/explore-superior-mac-video-extraction-tools-find-your-perfect-match-beyond-the-original-youvideo-app/"><u>Explore Superior Mac Video Extraction Tools: Find Your Perfect Match Beyond the Original YouVideo App</u></a></li>
+<li><a href="https://win-net.techidaily.com/guide-complet-execution-de-la-reparation-du-demarrage-windows-win-avec-linvite-de-commandes/"><u>Guide Complet : Exécution De La Reparation Du Démarrage Windows ([Win) Avec L'Invite De Commandes</u></a></li>
+<li><a href="https://win-net.techidaily.com/not-found-alert-understanding-error-404-messages/"><u>Not Found Alert! Understanding Error 404 Messages</u></a></li>
+<li><a href="https://win-net.techidaily.com/resolving-cant-run-temp-files-top-4-solutions/"><u>Resolving 'Can't Run Temp Files': Top 4 Solutions</u></a></li>
+<li><a href="https://win-net.techidaily.com/retracing-your-digital-footprints-strategies-for-discovering-past-photographs-on-facebook/"><u>Retracing Your Digital Footprints: Strategies for Discovering Past Photographs on Facebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-tiktoks-a-step-by-step-guide-to-televising-the-app/"><u>Streaming TikToks: A Step-by-Step Guide to Televising the App</u></a></li>
+<li><a href="https://win-net.techidaily.com/wiederholung-verlorener-daten-eine-schritt-fur-schritt-anleitung-zur-wiederherstellung-nicht-erkennbarer-datentrager/"><u>Wiederholung Verlorener Daten: Eine Schritt-Für-Schritt-Anleitung Zur Wiederherstellung Nicht Erkennbarer Datenträger</u></a></li>
 </ul></div>
 
