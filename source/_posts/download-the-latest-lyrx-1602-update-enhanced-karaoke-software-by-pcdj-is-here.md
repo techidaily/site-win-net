@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest LYRX 1.6.0.2 Update: Enhanced Karaoke Software by PCDJ Is Here!"
-date: 2024-11-25T00:28:07.430Z
-updated: 2024-11-30T17:36:35.366Z
+date: 2024-12-08T09:20:02.011Z
+updated: 2024-12-09T00:11:40.579Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Release 2 of LYRX version 1.6.0.2 is available for download.
@@ -33,7 +33,7 @@ The new release 2 of version 1.6.0.2 addresses some issues, mainly on the window
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrx.png?fit=300%2C210&ssl=1 "LYRX 1.6.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usual, click the button below to download and install. Just be sure your existing version of LYRX is closed and the update will patch directly over-top, leaving all your lists, data, and settings intact.
@@ -41,7 +41,7 @@ We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usua
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in Release 2 of LYRX v1.6.0.2
@@ -56,7 +56,7 @@ If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download fro
 _Have questions about the latest release 2 of 1.6.0.2 of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,21 +78,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/lyrx-r2-1602.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-the-final-verdict-on-vegas-pro-21-a-sports-enthusiasts-review-for-2024/"><u>[New] The Final Verdict on Vegas Pro '21 - A Sports Enthusiast's Review for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-navigating-phone-based-recordings-of-snapchats/"><u>[Updated] 2024 Approved Navigating Phone-Based Recordings of Snapchats</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-revolutionizing-online-content-the-power-of-time-stamps/"><u>[Updated] In 2024, Revolutionizing Online Content The Power of Time-Stamps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-palette-playbook-the-filmmakers-guide-to-grading-for-2024/"><u>[Updated] Palette Playbook The Filmmaker's Guide to Grading for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-android-enables-seamless-screen-capturing/"><u>2024 Approved How Android Enables Seamless Screen Capturing</u></a></li>
-<li><a href="https://win-net.techidaily.com/1728475338943-aomei-backupper/"><u>AOMEI Backupperで自動バックアップ処理の設定ガイド</u></a></li>
-<li><a href="https://win-net.techidaily.com/effortless-transition-techniques-relocating-your-workload-a-guide-on-shifting-from-windows/"><u>Effortless Transition Techniques: Relocating Your Workload - A Guide on Shifting From Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-guide-to-2023s-best-smart-plug-gadgets-featured-on-zdnet/"><u>Explore the Ultimate Guide to 2023'S Best Smart Plug Gadgets, Featured on ZDNET</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-does-iphone-data-restoration-work/"><u>How Does iPhone Data Restoration Work?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-nova-y71-phone-without-google-account-by-drfone-android/"><u>How to Unlock Huawei Nova Y71 Phone without Google Account?</u></a></li>
-<li><a href="https://win-net.techidaily.com/la-procedure-etape-par-etape-pour-redemarrer-un-pc-hp-en-utilisant-une-cle-usb-sur-windows-1011-tutoriel-detaille/"><u>La Procédure Étape Par Étape Pour Redémarrer Un PC HP en Utilisant Une Clé USB Sur Windows 10/11 - Tutoriel Détaillé</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/learn-selective-picture-clarity-reduction-for-2024/"><u>Learn Selective Picture Clarity Reduction for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/mastering-external-applications-harness-power-of-emeditors-output-bar/"><u>Mastering External Applications: Harness Power of EmEditor's Output Bar</u></a></li>
-<li><a href="https://win-net.techidaily.com/recovering-a-lost-user-account-on-windows-7-two-effective-strategies/"><u>Recovering a Lost User Account on Windows 7: Two Effective Strategies</u></a></li>
-<li><a href="https://win-net.techidaily.com/schritt-fur-schritt-anleitung-zum-einrichten-von-windows-11-mit-systemvorbereitung/"><u>Schritt-Für-Schritt-Anleitung Zum Einrichten Von Windows 11 Mit Systemvorbereitung</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/yuneec-typhoon-h-review-for-2024/"><u>Yuneec Typhoon H Review for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-drone-photography-showdown-dji-fpv-vs-gopro-x/"><u>[New] 2024 Approved Drone Photography Showdown DJi FPV Vs GoPro X</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-innovative-video-enhancement-using-vce-22-for-2024/"><u>[New] Innovative Video Enhancement Using VCE 2.2 for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-step-by-step-tutorial-enhancing-your-hp-screen-recordings/"><u>[New] Step-by-Step Tutorial Enhancing Your HP Screen Recordings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unveiling-lightroom-for-android-a-complete-guide/"><u>[Updated] 2024 Approved Unveiling Lightroom for Android A Complete Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-play-srt-on-pcos-x/"><u>2024 Approved Play SRT on PC/OS X</u></a></li>
+<li><a href="https://win-net.techidaily.com/bts-visuals-explore-high-quality-graphics-photo-collections-and-behind-the-scenes-pixels-by-yl-computing-solutions/"><u>BTS Visuals: Explore High-Quality Graphics, Photo Collections & Behind-the-Scenes Pixels by YL Computing Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/embracing-apples-messaging-on-your-windows-machine/"><u>Embracing Apple's Messaging on Your Windows Machine</u></a></li>
+<li><a href="https://win-net.techidaily.com/ethereal-gothic-princess-elsa-designs-wallpapers-and-backgrounds-by-yl-software/"><u>Ethereal Gothic Princess Elsa Designs: Wallpapers & Backgrounds by YL Software</u></a></li>
+<li><a href="https://win-net.techidaily.com/exploring-the-crucial-impacts-of-the-first-sino-japanese-conflict-with-yl-softwares-analysis/"><u>Exploring the Crucial Impacts of the First Sino-Japanese Conflict with YL Software's Analysis</u></a></li>
+<li><a href="https://win-net.techidaily.com/get-the-ultimate-fiat-brand-graphics-professional-fiat-logo-wallpapers-from-yl-software-tech/"><u>Get the Ultimate Fiat Brand Graphics - Professional Fiat Logo Wallpapers From YL Software Tech</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-f15-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy F15 5G Devices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-elevate-your-online-presence-conquer-10-key-smm-steps-today/"><u>In 2024, Elevate Your Online Presence Conquer 10 Key SMM Steps Today</u></a></li>
+<li><a href="https://win-net.techidaily.com/solving-the-mystery-of-blank-prints-a-guide-by-yl-software-experts/"><u>Solving the Mystery of Blank Prints: A Guide by YL Software Experts</u></a></li>
+<li><a href="https://win-net.techidaily.com/understanding-key-distinctions-windows-defender-vs-microsoft-security-essentials-insights-from-yl-computing/"><u>Understanding Key Distinctions: Windows Defender Vs. Microsoft Security Essentials - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/unveiling-the-most-effective-express-project-frameworks/"><u>Unveiling the Most Effective Express Project Frameworks</u></a></li>
+<li><a href="https://win-net.techidaily.com/yl-software-simplified-creating-and-deleting-user-profiles-effortlessly/"><u>YL Software Simplified: Creating and Deleting User Profiles Effortlessly</u></a></li>
+<li><a href="https://win-net.techidaily.com/yl-software-solutions-the-ultimate-guide-to-revitalize-and-clean-your-computer-efficiently/"><u>YL Software Solutions: The Ultimate Guide to Revitalize and Clean Your Computer Efficiently</u></a></li>
 </ul></div>
 

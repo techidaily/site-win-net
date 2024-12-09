@@ -1,7 +1,7 @@
 ---
 title: LYRX Karaoke Software Update v1.6 Maintenance Release - Enhanced Singing Experience!
-date: 2024-11-24T21:18:24.502Z
-updated: 2024-12-01T02:10:09.501Z
+date: 2024-12-06T08:57:43.478Z
+updated: 2024-12-08T16:07:24.433Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6659fe54b6365b1f6893f18c4aeffaf5df66ed6e0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A new maintenance release for LYRX 1.6 is available for download.
@@ -29,7 +29,7 @@ Last week, we introduced the [new 1.6 version LYRX](https://tools.techidaily.com
 Download this free LYRX update below and install with your existing version closed to update now. If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a fully-functional free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6 (v2)
@@ -46,7 +46,7 @@ Download this free LYRX update below and install with your existing version clos
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -68,22 +68,14 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrxforwin-cover-2.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-flip-the-script-ios-method-to-reverse-vids-for-2024/"><u>[New] Flip the Script IOS Method to Reverse Vids for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-mastering-the-art-of-transforming-social-media-videos-to-gifs/"><u>[New] Mastering the Art of Transforming Social Media Videos to GIFs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streaming-wars-the-top-10-platforms-ranked-and-compared/"><u>[Updated] Streaming Wars The Top 10 Platforms Ranked and Compared</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-thriving-as-a-novice-youtuber-sidestep-these-8-crucial-pitfalls/"><u>2024 Approved Thriving as a Novice YouTuber? Sidestep These 8 Crucial Pitfalls</u></a></li>
-<li><a href="https://win-net.techidaily.com/6-proven-solutions-to-resolve-issues-with-windows-7-offline-files/"><u>6 Proven Solutions to Resolve Issues with Windows 7 Offline Files</u></a></li>
-<li><a href="https://win-net.techidaily.com/onedriveandhddwindows-111087/"><u>簡単OneDrive&HDDの並行同期：Windows 11/10/8/7利用者向けガイド</u></a></li>
-<li><a href="https://win-net.techidaily.com/ace-your-data-rescue-three-simple-steps-for-successful-acer-disk-to-disk-restoration/"><u>Ace Your Data Rescue: Three Simple Steps for Successful Acer Disk-to-Disk Restoration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-in-conversation-simulation/"><u>Artificial Intelligence in Conversation Simulation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-9-destinations-enjoying-preschool-entertainment-on-the-house/"><u>Best 9 Destinations: Enjoying Preschool Entertainment on the House</u></a></li>
-<li><a href="https://win-net.techidaily.com/comprehensive-guide-understanding-windows-11-installation-duration-and-tips/"><u>Comprehensive Guide: Understanding Windows 11 Installation Duration & Tips</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-6-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 6 Passcode not Working?</u></a></li>
-<li><a href="https://win-net.techidaily.com/revitalize-your-pc-two-methods-for-restoring-windows-10-via-command-line/"><u>Revitalize Your PC: Two Methods for Restoring Windows 10 via Command Line</u></a></li>
-<li><a href="https://win-net.techidaily.com/ricostruire-il-tuo-profilo-wechat-su-iphone-dopo-leliminazione-della-cronologia-dei-messaggi/"><u>Ricostruire Il Tuo Profilo WeChat Su iPhone Dopo L'eliminazione Della Cronologia Dei Messaggi</u></a></li>
-<li><a href="https://win-net.techidaily.com/schritt-fur-schritt-anleitung-zur-nutzung-von-dell-os-wiederherstellungstools-unter-windows-11/"><u>Schritt-Für-Schritt-Anleitung Zur Nutzung Von Dell OS-Wiederherstellungstools Unter Windows 11</u></a></li>
-<li><a href="https://win-net.techidaily.com/speicherbedarf-fur-gelandespiel-genshin-impact-uberschritten-losungen-finden/"><u>Speicherbedarf Für Geländespiel 'Genshin Impact' Überschritten – Lösungen Finden!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/syncing-samsung-wireless-earbuds-with-laptop-via-bluetooth/"><u>Syncing Samsung Wireless Earbuds with Laptop via Bluetooth</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/0plus-free-video-intro-makers-for-youtubers-for-2024/"><u>Top 10+ Free Video Intro Makers for Youtubers for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-revenue-revolution-joining-elite-at-500-subs-level/"><u>[Updated] In 2024, Revenue Revolution Joining Elite at 500 Subs Level</u></a></li>
+<li><a href="https://win-net.techidaily.com/download-the-latest-dj-mixing-software-update-v39010-compatible-with-all-dex-3-editions/"><u>Download the Latest DJ Mixing Software Update (v3.9.0.10) - Compatible with All Dex #3 Editions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-10-best-video-player-apps-for-iphone-and-ipad/"><u>In 2024, 10 Best Video Player Apps for iPhone and iPad</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/introducing-fanburst-your-go-to-hub-for-uploading-and-showcasing-dj-mixes/"><u>Introducing Fanburst - Your Go-To Hub for Uploading and Showcasing DJ Mixes</u></a></li>
+<li><a href="https://win-net.techidaily.com/is-my-graphics-card-working-right-learn-the-key-indicators-with-insights-by-yl-software/"><u>Is My Graphics Card Working Right? Learn the Key Indicators with Insights by YL Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mastering-the-seamless-transition-from-obs-to-facebook-live/"><u>Mastering the Seamless Transition From OBS to Facebook Live</u></a></li>
+<li><a href="https://win-net.techidaily.com/mastery-of-monitor-modification-tips-and-tricks-by-yl-software-for-optimal-display-settings/"><u>Mastery of Monitor Modification: Tips and Tricks by YL Software for Optimal Display Settings</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/unrecognizable-scanner-issues-solutions-and-tips-from-yl-softwares-guide/"><u>Unrecognizable Scanner Issues: Solutions and Tips From YL Software's Guide</u></a></li>
 </ul></div>
 

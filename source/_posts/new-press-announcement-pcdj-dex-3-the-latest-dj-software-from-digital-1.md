@@ -1,7 +1,7 @@
 ---
 title: "New Press Announcement: PCDJ DEX 3 - The Latest DJ Software From Digital 1"
-date: 2024-11-28T00:30:01.862Z
-updated: 2024-12-01T03:44:20.051Z
+date: 2024-12-04T18:16:59.345Z
+updated: 2024-12-09T00:17:29.414Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [![d1audio](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/d1audio-180x180.jpg?resize=84%2C84&ssl=1)](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/d1audio.jpg?ssl=1)Digital 1 Audio launches PCDJ DEX 3 for MAC and Windows, a core upgrade of the popular flagship DJ software that includes a new video mixing engine, graphics engine and totally redesigned media file browser.
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
 [Digital 1 Audio, Inc.](http://www.prweb.net/Redirect.aspx?id=aHR0cDovL3d3dy5wY2RqLmNvbQ==), a leading creator of [DJ mixing software](https://tools.techidaily.com/pcdj/products/) for professional DJs, launched a much anticipated[PCDJ DEX 3](https://tools.techidaily.com/pcdj/products/) platform upgrade. The new upgrade for existing PCDJ DEX 2 DJ software users introduces an all-[![PCDJ DEX 3 DJ Software](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/08/dex3pageimage1-300x214.jpg?resize=300%2C214&ssl=1)](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/dex3pageimage1.jpg?ssl=1)new robust core platform, the foundation for the next few years of new feature development.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 > _“DEX 3 will be PCDJ’s most complete solution to date for Pro DJs mixing all media types; music, videos and karaoke,” says Digital 1 Audio’s General Manager Ryan Sherr. “The new version 3 DJ software platform is a core foundational upgrade. The video mixing engine, graphics engine and the file browser, which is now a true and very snappy database, have been redesigned from the ground up to ensure we can continue to build on features for the next five to ten years. In addition, we’ve added support for a few new DJ controllers, with support for over 70 controllers total. We invite anyone that has tried PCDJ DEX 2 before to download the DEX 3 demo; I think DJs will find the DEX 3 a major upgrade to previous version and excellent all-in-one mixing software platform. Our current DEX 2 customers are going to love it.”_
@@ -69,7 +69,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **_Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. Professional DJs all around the world now spin with their computer using one of the company’s entertainment products._**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,18 +91,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/d1releaseddex3-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-net.techidaily.com/y-x2-6x-plus-9-5/"><u> [Y = -(X^2 - 6X + 9) - 5 </u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-fbx-studio-guide-for-gamers/"><u>[New] FBX Studio Guide for Gamers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-voice-over-techniques-video-production-edition/"><u>[New] In 2024, Voice Over Techniques Video Production Edition</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-how-to-use-your-phone-as-a-webcam-to-record-videos/"><u>[Updated] 2024 Approved How to Use Your Phone as A Webcam to Record Videos?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-fabricate-funny-faces-for-2024/"><u>[Updated] Fabricate Funny Faces for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-professional-gamers-guide-optimal-video-capture-tips/"><u>2024 Approved Professional Gamers' Guide Optimal Video Capture Tips</u></a></li>
-<li><a href="https://win-net.techidaily.com/automatische-datendestruktion-in-sharepoint-und-strategien-zur-wiederherstellung-von-dokumenten/"><u>Automatische Datendestruktion in SharePoint Und Strategien Zur Wiederherstellung Von Dokumenten</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/gear-up-with-toms-electronics-analysis-and-guides/"><u>Gear Up with Tom's Electronics Analysis and Guides</u></a></li>
-<li><a href="https://win-net.techidaily.com/guide-complet-la-nouvelle-methode-pour-creer-des-partitions-de-sauvegarde-sur-windows/"><u>Guide Complet : La Nouvelle Méthode Pour Créer Des Partitions De Sauvegarde Sur Windows</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/low-cost-pc-unlock-with-ideal-obs-settings/"><u>Low-Cost PC - Unlock with Ideal OBS Settings</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-server-sicherungsstrategien-fur-it-dienstleister-pc-und-cloud-basierte-backups/"><u>Top-Server-Sicherungsstrategien Für IT-Dienstleister: PC Und Cloud-Basierte Backups</u></a></li>
-<li><a href="https://win-net.techidaily.com/wd-aomei/"><u>WD品質最高的備份軟體 - AOMEI優秀版</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-download-youtube-videos-anywhere-anytime-free-android-tips/"><u>[New] 2024 Approved Download YouTube Videos Anywhere, Anytime Free Android Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unlock-retro-classics-on-android-choose-the-best-ps2-emulators/"><u>[New] 2024 Approved Unlock Retro Classics on Android – Choose the Best PS2 Emulators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-make-and-edit-multi-snapchat-videos-easily-for-2024/"><u>[New] How to Make and Edit Multi Snapchat Videos Easily for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-premium-4k-screen-capturing-solutions-for-2024/"><u>[New] Premium 4K Screen Capturing Solutions for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-art-of-creating-compelling-youtube-video-outlines/"><u>[Updated] The Art of Creating Compelling YouTube Video Outlines</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-efficiency-of-apple-macbook-air-with-m1-for-editors/"><u>[Updated] The Efficiency of Apple MacBook Air with M1 for Editors</u></a></li>
+<li><a href="https://win-net.techidaily.com/boosting-pc-boot-times-with-simple-techniques-an-expert-guide-from-the-team-at-yl-computing/"><u>Boosting PC Boot Times with Simple Techniques: An Expert Guide From the Team at YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/complete-guide-eliminating-viruses-and-malware-from-your-system-tips-by-yl-computing/"><u>Complete Guide: Eliminating Viruses & Malware From Your System - Tips by YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-guide-adding-and-deleting-assemblies-with-custom-actions-for-enhanced-functionality/"><u>Comprehensive Guide: Adding and Deleting Assemblies with Custom Actions for Enhanced Functionality</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-solutions-when-your-program-encounters-a-crash-yl-computings-guide/"><u>Effective Solutions When Your Program Encounters a Crash - YL Computing's Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-strategies-for-optimizing-memory-consumption-in-windows-yl-computing-guide/"><u>Effective Strategies for Optimizing Memory Consumption in Windows - YL Computing Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 15 Pro Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-unveiling-social-screens-share-your-monitor-on-fb-live/"><u>In 2024, Unveiling Social Screens Share Your Monitor on FB Live</u></a></li>
+<li><a href="https://win-net.techidaily.com/modifying-your-start-menu-experience-on-windows-11-a-guide-from-yl-computing/"><u>Modifying Your Start Menu Experience on Windows 11: A Guide From YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/navigating-preferred-operating-systems-expert-analysis-by-yl-software/"><u>Navigating Preferred Operating Systems - Expert Analysis by YL Software</u></a></li>
+<li><a href="https://win-net.techidaily.com/safeguard-your-crypto-portfolio-with-strategic-advice-by-yl-software-experts/"><u>Safeguard Your Crypto Portfolio with Strategic Advice by YL Software Experts</u></a></li>
+<li><a href="https://win-net.techidaily.com/sharing-files-on-windows-a-comprehensive-guide-by-yl-computing/"><u>Sharing Files on Windows: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/top-reasons-behind-frequent-system-lock-ups-insights-from-yl-computing/"><u>Top Reasons Behind Frequent System Lock-Ups: Insights From YL Computing</u></a></li>
 </ul></div>
 

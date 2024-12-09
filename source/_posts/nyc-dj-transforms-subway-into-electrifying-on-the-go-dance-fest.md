@@ -1,7 +1,7 @@
 ---
 title: NYC DJ Transforms Subway Into Electrifying On-the-Go Dance Fest
-date: 2024-11-30T04:29:32.044Z
-updated: 2024-12-01T04:13:30.544Z
+date: 2024-12-04T16:50:53.811Z
+updated: 2024-12-08T19:29:42.394Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ As you watch the video of the event below try to keep in perspective why you bec
 #### AMK Productions Turns NYC Subway Car Into A Mobile Dance Party
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,17 +46,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/mobiledanceparty-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-tale-transmogrifiers-guild-elite-eight/"><u>[New] 2024 Approved Tale Transmogrifiers Guild – Elite Eight</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-the-10-speedy-rising-yt-spaces-for-cognitive-illumination-for-2024/"><u>[Updated] The 10 Speedy Rising YT Spaces For Cognitive Illumination for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/2024-ultimate-guide-stabilizing-your-diablo-immortal-gameplay-experience/"><u>2024 Ultimate Guide: Stabilizing Your Diablo Immortal Gameplay Experience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/5a6m5ywo44ks44kk44oj77ya44ov44oq44o844oh44kk44kv5yuv55s75asj5oplusb44k944ov44oi44gu44ot44k05ymk6zmk5oml6acg6zug/"><u>完全ガイド：フリーメイク動画変換ソフトのロゴ削除手順集</u></a></li>
-<li><a href="https://win-net.techidaily.com/come-installare-con-successo-windows-11-su-unita-ssd-tutorial-semplificato/"><u>Come Installare Con Successo Windows 11 Su Unità SSD – Tutorial Semplificato</u></a></li>
-<li><a href="https://win-net.techidaily.com/connexion-automatique-a-onedrive-sous-windows-10-and-11/"><u>Connexion Automatique À OneDrive Sous Windows 10 & 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/controller-error-signal-at-idedevice/"><u>Controller Error Signal at Idedevice</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-retrieving-windows-that-have-slipped-off-your-monitors-edge/"><u>Expert Advice: Retrieving Windows That Have Slipped Off Your Monitor's Edge</u></a></li>
-<li><a href="https://win-net.techidaily.com/free-step-by-step-guide-on-generating-windows-11-bootable-rescue-media-using-your-pc/"><u>Free Step-by-Step Guide on Generating Windows 11 Bootable Rescue Media Using Your PC</u></a></li>
-<li><a href="https://win-net.techidaily.com/guide-simple-pour-le-transfert-darchives-entre-windows-7-et-windows-11-sur-les-reseaux-locaux/"><u>Guide Simple Pour Le Transfert D'Archives Entre Windows 7 Et Windows 11 Sur Les Réseaux Locaux</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-transform-speech-into-text-the-accurate-google-method/"><u>In 2024, Transform Speech Into Text The Accurate Google Method</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-enhancing-video-content-top-formats-on-youtube/"><u>[Updated] In 2024, Enhancing Video Content Top Formats on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-starter-guide-8-easy-youtube-money-makers/"><u>[Updated] Starter Guide 8 Easy YouTube Money-Makers</u></a></li>
+<li><a href="https://win-net.techidaily.com/detecting-faulty-hardware-in-your-pc-a-comprehensive-guide-yl-software/"><u>Detecting Faulty Hardware in Your PC: A Comprehensive Guide - YL Software</u></a></li>
+<li><a href="https://win-net.techidaily.com/diy-wireless-printer-connection-expert-tips-from-yl-software/"><u>DIY Wireless Printer Connection: Expert Tips From YL Software</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-solutions-for-dealing-with-malfunctioning-video-cards-by-yl-software-specialists/"><u>Effective Solutions for Dealing With Malfunctioning Video Cards by YL Software Specialists</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/harnessing-the-power-of-cookiebot-for-tailored-web-engagement/"><u>Harnessing the Power of Cookiebot for Tailored Web Engagement</u></a></li>
+<li><a href="https://win-net.techidaily.com/high-definition-kingfisher-wallpaper-collection-by-yl-computing-stunning-digital-art/"><u>High-Definition Kingfisher Wallpaper Collection by YL Computing - Stunning Digital Art</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-telltale-signs-your-chat-is-hidden/"><u>In 2024, Telltale Signs Your Chat Is Hidden</u></a></li>
+<li><a href="https://win-net.techidaily.com/latest-updates-introduced-in-video-mixing-with-pcdj-software/"><u>Latest Updates Introduced in Video Mixing with PCDJ Software</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/preventing-crypto-fraud-essential-tips-from-yl-software-professionals/"><u>Preventing Crypto Fraud: Essential Tips From YL Software Professionals</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/solutions-to-spy-on-apple-iphone-se-2022-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>Solutions to Spy on Apple iPhone SE (2022) with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-window-task-completion-via-key-combinations/"><u>Speedy Window Task Completion via Key Combinations</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-unresponsive-usb-slots-on-an-hp-laptop-computer/"><u>Step-by-Step Solutions for Unresponsive USB Slots on an HP Laptop Computer</u></a></li>
+<li><a href="https://win-net.techidaily.com/yl-computings-guide-easily-install-multiple-languages-on-your-windows-10-pc/"><u>YL Computing's Guide: Easily Install Multiple Languages on Your Windows 10 PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/zte-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>ZTE ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
 
