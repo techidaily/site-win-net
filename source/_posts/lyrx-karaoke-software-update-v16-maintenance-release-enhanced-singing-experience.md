@@ -1,7 +1,7 @@
 ---
 title: LYRX Karaoke Software Update v1.6 Maintenance Release - Enhanced Singing Experience!
-date: 2024-12-06T08:57:43.478Z
-updated: 2024-12-08T16:07:24.433Z
+date: 2024-12-12T02:16:57.004Z
+updated: 2024-12-15T07:38:00.450Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6659fe54b6365b1f6893f18c4aeffaf5df66ed6e0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A new maintenance release for LYRX 1.6 is available for download.
@@ -29,7 +29,7 @@ Last week, we introduced the [new 1.6 version LYRX](https://tools.techidaily.com
 Download this free LYRX update below and install with your existing version closed to update now. If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a fully-functional free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6 (v2)
@@ -46,7 +46,7 @@ Download this free LYRX update below and install with your existing version clos
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -68,14 +68,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrxforwin-cover-2.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-revenue-revolution-joining-elite-at-500-subs-level/"><u>[Updated] In 2024, Revenue Revolution Joining Elite at 500 Subs Level</u></a></li>
-<li><a href="https://win-net.techidaily.com/download-the-latest-dj-mixing-software-update-v39010-compatible-with-all-dex-3-editions/"><u>Download the Latest DJ Mixing Software Update (v3.9.0.10) - Compatible with All Dex #3 Editions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-10-best-video-player-apps-for-iphone-and-ipad/"><u>In 2024, 10 Best Video Player Apps for iPhone and iPad</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-use-chroma-keying-in-video-making/"><u>[New] In 2024, How to Use Chroma Keying in Video Making</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-best-ios-psp-emulators-our-top-5-selections/"><u>[Updated] Best iOS PSP Emulators Our Top 5 Selections</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-simplified-guide-for-iphones-voice-capture-feature/"><u>[Updated] In 2024, Simplified Guide for iPhone's Voice Capture Feature</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-photographing-for-youtube-the-ultimate-instructions/"><u>[Updated] Photographing for YouTube The Ultimate Instructions</u></a></li>
+<li><a href="https://win-net.techidaily.com/a-comprehensive-guide-to-navigating-windows/"><u>A Comprehensive Guide to Navigating Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comprehensive-review-of-the-plugable-usb-c-dual-hdmi-dock-for-efficient-windows-setup/"><u>Comprehensive Review of the Plugable USB-C Dual HDMI Dock for Efficient Windows Setup</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evolving-intelligence-key-developments-between-gpt-35-and-its-successor-gpt-4/"><u>Evolving Intelligence: Key Developments Between GPT-3.5 and Its Successor, GPT-4</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/expert-guide-to-shooting-awe-inspiring-igtv-content-on-mobile-and-dslrs-for-2024/"><u>Expert Guide to Shooting Awe-Inspiring IGTV Content on Mobile & DSLRs for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mini-movie-script-concept/"><u>In 2024, Mini Movie Script Concept</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/interface-innovations-dissecting-changes-from-w10-to-w11/"><u>Interface Innovations: Dissecting Changes From W10 to W11</u></a></li>
 <li><a href="https://win-net.techidaily.com/introducing-fanburst-your-go-to-hub-for-uploading-and-showcasing-dj-mixes/"><u>Introducing Fanburst - Your Go-To Hub for Uploading and Showcasing DJ Mixes</u></a></li>
-<li><a href="https://win-net.techidaily.com/is-my-graphics-card-working-right-learn-the-key-indicators-with-insights-by-yl-software/"><u>Is My Graphics Card Working Right? Learn the Key Indicators with Insights by YL Software</u></a></li>
-<li><a href="https://video-capture.techidaily.com/mastering-the-seamless-transition-from-obs-to-facebook-live/"><u>Mastering the Seamless Transition From OBS to Facebook Live</u></a></li>
-<li><a href="https://win-net.techidaily.com/mastery-of-monitor-modification-tips-and-tricks-by-yl-software-for-optimal-display-settings/"><u>Mastery of Monitor Modification: Tips and Tricks by YL Software for Optimal Display Settings</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/unrecognizable-scanner-issues-solutions-and-tips-from-yl-softwares-guide/"><u>Unrecognizable Scanner Issues: Solutions and Tips From YL Software's Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/reinstating-lost-sound-drivers-made-easy-with-yl-software-solutions/"><u>Reinstating Lost Sound Drivers Made Easy with YL Software Solutions</u></a></li>
+<li><a href="https://win-net.techidaily.com/understanding-key-drivers-behind-cryptocurrency-valuations-insights-by-yl-computing/"><u>Understanding Key Drivers Behind Cryptocurrency Valuations - Insights by YL Computing</u></a></li>
 </ul></div>
 

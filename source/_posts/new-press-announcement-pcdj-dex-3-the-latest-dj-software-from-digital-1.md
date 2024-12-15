@@ -1,7 +1,7 @@
 ---
 title: "New Press Announcement: PCDJ DEX 3 - The Latest DJ Software From Digital 1"
-date: 2024-12-04T18:16:59.345Z
-updated: 2024-12-09T00:17:29.414Z
+date: 2024-12-13T03:28:19.578Z
+updated: 2024-12-15T02:54:50.011Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [![d1audio](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/d1audio-180x180.jpg?resize=84%2C84&ssl=1)](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/d1audio.jpg?ssl=1)Digital 1 Audio launches PCDJ DEX 3 for MAC and Windows, a core upgrade of the popular flagship DJ software that includes a new video mixing engine, graphics engine and totally redesigned media file browser.
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
 [Digital 1 Audio, Inc.](http://www.prweb.net/Redirect.aspx?id=aHR0cDovL3d3dy5wY2RqLmNvbQ==), a leading creator of [DJ mixing software](https://tools.techidaily.com/pcdj/products/) for professional DJs, launched a much anticipated[PCDJ DEX 3](https://tools.techidaily.com/pcdj/products/) platform upgrade. The new upgrade for existing PCDJ DEX 2 DJ software users introduces an all-[![PCDJ DEX 3 DJ Software](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/08/dex3pageimage1-300x214.jpg?resize=300%2C214&ssl=1)](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/dex3pageimage1.jpg?ssl=1)new robust core platform, the foundation for the next few years of new feature development.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 > _“DEX 3 will be PCDJ’s most complete solution to date for Pro DJs mixing all media types; music, videos and karaoke,” says Digital 1 Audio’s General Manager Ryan Sherr. “The new version 3 DJ software platform is a core foundational upgrade. The video mixing engine, graphics engine and the file browser, which is now a true and very snappy database, have been redesigned from the ground up to ensure we can continue to build on features for the next five to ten years. In addition, we’ve added support for a few new DJ controllers, with support for over 70 controllers total. We invite anyone that has tried PCDJ DEX 2 before to download the DEX 3 demo; I think DJs will find the DEX 3 a major upgrade to previous version and excellent all-in-one mixing software platform. Our current DEX 2 customers are going to love it.”_
@@ -69,7 +69,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **_Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. Professional DJs all around the world now spin with their computer using one of the company’s entertainment products._**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,24 +91,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/d1releaseddex3-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-download-youtube-videos-anywhere-anytime-free-android-tips/"><u>[New] 2024 Approved Download YouTube Videos Anywhere, Anytime Free Android Tips</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unlock-retro-classics-on-android-choose-the-best-ps2-emulators/"><u>[New] 2024 Approved Unlock Retro Classics on Android – Choose the Best PS2 Emulators</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-make-and-edit-multi-snapchat-videos-easily-for-2024/"><u>[New] How to Make and Edit Multi Snapchat Videos Easily for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-premium-4k-screen-capturing-solutions-for-2024/"><u>[New] Premium 4K Screen Capturing Solutions for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-art-of-creating-compelling-youtube-video-outlines/"><u>[Updated] The Art of Creating Compelling YouTube Video Outlines</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-efficiency-of-apple-macbook-air-with-m1-for-editors/"><u>[Updated] The Efficiency of Apple MacBook Air with M1 for Editors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-moneysmart-cumulus-storage-scaling-files-economically-for-2024/"><u>[New] MoneySmart Cumulus Storage - Scaling Files Economically for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-boost-bandw-vibrancy-ps-grading-hacks/"><u>[Updated] Boost B&W Vibrancy PS Grading Hacks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-escape-the-top-chart-unexpected-flick-winners-for-2024/"><u>[Updated] Escape the Top Chart Unexpected Flick Winners for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-upload-shorts-video-on-youtube-in-2024/"><u>[Updated] How to Upload Shorts Video on YouTube, In 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-delving-into-magix-photo-editors-features/"><u>2024 Approved Delving Into MAGIX Photo Editor's Features</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-eradicating-youtube-content-in-a-device-friendly-way/"><u>2024 Approved Eradicating YouTube Content in a Device-Friendly Way</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/blu-ray-disc-decryption-and-backup-process-using-winx-blu-ray-decrypter/"><u>Blu-Ray Disc Decryption & Backup Process Using WinX Blu-Ray Decrypter</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/boosting-efficiency-tackling-sluggish-ssd-write-velocity-challenges/"><u>Boosting Efficiency: Tackling Sluggish SSD Write Velocity Challenges</u></a></li>
 <li><a href="https://win-net.techidaily.com/boosting-pc-boot-times-with-simple-techniques-an-expert-guide-from-the-team-at-yl-computing/"><u>Boosting PC Boot Times with Simple Techniques: An Expert Guide From the Team at YL Computing</u></a></li>
 <li><a href="https://win-net.techidaily.com/complete-guide-eliminating-viruses-and-malware-from-your-system-tips-by-yl-computing/"><u>Complete Guide: Eliminating Viruses & Malware From Your System - Tips by YL Computing</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comprehensive-guide-adding-and-deleting-assemblies-with-custom-actions-for-enhanced-functionality/"><u>Comprehensive Guide: Adding and Deleting Assemblies with Custom Actions for Enhanced Functionality</u></a></li>
 <li><a href="https://win-net.techidaily.com/effective-solutions-when-your-program-encounters-a-crash-yl-computings-guide/"><u>Effective Solutions When Your Program Encounters a Crash - YL Computing's Guide</u></a></li>
 <li><a href="https://win-net.techidaily.com/effective-strategies-for-optimizing-memory-consumption-in-windows-yl-computing-guide/"><u>Effective Strategies for Optimizing Memory Consumption in Windows - YL Computing Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 15 Pro Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-unveiling-social-screens-share-your-monitor-on-fb-live/"><u>In 2024, Unveiling Social Screens Share Your Monitor on FB Live</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Realme 12 5G | Dr.fone</u></a></li>
 <li><a href="https://win-net.techidaily.com/modifying-your-start-menu-experience-on-windows-11-a-guide-from-yl-computing/"><u>Modifying Your Start Menu Experience on Windows 11: A Guide From YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/navigating-preferred-operating-systems-expert-analysis-by-yl-software/"><u>Navigating Preferred Operating Systems - Expert Analysis by YL Software</u></a></li>
 <li><a href="https://win-net.techidaily.com/safeguard-your-crypto-portfolio-with-strategic-advice-by-yl-software-experts/"><u>Safeguard Your Crypto Portfolio with Strategic Advice by YL Software Experts</u></a></li>
-<li><a href="https://win-net.techidaily.com/sharing-files-on-windows-a-comprehensive-guide-by-yl-computing/"><u>Sharing Files on Windows: A Comprehensive Guide by YL Computing</u></a></li>
 <li><a href="https://win-net.techidaily.com/top-reasons-behind-frequent-system-lock-ups-insights-from-yl-computing/"><u>Top Reasons Behind Frequent System Lock-Ups: Insights From YL Computing</u></a></li>
 </ul></div>
 

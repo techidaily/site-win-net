@@ -1,7 +1,7 @@
 ---
 title: "Past Productions Archive: Dive Into Classic Beats with PCDJ's Retro Video Treasury"
-date: 2024-12-02T08:38:30.899Z
-updated: 2024-12-08T17:13:37.677Z
+date: 2024-12-11T07:06:55.981Z
+updated: 2024-12-14T20:42:33.504Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ It was during these early years that digital DJ technology was met with extreme 
 **Here’s three old-school PCDJ videos that both took me down memory lane, and reminded me of just how much DJ software technology has evolved:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,22 +48,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/01/videoarchive-coverimage2.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-spotlight-on-success-top-tiktok-tweets/"><u>[New] 2024 Approved Spotlight on Success Top TikTok Tweets</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-transformative-tips-making-an-indelible-mark-in-the-digital-world/"><u>[New] 2024 Approved Transformative Tips Making an Indelible Mark in the Digital World</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-how-do-i-access-the-full-range-of-shared-media-on-messenger/"><u>[New] In 2024, How Do I Access the Full Range of Shared Media on Messenger?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-zte-nubia-z60-ultra-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-demystifying-the-purpose-what-is-a-blue-image-on-facebook/"><u>[New] In 2024, Demystifying the Purpose What Is a Blue Image on Facebook?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-blending-primary-and-b-roll-for-smooth-transitions/"><u>[Updated] Blending Primary and B-Roll for Smooth Transitions</u></a></li>
 <li><a href="https://win-net.techidaily.com/accelerate-system-responsiveness-masterclass-techniques-for-superior-computer-speed-and-functionality-by-yl-computing/"><u>Accelerate System Responsiveness: Masterclass Techniques for Superior Computer Speed and Functionality by YL Computing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/dash-by-wonder-workshop-ready-to-roll-into-action-and-ignite-curiosity/"><u>Dash by Wonder Workshop - Ready to Roll Into Action and Ignite Curiosity!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exploring-movavis-foundational-mission-understanding-its-ultimate-goal/"><u>Exploring MOVAVI's Foundational Mission - Understanding Its Ultimate Goal</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-and-watch-youtube-content-offline-a-comprehensive-guide-for-mobile-devices-android-and-tablets/"><u>Download and Watch YouTube Content OFFLINE: A Comprehensive Guide for Mobile Devices (Android & Tablets)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/engage-audiences-effortlessly-social-medias-screen-share-guide/"><u>Engage Audiences Effortlessly Social Media's Screen Share Guide</u></a></li>
 <li><a href="https://win-net.techidaily.com/exploring-the-best-wallet-options-for-storing-your-crypto-assets-insights-from-yl-computing/"><u>Exploring the Best Wallet Options for Storing Your Crypto Assets - Insights From YL Computing</u></a></li>
 <li><a href="https://win-net.techidaily.com/how-to-accelerate-your-aging-pc-expert-tips-and-tricks-by-yl-computing/"><u>How to Accelerate Your Aging PC: Expert Tips and Tricks by YL Computing</u></a></li>
 <li><a href="https://win-net.techidaily.com/identifying-typical-physical-issues-in-your-pc-a-guide-insights-by-yl-tech-solutions/"><u>Identifying Typical Physical Issues in Your PC: A Guide - Insights by YL Tech Solutions</u></a></li>
-<li><a href="https://win-net.techidaily.com/is-your-computers-storage-device-malfunctioning-expert-tips-from-yl-computing-and-software-solutions/"><u>Is Your Computer's Storage Device Malfunctioning? Expert Tips From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-stardews-successors-top-10-farming-sim-picks/"><u>In 2024, Stardew's Successors Top 10 Farming Sim Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-presentation-designs-using-chatgpt/"><u>Innovative Presentation Designs Using ChatGPT</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/master-class-on-vsco-camera-and-lens-for-creative-use/"><u>Master Class on VSCO Camera & Lens for Creative Use</u></a></li>
 <li><a href="https://win-net.techidaily.com/premium-scotland-wallpaper-pack-for-laptops-and-desktops-4k-resolution-yl-software-creation/"><u>Premium Scotland Wallpaper Pack for Laptops & Desktops, 4K Resolution, YL Software Creation</u></a></li>
-<li><a href="https://win-info.techidaily.com/simplifying-the-complexity-how-microsofts-flawed-ai-was-cracked-with-minimal-skill-discovered-by-zdnet/"><u>Simplifying the Complexity: How Microsoft’s Flawed AI Was Cracked with Minimal Skill | Discovered by ZDNET</u></a></li>
+<li><a href="https://win-studio.techidaily.com/resolving-software-issues-expert-tips-from-yl-computings-latest-article/"><u>Resolving Software Issues: Expert Tips From YL Computing's Latest Article</u></a></li>
 <li><a href="https://win-net.techidaily.com/solving-your-screen-woes-why-wont-my-monitor-show-pictures-expert-insight-by-yl-computing/"><u>Solving Your Screen Woes: Why Won't My Monitor Show Pictures? Expert Insight by YL Computing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-interaction-5-innovative-ways-to-direct-chatgpt-through-voice-commands/"><u>Transform Interaction: 5 Innovative Ways to Direct ChatGPT Through Voice Commands</u></a></li>
 <li><a href="https://win-net.techidaily.com/yls-ultimate-tips-for-blocking-websites-via-windows-settings-enhanced-security-and-parental-control-solutions/"><u>YL's Ultimate Tips for Blocking Websites via Windows Settings – Enhanced Security and Parental Control Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: LYRX Karaoke App v1.3.0.1 Now Available - Free Mac Compatible Downloads
-date: 2024-12-06T08:24:59.229Z
-updated: 2024-12-08T22:50:36.544Z
+date: 2024-12-08T08:15:01.414Z
+updated: 2024-12-15T07:51:31.446Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ _**Note:** Another update is scheduled soon for LYRX that includes new features.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3.0.1
@@ -41,7 +41,7 @@ _**Note:** Another update is scheduled soon for LYRX that includes new features.
 _Have questions about the latest 1.3.0.1 version of our **karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,18 +63,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/lyrx-update-v1301.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-script-to-screen-professional-youtube-editing-secrets-for-2024/"><u>[New] From Script to Screen Professional YouTube Editing Secrets for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-voiceover-on-tiktok-enhancing-your-presence/"><u>[New] In 2024, Voiceover on TikTok Enhancing Your Presence</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-mastering-dvd-creation-a-guide-for-mac-users/"><u>2024 Approved Mastering DVD Creation A Guide for Mac Users</u></a></li>
-<li><a href="https://win-net.techidaily.com/adjusting-system-optimization-preferences-a-guide-by-yl-computing/"><u>Adjusting System Optimization Preferences: A Guide by YL Computing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-vivo-y27-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Vivo Y27 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/compact-and-accurate-discover-how-sabrents-cable-connected-travel-mouse-revolutionizes-portable-computing/"><u>Compact and Accurate: Discover How Sabrent’s Cable-Connected Travel Mouse Revolutionizes Portable Computing</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/converti-video-flv-in-formato-aiff-liberamente-conversiononline/"><u>Converti Video FLV in Formato AIFF Liberamente - ConversionOnline</u></a></li>
-<li><a href="https://win-net.techidaily.com/download-lyrx-karaoke-software-v113-compatible-with-mac-os-x-for-seamless-singing/"><u>Download LYRX Karaoke Software v1.1.3 - Compatible with Mac OS X for Seamless Singing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-smart-8-plus-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Smart 8 Plus Easily?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/lifelike-linkage-logistics-softwares-substance-over-hardwares-hustle-for-2024/"><u>Lifelike Linkage Logistics Software's Substance over Hardware's Hustle for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/spotting-promising-blockchain-initiatives-tips-by-yl-computing-and-yl-software/"><u>Spotting Promising Blockchain Initiatives: Tips by YL Computing and YL Software</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-iphone-14-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from iPhone 14 Plus iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://win-net.techidaily.com/unveiling-the-lasting-effects-of-the-chinese-nationalist-uprising-on-todays-nation-a-perspective-by-software-guru-yl/"><u>Unveiling the Lasting Effects of the Chinese Nationalist Uprising on Today's Nation: A Perspective by Software Guru YL</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ultimate-selection-8-must-have-laptop-backgrounds/"><u>[New] Ultimate Selection 8 Must-Have Laptop Backgrounds</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-ending-previews-on-youtube-a-comprehensive-tutorial/"><u>[Updated] In 2024, Ending Previews on YouTube - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-top-5-websites-for-an-active-social-presence/"><u>[Updated] In 2024, Top 5 Websites for an Active Social Presence</u></a></li>
+<li><a href="https://win-net.techidaily.com/beginners-journey-to-secure-digital-assets-install-a-cryptocurrency-wallet-with-ease-using-yl-computing-tools/"><u>Beginner's Journey to Secure Digital Assets: Install a Cryptocurrency Wallet with Ease Using YL Computing Tools</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-can-i-enhance-the-efficiency-of-my-computers-memory-expert-tips-from-yl-computing/"><u>How Can I Enhance the Efficiency of My Computer's Memory? - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-tecno-pova-5-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Tecno Pova 5 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/professional-wooden-icon-collection-exclusive-product-from-yl-computing/"><u>Professional Wooden Icon Collection - Exclusive Product From YL Computing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/pros-choices-essential-uav-extras-unveiled/"><u>Pros' Choices Essential UAV Extras Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-lost-internet-connection/"><u>Quick Fixes for Lost Internet Connection</u></a></li>
+<li><a href="https://win-net.techidaily.com/spotting-promising-crypto-ventures-with-expert-advice-from-yl-computings-team/"><u>Spotting Promising Crypto Ventures with Expert Advice From YL Computing's Team</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-choosing-optimal-sony-playstation-4-webcam-positioning/"><u>Ultimate Guide: Choosing Optimal Sony PlayStation 4 Webcam Positioning</u></a></li>
+<li><a href="https://win-net.techidaily.com/ultimate-guide-how-to-efficiently-and-safely-clean-your-laptops-fan-tips-from-yl-computing/"><u>Ultimate Guide: How to Efficiently and Safely Clean Your Laptop's Fan - Tips From YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/yl-softwares-expert-strategies-for-safe-and-savvy-cryptocurrency-purchases-protect-your-assets/"><u>YL Software's Expert Strategies for Safe and Savvy Cryptocurrency Purchases: Protect Your Assets</u></a></li>
 </ul></div>
 
