@@ -1,7 +1,7 @@
 ---
 title: "Hercules DJControl Starlight & Inpulse 200 Compatible: DEX-3 Support with Pro DJ Controllers"
-date: 2024-12-07T21:40:33.663Z
-updated: 2024-12-15T07:54:11.635Z
+date: 2024-12-21T17:46:49.619Z
+updated: 2024-12-24T09:46:15.018Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ By downloading and placing the map files (below) in the DJ Controller controller
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules DJControl Starlight
@@ -33,7 +33,7 @@ By downloading and placing the map files (below) in the DJ Controller controller
 [![Hercules DJControl Starlight](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/10244000945cd0ed4c41b8d.jpg?fit=300%2C106&ssl=1 "Hercules DJControl Starlight")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/10244000945cd0ed4c41b8d.jpg?fit=1000%2C352&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ultra-compact, ultra-light, ultra-practical and ultra-unique with its lights, the DJControl Starlight packs all the features needed to mix and scratch. With its built-in audio interface, the DJControl Starlight offers pre-listening in the headphones so you can then play your mix on speakers, which is perfect for learning or creating new mixes. The system is so comprehensive for its size that it boasts all the essential features such as bass equalization/filter knobs for smooth transitions or touch-sensitive jog wheels for easy scratching. The added bonus: the bright and powerful RGB backlighting with unique strobe effects to make it easier to learn how to mix.
@@ -41,7 +41,7 @@ Ultra-compact, ultra-light, ultra-practical and ultra-unique with its lights, th
 Like the Numark DJ2GO2, the Hercules DJControl Starlight is a “throw it in your backpack and go” Controller that’s ideal for house parties and smaller mobile events. It even has a few bells and whistles not available with the aforementioned Numark DJ2GO2, as well. At a price-point of only $89.99 it’s at the very least a fantastic practice unit. For more information on specifications visit the [Hercules DJ Control Starlight Specifications Page](https://www.hercules.com/en-us/product/djcontrolstarlight/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules DJControl Inpulse 200
@@ -49,7 +49,7 @@ Like the Numark DJ2GO2, the Hercules DJControl Starlight is a “throw it in you
 [![Hercules DJControl Inpulse 200](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/image.jpg?fit=300%2C229&ssl=1 "Hercules DJControl Inpulse 200")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/image.jpg?fit=1030%2C787&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The [DJControl Inpulse 200](https://www.hercules.com/en-us/product/djcontrolinpulse200/) has the industry-standard look like many other popular entry-level controllers on the market. It’s equipped with two decks with 8 performance pads per decks, touch-sensitive jog wheels, a 3 band EQ and filter on the mixer and a built-in audio interface with headphone pre-fade listening. It’s a step up from the Starlight, and will run you $119.99 at most online DJ equipment shops. Another small form controller that you can throw in a bag and hit the road with. [Learn more about the specifications on the Hercules DJControl](https://www.hercules.com/en-us/product/djcontrolinpulse200/).
@@ -77,7 +77,7 @@ Keep an eye out for a blog post regarding DEX 3 support for a couple additional 
 _Have questions about the **Hercules DJ Control Starlight** or **Hercules DJ Control Inpulse 200** and how they work with our DEX 3 **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,22 +99,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/06/herculessupported.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/est-transcription-aid-for-your-youtube-videos-for-2024/"><u>[New] Best Transcription Aid for Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-proper-techniques-to-snag-free-secure-vlc-on-a-mac-device/"><u>[Updated] 2024 Approved Proper Techniques to Snag Free, Secure VLC on a Mac Device</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-lightning-fast-windowed-photo-reader-for-win11/"><u>[Updated] In 2024, Lightning-Fast Windowed Photo Reader for Win11</u></a></li>
-<li><a href="https://win-net.techidaily.com/1-troubleshooting-your-non-responsive-computer-mouse-insights-from-yl-computings-experts/"><u>1. Troubleshooting Your Non-Responsive Computer Mouse: Insights From YL Computing's Experts</u></a></li>
-<li><a href="https://win-net.techidaily.com/cosmic-designs-by-yl-software-explore-galaxy-themed-wallpaper-image-and-picture-catalogues-for-your-digital-universe/"><u>Cosmic Designs by YL Software: Explore Galaxy-Themed Wallpaper, Image & Picture Catalogues for Your Digital Universe</u></a></li>
-<li><a href="https://win-net.techidaily.com/expert-tips-on-optimal-windows-defender-usage-and-protection-techniques-by-yl-software/"><u>Expert Tips on Optimal Windows Defender Usage & Protection Techniques by YL Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/exploring-the-impact-of-the-chinese-civil-war-on-societal-changes-insights-from-yl-computing/"><u>Exploring the Impact of the Chinese Civil War on Societal Changes: Insights From YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/fix-your-pcs-abrupt-shutdown-problem-with-simple-troubleshooting-steps-insights-by-yl-computing-experts/"><u>Fix Your PC's Abrupt Shutdown Problem with Simple Troubleshooting Steps - Insights by YL Computing Experts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/gpu-glimpse-new-radeon-unleashed/"><u>GPU Glimpse New Radeon Unleashed</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-realme-note-50-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Realme Note 50 by Name | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-accelerating-video-conversion-youtube-to-mpeg-edition/"><u>In 2024, Accelerating Video Conversion YouTube to MPEG Edition</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-realme-c51-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Realme C51? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-tecno-spark-20-proplus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Tecno Spark 20 Pro+ to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/quick-fixes-for-a-faster-computer-with-guidance-by-yl-software-experts/"><u>Quick Fixes for a Faster Computer with Guidance by YL Software Experts</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-guide-accessing-the-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Accessing the Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-erasing-files-from-your-pc-tech-tips-by-yl-computing/"><u>Step-by-Step Guide: Erasing Files From Your PC - Tech Tips by YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-saving-files-onto-usb-drives-or-external-hard-drives-tips-from-yl-computings-expert-solutions/"><u>Step-by-Step Guide: Saving Files Onto USB Drives or External Hard Drives - Tips From YL Computing's Expert Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-a-comprehensible-guide-for-mastering-instagram-live-engagements/"><u>[New] 2024 Approved A Comprehensible Guide for Mastering Instagram Live Engagements</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-unveiling-the-best-macbook-air-or-pro-with-m1/"><u>[New] 2024 Approved Unveiling the Best MacBook Air or Pro with M1</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-5-premium-hd-webcams-featuring-sound/"><u>[New] Top 5 Premium HD Webcams Featuring Sound</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-step-by-step-adding-movie-maker-videos-to-vimeo-stream/"><u>[Updated] In 2024, Step-by-Step Adding Movie Maker Videos to Vimeo Stream</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-warriors-epic-valhallas-endgame-for-2024/"><u>[Updated] Warriors' Epic Valhalla's Endgame for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/detecting-faulty-hardware-in-your-pc-a-comprehensive-guide-yl-software/"><u>Detecting Faulty Hardware in Your PC: A Comprehensive Guide - YL Software</u></a></li>
+<li><a href="https://win-net.techidaily.com/diy-wireless-printer-connection-expert-tips-from-yl-software/"><u>DIY Wireless Printer Connection: Expert Tips From YL Software</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-solutions-for-dealing-with-malfunctioning-video-cards-by-yl-software-specialists/"><u>Effective Solutions for Dealing With Malfunctioning Video Cards by YL Software Specialists</u></a></li>
+<li><a href="https://win-net.techidaily.com/high-definition-kingfisher-wallpaper-collection-by-yl-computing-stunning-digital-art/"><u>High-Definition Kingfisher Wallpaper Collection by YL Computing - Stunning Digital Art</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-elevating-social-media-interaction-via-fb-story-links/"><u>In 2024, Elevating Social Media Interaction via FB Story Links</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-bluetooth-setup-on-windows-7-in-simple-steps/"><u>Mastering Bluetooth Setup on Windows 7 in Simple Steps</u></a></li>
+<li><a href="https://win-net.techidaily.com/new-press-announcement-pcdj-dex-3-the-latest-dj-software-from-digital-1/"><u>New Press Announcement: PCDJ DEX 3 - The Latest DJ Software From Digital 1</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sonic-relief-for-chrome-users-sound-problems-now-solved/"><u>Sonic Relief for Chrome Users: Sound Problems Now Solved</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-to-fixing-your-internet-connection-expert-advice-by-yl-software-team/"><u>Step-by-Step Guide to Fixing Your Internet Connection: Expert Advice by YL Software Team</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-13-best-free-pdf-editor-apps-july-2024-recommendations/"><u>Top 13 Best Free PDF Editor Apps: July 2024 Recommendations</u></a></li>
+<li><a href="https://win-net.techidaily.com/troubleshooting-laptop-charge-issues-expert-advice-from-yl-computing-and-yl-software/"><u>Troubleshooting Laptop Charge Issues: Expert Advice From YL Computing & YL Software</u></a></li>
+<li><a href="https://win-net.techidaily.com/yl-computings-guide-easily-install-multiple-languages-on-your-windows-10-pc/"><u>YL Computing's Guide: Easily Install Multiple Languages on Your Windows 10 PC</u></a></li>
 </ul></div>
 

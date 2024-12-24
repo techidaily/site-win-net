@@ -1,7 +1,7 @@
 ---
 title: "Introducing the New & Improved DJ Dex: Your Go-To App for iPad DJing"
-date: 2024-12-10T23:04:06.296Z
-updated: 2024-12-15T00:37:13.616Z
+date: 2024-12-19T17:07:30.551Z
+updated: 2024-12-24T03:09:41.225Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Get all touchy with the intuitive interface or plug in a DJ controller for tacti
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s a look at the key features you get with DJ DEX ($4.99):
@@ -61,13 +61,13 @@ Get all touchy with the intuitive interface or plug in a DJ controller for tacti
 [![DJ DEX app platters](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0192.png?fit=300%2C225&ssl=1 "DJ DEX app platters")![DJ DEX app platters](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0192.png?resize=495%2C400&ssl=1 "DJ DEX app platters")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0192.png?fit=1030%2C773&ssl=1 "Platter Display Mode")[![DJ DEX app file browser](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/unnamed.jpg?fit=300%2C225&ssl=1 "DJ DEX app file browser")![DJ DEX app file browser](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/unnamed.jpg?resize=495%2C400&ssl=1 "DJ DEX app file browser")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/unnamed.jpg?fit=1030%2C773&ssl=1 "Browser View")[![DJ DEX app splash screen](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0199.png?fit=300%2C225&ssl=1 "DJ DEX app splash screen")![DJ DEX app splash screen](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0199.png?resize=495%2C400&ssl=1 "DJ DEX app splash screen")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0199.png?fit=1030%2C773&ssl=1 "Loading/Splash Screen")[![DJ DEX App Settings](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0198.png?fit=300%2C225&ssl=1 "DJ DEX App Settings")![DJ DEX App Settings](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0198.png?resize=495%2C400&ssl=1 "DJ DEX App Settings")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0198.png?fit=1030%2C773&ssl=1 "Preferences")[![DJ DEX App hot cues](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0197.png?fit=300%2C225&ssl=1 "DJ DEX App hot cues")![DJ DEX App hot cues](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0197.png?resize=495%2C400&ssl=1 "DJ DEX App hot cues")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0197.png?fit=1030%2C773&ssl=1 "Hot Cues")[![DJ DEX app loops](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0196.png?fit=300%2C225&ssl=1 "DJ DEX app loops")![DJ DEX app loops](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0196.png?resize=495%2C400&ssl=1 "DJ DEX app loops")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0196.png?fit=1030%2C773&ssl=1 "Looping Controls")[![DJ DEX app eq](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0195.png?fit=300%2C225&ssl=1 "DJ DEX app eq")![DJ DEX app eq](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0195.png?resize=495%2C400&ssl=1 "DJ DEX app eq")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0195.png?fit=1030%2C773&ssl=1 "Equalizer")[![DJ DEX app effects](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0194.png?fit=300%2C225&ssl=1 "DJ DEX app effects")![DJ DEX app effects](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0194.png?resize=495%2C400&ssl=1 "DJ DEX app effects")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0194.png?fit=1030%2C773&ssl=1 "X/Y Effects Pads")[![DJ DEX app horizontal waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0193.png?fit=300%2C225&ssl=1 "DJ DEX app horizontal waveforms")![DJ DEX app horizontal waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0193.png?resize=495%2C400&ssl=1 "DJ DEX app horizontal waveforms")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0193.png?fit=1030%2C773&ssl=1 "Horizontal Waveform Mode")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about the new DJ DEX **iPad DJ App**? Feel free to leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -89,22 +89,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/DJDEXAPP.jpg?fit=706%2C360
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-iphone-x876-owners-must-have-gif-apps-guide/"><u>[New] In 2024, IPhone X/8/7/6 Owners' Must-Have GIF Apps Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-mac-users-path-to-professional-audio-with-audacity-for-2024/"><u>[New] Mac Users' Path to Professional Audio with Audacity for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-ringtone-recommendations-for-your-chromium-phone/"><u>[Updated] Ringtone Recommendations for Your Chromium Phone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/beat-the-noise-expert-fixes-to-restore-sound-in-your-2024-call-of-duty-warzone-gameplay/"><u>Beat the Noise: Expert Fixes to Restore Sound in Your 2024 Call of Duty Warzone Gameplay</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/diagnosing-graphic-card-drivers-a-step-by-step-guide-insights-from-yl-computing/"><u>Diagnosing Graphic Card Drivers: A Step-by-Step Guide - Insights From YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/diy-wireless-printer-connection-expert-tips-from-yl-software/"><u>DIY Wireless Printer Connection: Expert Tips From YL Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/ensuring-perfect-fit-a-step-by-step-guide-to-verify-hardware-compatibility-pre-purchase-tips-from-yl-computing/"><u>Ensuring Perfect Fit: A Step-by-Step Guide to Verify Hardware Compatibility Pre-Purchase - Tips From YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-latest-upgrade-iphone-16s-revolutionary-camera-button-revealed/"><u>Exploring the Latest Upgrade: IPhone 16'S Revolutionary Camera Button Revealed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-fix-for-when-windows-10-ignores-your-bluetooth-connections-expert-tips-inside/"><u>Master the Fix for When Windows 10 Ignores Your Bluetooth Connections: Expert Tips Inside</u></a></li>
-<li><a href="https://win-net.techidaily.com/new-press-announcement-pcdj-dex-3-the-latest-dj-software-from-digital-1/"><u>New Press Announcement: PCDJ DEX 3 - The Latest DJ Software From Digital 1</u></a></li>
-<li><a href="https://win-net.techidaily.com/pcdjs-comprehensive-sonic-spectrum-a-visual-and-auditory-guide-to-diverse-music-genres/"><u>PCDJ's Comprehensive Sonic Spectrum: A Visual & Auditory Guide to Diverse Music Genres</u></a></li>
-<li><a href="https://fox-links.techidaily.com/premier-funny-picture-tinker/"><u>Premier Funny Picture Tinker</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revealing-the-curious-minds-how-to-spot-document-viewer-in-google-drive/"><u>Revealing the Curious Minds: How to Spot Document Viewer in Google Drive</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-to-fixing-your-internet-connection-expert-advice-by-yl-software-team/"><u>Step-by-Step Guide to Fixing Your Internet Connection: Expert Advice by YL Software Team</u></a></li>
-<li><a href="https://win-net.techidaily.com/troubleshooting-laptop-charge-issues-expert-advice-from-yl-computing-and-yl-software/"><u>Troubleshooting Laptop Charge Issues: Expert Advice From YL Computing & YL Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/understanding-device-compatibility-for-windows-platforms-a-guide-by-yl-computing/"><u>Understanding Device Compatibility for Windows Platforms: A Guide by YL Computing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-chromebooks-to-the-rescue-mastering-webcam-recordings/"><u>[Updated] 2024 Approved Chromebooks to the Rescue Mastering Webcam Recordings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-art-of-digital-expression-your-guide-to-sharing-animated-messages-on-snapchat/"><u>[Updated] The Art of Digital Expression Your Guide to Sharing Animated Messages on Snapchat</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-oneplus-ace-2v-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide OnePlus Ace 2V Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amazons-hot-deals-for-september-202n-exclusive-picks-by-zdnet-reviewed/"><u>Amazon's Hot Deals for September 202N: Exclusive Picks by ZDNET Reviewed!</u></a></li>
+<li><a href="https://win-net.techidaily.com/data-rescue-tactics-for-accidentally-formatted-drives-including-proven-recovery-methods-by-yl-computing/"><u>Data Rescue Tactics for Accidentally Formatted Drives, Including Proven Recovery Methods by YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/elevate-your-quiz-gatherings-discover-the-updated-party-package-with-state-of-the-art-light-up-buzzers-now-available/"><u>Elevate Your Quiz Gatherings: Discover the Updated Party Package with State-of-the-Art Light Up Buzzers Now Available!</u></a></li>
+<li><a href="https://win-net.techidaily.com/get-the-beat-with-updated-dj-mastery-download-the-latest-pcdj-dex-version-31020-now/"><u>Get the Beat with Updated DJ Mastery: Download the Latest PCDJ DEX Version 3.10.2.0 Now!</u></a></li>
+<li><a href="https://win-net.techidaily.com/high-definition-grim-reaper-wraparound-premium-stock-photography-and-hd-wallpapers-by-yl-computing/"><u>High-Definition Grim Reaper Wraparound - Premium Stock Photography & HD Wallpapers by YL Computing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/c-video-titles-youtubes-most-watched-lore-for-2024/"><u>Iconic Video Titles YouTube's Most-Watched Lore for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/identifying-early-warnings-of-hard-drive-failures-insights-from-yl-computing/"><u>Identifying Early Warnings of Hard Drive Failures - Insights From YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-k11-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Oppo K11 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-solutions-the-leading-cartridge-holder-brands/"><u>Innovative Solutions: The Leading Cartridge Holder Brands</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-the-world-of-consoles-5-must-know-tips-before-buying-one/"><u>Navigating the World of Consoles: 5 Must-Know Tips Before Buying One</u></a></li>
+<li><a href="https://article-tips.techidaily.com/prime-choices-purchasing-your-dreams-in-youtube-ringtones-for-2024/"><u>Prime Choices Purchasing Your Dreams in YouTube Ringtones for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/securing-your-data-a-step-by-step-guide-to-safe-hard-drive-deletion-yl-computing/"><u>Securing Your Data: A Step-by-Step Guide to Safe Hard Drive Deletion - YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-setting-up-your-own-crypto-trading-platform-with-yl-computing-solutions/"><u>Step-by-Step Guide: Setting Up Your Own Crypto Trading Platform with YL Computing Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-lenovo-mouse-pad-issues-on-windows-10-8-and-7-complete-fix-guide/"><u>Troubleshooting Lenovo Mouse Pad Issues on Windows 10, 8 & 7: Complete Fix Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/understanding-and-tracking-your-graphics-cards-memory-consumption-expert-advice-from-yl-software-solutions/"><u>Understanding and Tracking Your Graphics Card's Memory Consumption - Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://win-net.techidaily.com/windows-10-printer-problems-demystified-expert-troubleshooting-tips-from-yl-computing/"><u>Windows 10 Printer Problems Demystified: Expert Troubleshooting Tips From YL Computing</u></a></li>
 </ul></div>
 

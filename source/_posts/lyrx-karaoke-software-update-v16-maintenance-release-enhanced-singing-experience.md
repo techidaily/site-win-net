@@ -1,7 +1,7 @@
 ---
 title: LYRX Karaoke Software Update v1.6 Maintenance Release - Enhanced Singing Experience!
-date: 2024-12-12T02:16:57.004Z
-updated: 2024-12-15T07:38:00.450Z
+date: 2024-12-18T02:53:10.611Z
+updated: 2024-12-23T22:48:48.393Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6659fe54b6365b1f6893f18c4aeffaf5df66ed6e0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A new maintenance release for LYRX 1.6 is available for download.
@@ -29,7 +29,7 @@ Last week, we introduced the [new 1.6 version LYRX](https://tools.techidaily.com
 Download this free LYRX update below and install with your existing version closed to update now. If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a fully-functional free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6 (v2)
@@ -46,7 +46,7 @@ Download this free LYRX update below and install with your existing version clos
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -68,18 +68,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrxforwin-cover-2.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-use-chroma-keying-in-video-making/"><u>[New] In 2024, How to Use Chroma Keying in Video Making</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-best-ios-psp-emulators-our-top-5-selections/"><u>[Updated] Best iOS PSP Emulators Our Top 5 Selections</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-simplified-guide-for-iphones-voice-capture-feature/"><u>[Updated] In 2024, Simplified Guide for iPhone's Voice Capture Feature</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-photographing-for-youtube-the-ultimate-instructions/"><u>[Updated] Photographing for YouTube The Ultimate Instructions</u></a></li>
-<li><a href="https://win-net.techidaily.com/a-comprehensive-guide-to-navigating-windows/"><u>A Comprehensive Guide to Navigating Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comprehensive-review-of-the-plugable-usb-c-dual-hdmi-dock-for-efficient-windows-setup/"><u>Comprehensive Review of the Plugable USB-C Dual HDMI Dock for Efficient Windows Setup</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evolving-intelligence-key-developments-between-gpt-35-and-its-successor-gpt-4/"><u>Evolving Intelligence: Key Developments Between GPT-3.5 and Its Successor, GPT-4</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/expert-guide-to-shooting-awe-inspiring-igtv-content-on-mobile-and-dslrs-for-2024/"><u>Expert Guide to Shooting Awe-Inspiring IGTV Content on Mobile & DSLRs for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mini-movie-script-concept/"><u>In 2024, Mini Movie Script Concept</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/interface-innovations-dissecting-changes-from-w10-to-w11/"><u>Interface Innovations: Dissecting Changes From W10 to W11</u></a></li>
-<li><a href="https://win-net.techidaily.com/introducing-fanburst-your-go-to-hub-for-uploading-and-showcasing-dj-mixes/"><u>Introducing Fanburst - Your Go-To Hub for Uploading and Showcasing DJ Mixes</u></a></li>
-<li><a href="https://win-net.techidaily.com/reinstating-lost-sound-drivers-made-easy-with-yl-software-solutions/"><u>Reinstating Lost Sound Drivers Made Easy with YL Software Solutions</u></a></li>
-<li><a href="https://win-net.techidaily.com/understanding-key-drivers-behind-cryptocurrency-valuations-insights-by-yl-computing/"><u>Understanding Key Drivers Behind Cryptocurrency Valuations - Insights by YL Computing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-instagrams-most-active-hours/"><u>[New] In 2024, Mastering Instagram's Most Active Hours</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-real-time-recording-rivals-obs-and-shadowtoolkit/"><u>[New] In 2024, Real-Time Recording Rivals OBS & ShadowToolKit</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pixel-humorist-tools-kapwings-meme-mastery/"><u>[New] Pixel Humorist Tools Kapwing’s Meme Mastery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/4k-durable-laptop-vs-dell-latitude-a-comprehensive-torture-test-showdown/"><u>$4K Durable Laptop Vs. Dell Latitude: A Comprehensive Torture Test Showdown!</u></a></li>
+<li><a href="https://win-net.techidaily.com/1-how-can-i-resolve-the-missing-sound-driver-issue-in-my-system-insights-and-fixes-by-yl-computing/"><u>1. How Can I Resolve the Missing Sound Driver Issue in My System? - Insights & Fixes by YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/exclusive-muscle-car-hd-background-gallery-professional-photographs-images-and-pictures-for-desktop-by-yl-software-solutions/"><u>Exclusive Muscle Car HD Background Gallery - Professional Photographs, Images, and Pictures for Desktop by YL Software Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-a-splash-damaged-iphone-clearing-out-the-speakers/"><u>How to Fix a Splash-Damaged iPhone: Clearing Out the Speakers</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-to-improve-pc-performance-effective-programs-for-minimizing-excess-processes-guided-by-experts-at-yl-software/"><u>How to Improve PC Performance: Effective Programs for Minimizing Excess Processes, Guided by Experts at YL Software</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-reno-10-proplus-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 10 Pro+ 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/identifying-the-need-for-a-new-motherboard-signs-of-cpu-damage-decoded-expert-insights-by-yl-computing/"><u>Identifying the Need for a New Motherboard: Signs of CPU Damage Decoded - Expert Insights by YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-xiaomi-redmi-note-13-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Xiaomi Redmi Note 13 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/mastering-pdfs-the-ultimate-tutorial-for-opening-pdf-documents-from-tech-expertise-at-yl-computing/"><u>Mastering PDFs: The Ultimate Tutorial for Opening PDF Documents From Tech Expertise at YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/navigating-to-taskbar-and-start-menu-properties-from-the-control-panel-in-windows-a-comprehensive-tutorial-yl-computing/"><u>Navigating to Taskbar and Start Menu Properties From the Control Panel in Windows: A Comprehensive Tutorial - YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/reinstalling-windows-photo-viewer-on-windows-10-easy-steps-and-tips/"><u>Reinstalling Windows Photo Viewer on Windows 10: Easy Steps and Tips</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-replacing-damaged-electronics-components-with-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Replacing Damaged Electronics Components with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-pioneers-making-waves-in-digital-av-creation/"><u>Top Pioneers Making Waves in Digital AV Creation</u></a></li>
+<li><a href="https://win-net.techidaily.com/unrecognized-hardware-issue-on-your-pc-heres-what-you-need-from-yl-computing/"><u>Unrecognized Hardware Issue on Your PC? Here's What You Need From YL Computing!</u></a></li>
+<li><a href="https://win-net.techidaily.com/yl-computings-guide-selecting-the-ideal-antivirus-solution-for-your-pc/"><u>YL Computing's Guide: Selecting the Ideal Antivirus Solution for Your PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Download LYRX Karaoke Software v1.1.3 - Compatible with Mac OS X for Seamless Singing
-date: 2024-12-08T17:19:43.870Z
-updated: 2024-12-15T05:58:16.761Z
+date: 2024-12-23T09:29:42.055Z
+updated: 2024-12-24T02:06:05.225Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### NEW AND CHANGED IN LYRX 1.1.3
@@ -51,7 +51,7 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 _**NOTE:** With your existing version of LYRX closed, download and install version 1.1.3 to update now_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How The Party Tyme Karaoke Subscription Works In LYRX
@@ -59,7 +59,7 @@ _**NOTE:** With your existing version of LYRX closed, download and install versi
 _Have questions about our **top karaoke software for MAC** and the new features found in LYRX 1.1.3? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,16 +81,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/lyrxv113-now-available.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-advanced-techniques-for-quality-audio-on-ipads/"><u>2024 Approved Advanced Techniques for Quality Audio on iPads</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-perfect-your-android-experience-with-screen-and-video-tech/"><u>2024 Approved Perfect Your Android Experience with Screen & Video Tech</u></a></li>
-<li><a href="https://win-net.techidaily.com/choosing-the-right-cable-a-guide-to-connecting-your-printer-to-a-windows-pc-with-yl-computing-solutions/"><u>Choosing the Right Cable: A Guide to Connecting Your Printer to a Windows PC with YL Computing Solutions</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/compile-of-the-most-beautiful-wedding-videos-youtube-and-vimeo-edition/"><u>Compile of the Most Beautiful Wedding Videos - Youtube & Vimeo Edition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-meets-bing-seeking-supreme-generative-ai-chatbot/"><u>GPT Meets Bing - Seeking Supreme Generative AI Chatbot</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-to-ensure-your-pcs-security-top-tips-and-strategies-from-yl-computing/"><u>How to Ensure Your PC's Security: Top Tips and Strategies From YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-to-fix-a-scanner-not-recognizing-your-input-expert-advice-from-yl-computing/"><u>How to Fix a Scanner Not Recognizing Your Input: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/installers-manual-setting-up-win11-in-vmware-17/"><u>Installer's Manual: Setting Up Win11 in VMware 17</u></a></li>
-<li><a href="https://win-net.techidaily.com/mastering-network-management-on-windows-pcs-a-detailed-tutorial-from-yl-software-pros/"><u>Mastering Network Management on Windows PCs: A Detailed Tutorial From YL Software Pros</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/purchase-bitraser-the-ultimate-secure-disk-wiping-tool/"><u>Purchase BitRaser: The Ultimate Secure Disk Wiping Tool</u></a></li>
-<li><a href="https://win-net.techidaily.com/resolving-graphics-card-issues-post-driver-update-a-step-by-step-guide-experts-at-yl-computing/"><u>Resolving Graphics Card Issues Post-Driver Update: A Step-by-Step Guide - Experts at YL Computing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-unleashing-content-effortless-download-of-youtube-video-for-ios/"><u>[New] In 2024, Unleashing Content Effortless Download of Youtube Video for iOS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-dive-deep-into-video-creation-with-these-top-12-vlogger-friendly-cameras/"><u>[Updated] 2024 Approved Dive Deep Into Video Creation with These Top 12 Vlogger-Friendly Cameras</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-extensive-analysis-samsungs-immersive-sphere-technology/"><u>[Updated] In 2024, Extensive Analysis Samsung's Immersive Sphere Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/banish-your-fear-of-excel-with-chatgpt-integration-a-comprehve-guide/"><u>Banish Your Fear of Excel with ChatGPT Integration - A Comprehve Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/beginners-journey-to-secure-digital-assets-install-a-cryptocurrency-wallet-with-ease-using-yl-computing-tools/"><u>Beginner's Journey to Secure Digital Assets: Install a Cryptocurrency Wallet with Ease Using YL Computing Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/descargue-audio-en-mp3-sin-costo-alguno-desde-su-pc-o-mac-con-la-herramienta-online-de-conversion-de-archivos-au-a-mp3-de-movavi/"><u>Descargue Audio en MP3 Sin Costo Alguno Desde Su PC O Mac Con La Herramienta Online De Conversión De Archivos AU a MP3 De Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/detailed-review-official-release-winxvideo-ai-features-and-technical-specifications/"><u>Detailed Review: [Official Release] WinXVideo AI Features and Technical Specifications</u></a></li>
+<li><a href="https://win-net.techidaily.com/expert-solutions-for-empty-displays-understanding-and-fixing-monitor-problems-with-yl-software-advice/"><u>Expert Solutions for Empty Displays: Understanding and Fixing Monitor Problems with YL Software Advice</u></a></li>
+<li><a href="https://win-net.techidaily.com/font-installation-steps-a-comprehensive-guide-by-yl-computing/"><u>Font Installation Steps: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-ace-3-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Ace 3 To Phone | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/mastering-windows-energy-management-comprehensive-guide-from-yl-software-experts/"><u>Mastering Windows Energy Management - Comprehensive Guide From YL Software Experts</u></a></li>
+<li><a href="https://win-net.techidaily.com/nyc-dj-transforms-subway-into-electrifying-on-the-go-dance-fest/"><u>NYC DJ Transforms Subway Into Electrifying On-the-Go Dance Fest</u></a></li>
+<li><a href="https://win-net.techidaily.com/printer-configuration-restart-tutorial-a-step-by-step-guide-by-yl-computing/"><u>Printer Configuration Restart Tutorial: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-jscriptdll-file-cant-be-found-a-comprehensive-guide/"><u>Solving the jScript.dll File Can't Be Found: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/troubleshooting-tips-resolving-application-launch-issues-in-windows-insights-from-yl-computing/"><u>Troubleshooting Tips: Resolving Application Launch Issues in Windows - Insights From YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/ultimate-guide-how-to-efficiently-and-safely-clean-your-laptops-fan-tips-from-yl-computing/"><u>Ultimate Guide: How to Efficiently and Safely Clean Your Laptop's Fan - Tips From YL Computing</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ultimate-guide-how-to-safely-extract-drm-protection-from-various-ebook-formats-like-epub-pdf-and-azw/"><u>Ultimate Guide: How To Safely Extract DRM Protection From Various Ebook Formats Like ePUB, PDF & AZW</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-secrets-to-easier-driving-with-evs-free-parking-spots-and-faster-commutes-via-hov-lanes/"><u>Unlock the Secrets to Easier Driving with EVs: Free Parking Spots & Faster Commutes via HOV Lanes</u></a></li>
+<li><a href="https://win-net.techidaily.com/yl-software-premium-korean-style-purple-background-graphics-and-hd-wallpapers-for-inspiration/"><u>YL Software: Premium Korean-Style Purple Background Graphics and HD Wallpapers for Inspiration</u></a></li>
 </ul></div>
 

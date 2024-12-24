@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Mastering Effortless Music Downloads on DEX 3 & LYRX - A Must-Know Technique for Disc Jockeys & Singalong Conductors"
-date: 2024-12-13T04:41:57.146Z
-updated: 2024-12-14T23:16:45.644Z
+date: 2024-12-19T01:47:05.498Z
+updated: 2024-12-24T07:34:12.181Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Fret not, for the solution is simpler than you might think, turning this dauntin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Get Set with Google Chrome
@@ -33,7 +33,7 @@ Fret not, for the solution is simpler than you might think, turning this dauntin
 First thing’s first: ensure you have [Google Chrome](https://www.google.com/chrome/) installed on your Windows or Mac computer. This is going to be your gateway to quickly downloading new tracks directly into your DEX 3 or LYRX library.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Nest and Set
@@ -41,7 +41,7 @@ First thing’s first: ensure you have [Google Chrome](https://www.google.com/ch
 Before we dive into Chrome, make sure you’ve got a specific folder [nested under favorites](https://www.youtube.com/watch?v=hRQVXTi64AM&ab%5Fchannel=PCDJHeadquarters) in your DEX 3 or LYRX. This little organizational trick is going to be a lifesaver, trust me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Chrome Configuration
@@ -53,7 +53,7 @@ Now, let’s tweak Chrome to make your life easier:
 * Find the “Downloads” section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 4: Direct and Download
@@ -72,7 +72,7 @@ That’s all there is to it. Now, whenever you find yourself needing to download
 Remember, keeping your library fresh and responsive to your audience can set you apart in the dynamic world of DJing and karaoke hosting. With this simple setup, you’re not just playing music; you’re curating an experience that feels personal and spontaneous. So go ahead, embrace those on-the-fly requests, and keep the party lively and engaging with your newfound, seamless track-adding skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,19 +94,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2024/03/automatically-importing-do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-avoiding-pitfalls-smart-strategies-for-acquiring-youtubes/"><u>[New] 2024 Approved Avoiding Pitfalls Smart Strategies for Acquiring Youtubes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-dial-up-your-digital-influence-nine-simple-steps-on-instagram-for-2024/"><u>[New] Dial Up Your Digital Influence Nine Simple Steps on Instagram for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-understanding-the-spectrum-expert-color-calibration/"><u>[New] In 2024, Understanding the Spectrum Expert Color Calibration</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-exploring-easy-to-use-game-recording-and-edit-software/"><u>[Updated] 2024 Approved Exploring Easy-to-Use Game Recording & Edit Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/1-troubleshooting-your-non-responsive-computer-mouse-insights-from-yl-computings-experts/"><u>1. Troubleshooting Your Non-Responsive Computer Mouse: Insights From YL Computing's Experts</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/ace-languages-premier-examinations-and-prep-strategies/"><u>Ace Languages: Premier Examinations and Prep Strategies</u></a></li>
-<li><a href="https://win-net.techidaily.com/changing-your-document-format-a-step-by-step-guide-by-yl-computing/"><u>Changing Your Document Format: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/expert-tips-on-optimal-windows-defender-usage-and-protection-techniques-by-yl-software/"><u>Expert Tips on Optimal Windows Defender Usage & Protection Techniques by YL Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/exploring-the-impact-of-the-chinese-civil-war-on-societal-changes-insights-from-yl-computing/"><u>Exploring the Impact of the Chinese Civil War on Societal Changes: Insights From YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improve-your-gameplay-with-these-essential-fixes-for-high-frame-rate-drops-in-valorant/"><u>Improve Your Gameplay with These Essential Fixes for High Frame Rate Drops in Valorant</u></a></li>
-<li><a href="https://win-net.techidaily.com/master-your-pcs-energy-use-setting-up-windows-power-options-with-yl-computing-tips/"><u>Master Your PC's Energy Use: Setting Up Windows Power Options with YL Computing Tips</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-erasing-files-from-your-pc-tech-tips-by-yl-computing/"><u>Step-by-Step Guide: Erasing Files From Your PC - Tech Tips by YL Computing</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-with-a-nonfunctional-paradox-launcher/"><u>Troubleshooting Guide: Resolving Issues with a Nonfunctional Paradox Launcher</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-9-best-online-mic-recorders-2023-for-2024/"><u>[Updated] 9 Best Online Mic Recorders 2023 for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-maximize-productivity-innovative-windows-10-tips/"><u>[Updated] Maximize Productivity Innovative Windows 10 Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-create-brand-symbols-from-templates-at-no-cost/"><u>2024 Approved Create Brand Symbols From Templates at No Cost</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-video-content-insights-into-effective-keywords/"><u>2024 Approved Mastering Video Content Insights Into Effective Keywords</u></a></li>
+<li><a href="https://win-net.techidaily.com/boosting-pc-boot-times-with-simple-techniques-an-expert-guide-from-the-team-at-yl-computing/"><u>Boosting PC Boot Times with Simple Techniques: An Expert Guide From the Team at YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-instructions-for-linking-your-printer-with-different-devices/"><u>Comprehensive Instructions for Linking Your Printer with Different Devices</u></a></li>
+<li><a href="https://win-net.techidaily.com/diagnosing-screen-silence-what-drives-a-monitor-to-show-no-signal-error-expertise-by-yl-software/"><u>Diagnosing Screen Silence: What Drives a Monitor to Show No Signal Error? – Expertise by YL Software</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-solutions-when-your-program-encounters-a-crash-yl-computings-guide/"><u>Effective Solutions When Your Program Encounters a Crash - YL Computing's Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-strategies-for-optimizing-memory-consumption-in-windows-yl-computing-guide/"><u>Effective Strategies for Optimizing Memory Consumption in Windows - YL Computing Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-films-anticipated-the-covid-19-pandemic-years-before-it-happened/"><u>How Films Anticipated the COVID-19 Pandemic Years Before It Happened</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-screen-record-on-hp-laptop-best-4-ways-to-use/"><u>How to Screen Record on Hp Laptop? - Best 4 Ways to Use</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-turn-artistry-professionally-crafted-valorant-game-imagery/"><u>In 2024, Quick-Turn Artistry Professionally Crafted Valorant Game Imagery</u></a></li>
+<li><a href="https://win-net.techidaily.com/modifying-your-start-menu-experience-on-windows-11-a-guide-from-yl-computing/"><u>Modifying Your Start Menu Experience on Windows 11: A Guide From YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/navigating-windows-malfunctions-essential-steps-by-yl-software-professionals/"><u>Navigating Windows Malfunctions: Essential Steps by YL Software Professionals</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-a-comprehensive-tutorial-on-mp4-video-editing-for-mac-and-windows-users/"><u>New Edit Like a Pro A Comprehensive Tutorial on MP4 Video Editing for Mac and Windows Users</u></a></li>
+<li><a href="https://win-net.techidaily.com/solving-your-pcs-physical-issues-comprehensive-troubleshooting-guide-by-yl-software/"><u>Solving Your PC's Physical Issues: Comprehensive Troubleshooting Guide by YL Software</u></a></li>
+<li><a href="https://win-net.techidaily.com/top-reasons-behind-frequent-system-lock-ups-insights-from-yl-computing/"><u>Top Reasons Behind Frequent System Lock-Ups: Insights From YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-powerful-ai-driven-searches-on-bing-the-user-registration-process-explained/"><u>Unlock Powerful AI-Driven Searches on Bing: The User Registration Process Explained</u></a></li>
+<li><a href="https://win-net.techidaily.com/verifying-your-pcs-cooling-efficiency-a-step-by-step-guide-insights-from-yl-computing/"><u>Verifying Your PC's Cooling Efficiency: A Step-by-Step Guide - Insights From YL Computing</u></a></li>
 </ul></div>
 

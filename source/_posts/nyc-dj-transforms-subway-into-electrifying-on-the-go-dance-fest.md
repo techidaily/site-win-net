@@ -1,7 +1,7 @@
 ---
 title: NYC DJ Transforms Subway Into Electrifying On-the-Go Dance Fest
-date: 2024-12-10T16:36:26.935Z
-updated: 2024-12-15T03:38:22.583Z
+date: 2024-12-22T16:46:57.891Z
+updated: 2024-12-24T01:02:42.183Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ As you watch the video of the event below try to keep in perspective why you bec
 #### AMK Productions Turns NYC Subway Car Into A Mobile Dance Party
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,18 +46,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/mobiledanceparty-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-learn-the-art-of-virality-infuse-insta-reels-with-tiktok-charm/"><u>[New] Learn the Art of Virality Infuse Insta Reels With TikTok Charm</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-guide-7-high-ranking-audio-transformation-apps/"><u>[New] Ultimate Guide 7 High-Ranking Audio Transformation Apps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-stretched-visual-field-in-widescreen-windows-10/"><u>Addressing Stretched Visual Field in Widescreen Windows 10</u></a></li>
-<li><a href="https://win-net.techidaily.com/beginners-journey-to-secure-digital-assets-install-a-cryptocurrency-wallet-with-ease-using-yl-computing-tools/"><u>Beginner's Journey to Secure Digital Assets: Install a Cryptocurrency Wallet with Ease Using YL Computing Tools</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/descargue-su-software-libre-para-convertir-3g2-en-mp3-usando-movavi-sin-costo/"><u>Descargue Su Software Libre Para Convertir 3G2 en MP3 Usando Movavi - Sin Costo!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhance-your-gaming-experience-with-these-fixes-for-cod-modern-warfare-stability-issues/"><u>Enhance Your Gaming Experience with These Fixes for Cod: Modern Warfare Stability Issues</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-can-i-enhance-the-efficiency-of-my-computers-memory-expert-tips-from-yl-computing/"><u>How Can I Enhance the Efficiency of My Computer's Memory? - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-adjust-and-fix-sideways-video-display-errors-in-asus-systems/"><u>How to Adjust and Fix Sideways Video Display Errors in ASUS Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-2023-where-new-technology-meets-you/"><u>IFA 2023: Where New Technology Meets You</u></a></li>
-<li><a href="https://win-net.techidaily.com/professional-wooden-icon-collection-exclusive-product-from-yl-computing/"><u>Professional Wooden Icon Collection - Exclusive Product From YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/stay-informed-on-product-safety-with-amazon-now-tracking-recalled-items-in-your-order-history-zdnet/"><u>Stay Informed on Product Safety with Amazon Now! Tracking Recalled Items in Your Order History | ZDNet</u></a></li>
-<li><a href="https://win-net.techidaily.com/ultimate-guide-how-to-efficiently-and-safely-clean-your-laptops-fan-tips-from-yl-computing/"><u>Ultimate Guide: How to Efficiently and Safely Clean Your Laptop's Fan - Tips From YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-ftddi-hardware-errors-caused-by-incompatible-device-drivers/"><u>Understanding and Resolving FTDDI Hardware Errors Caused by Incompatible Device Drivers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-best-movie-trailers/"><u>[Updated] 2024 Approved Best Movie Trailers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-luts-utilization-in-movie-color-grading/"><u>[Updated] Luts Utilization in Movie Color Grading</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-channel-art-how-to-make-banners-icons-and-thumbnails/"><u>2024 Approved YouTube Channel Art How to Make Banners, Icons, and Thumbnails?</u></a></li>
+<li><a href="https://win-net.techidaily.com/are-you-experiencing-excessive-noise-from-your-laptop-cooling-system-a-guide-by-yl-computing/"><u>Are You Experiencing Excessive Noise From Your Laptop Cooling System? - A Guide by YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/convert-avi-videos-into-high-impact-gifs-using-filmora-for-windowsmacos-for-2024/"><u>Convert AVI Videos Into High Impact GIFs Using Filmora for Windows/MacOS for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/creating-a-quick-access-key-for-ppt-files-a-guide-yl-tech-solutions/"><u>Creating a Quick Access Key for PPT Files: A Guide - YL Tech Solutions</u></a></li>
+<li><a href="https://win-net.techidaily.com/download-the-latest-dj-mixing-software-update-v39010-compatible-with-all-dex-3-editions/"><u>Download the Latest DJ Mixing Software Update (v3.9.0.10) - Compatible with All Dex #3 Editions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-updating-thunderbolt-3-drivers-on-windows-1187/"><u>Easy Guide to Downloading & Updating Thunderbolt 3 Drivers on Windows 11/8/7</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-strategies-for-enhancing-your-computers-memory-management-tips-from-yl-computing/"><u>Effective Strategies for Enhancing Your Computer's Memory Management - Tips From YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/enhance-windows-11-efficiency-essential-strategies-by-yl-software-experts/"><u>Enhance Windows 11 Efficiency: Essential Strategies by YL Software Experts</u></a></li>
+<li><a href="https://win-net.techidaily.com/is-my-graphics-card-working-right-learn-the-key-indicators-with-insights-by-yl-software/"><u>Is My Graphics Card Working Right? Learn the Key Indicators with Insights by YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mysterious-keys-cessation/"><u>Mysterious Keys Cessation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210353298-9781914264375-the-other-side-of-me-a-psychics-journey-of-empowerment-and-healing/"><u>The Other Side Of Me - A Psychic's Journey of Empowerment and Healing | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-essentials-a-checklist-before-purchasing-your-next-game-console/"><u>Top 5 Essentials: A Checklist Before Purchasing Your Next Game Console</u></a></li>
 </ul></div>
 
