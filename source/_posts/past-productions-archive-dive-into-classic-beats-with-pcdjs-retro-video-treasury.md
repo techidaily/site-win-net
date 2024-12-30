@@ -1,7 +1,7 @@
 ---
 title: "Past Productions Archive: Dive Into Classic Beats with PCDJ's Retro Video Treasury"
-date: 2024-12-20T16:51:25.694Z
-updated: 2024-12-23T23:10:58.655Z
+date: 2024-12-22T22:40:48.489Z
+updated: 2024-12-29T19:11:02.521Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ It was during these early years that digital DJ technology was met with extreme 
 **Here’s three old-school PCDJ videos that both took me down memory lane, and reminded me of just how much DJ software technology has evolved:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,18 +48,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/01/videoarchive-coverimage2.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-glacial-gala-winter-olympics-excellence/"><u>[New] 2024 Approved Glacial Gala Winter Olympics Excellence</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-x100-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo X100 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/yl-softwareu/"><u>简单而深邃：从雪球到亿万，YL Software分享的投资思想与u计划</u></a></li>
-<li><a href="https://facebook.techidaily.com/ai-supremacy-on-the-horizon-metas-initiative/"><u>AI Supremacy on the Horizon - Meta's Initiative</u></a></li>
-<li><a href="https://win-net.techidaily.com/download-captivating-ririka-momobami-backgrounds-for-pc-premium-graphics-from-yl-software/"><u>Download Captivating Ririka Momobami Backgrounds for PC - Premium Graphics From YL Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/get-the-latest-from-new-party-tyme-exclusive-karaoke-streaming-service-launched-april-23-2018/"><u>Get the Latest From New Party Tyme: Exclusive Karaoke Streaming Service Launched April 23, 2018</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-to-access-mouse-preferences-a-guide-by-yl-computing/"><u>How to Access Mouse Preferences: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/speed-hacks-for-your-computer-expert-advice-on-freeing-disk-space-and-accelerating-system-speed-with-yl-software-solutions/"><u>Speed Hacks for Your Computer: Expert Advice on Freeing Disk Space and Accelerating System Speed with YL Software Solutions</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-removing-outdated-device-drivers-on-windows-tips-from-yl-software/"><u>Step-by-Step Guide: Removing Outdated Device Drivers on Windows - Tips From YL Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-evolution-of-large-language-models-introducing-googles-newly-developed-palm-2-solution/"><u>The Evolution of Large Language Models: Introducing Google's Newly Developed PaLM 2 Solution</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-10-leading-microsoft-business-apps-of-2n22-for-ios-devices-comprehensive-zdnet-review/"><u>Top 10 Leading Microsoft Business Apps of 2N22 for iOS Devices: Comprehensive ZDNet Review</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-fix-phasmophobia-voice-chat-issues/"><u>Troubleshooting: How To Fix 'Phasmophobia' Voice Chat Issues</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-you-can-calculate-timecode-in-video-with-software-do-you-know-what-are-the-best-calculator-in-this-article-you-will-learn-8-best-timec/"><u>Updated 2024 Approved You Can Calculate Timecode in Video with Software. Do You Know What Are the Best Calculator? In This Article, You Will Learn 8 Best Timecode Calculator Online, iPhone and Android</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-deciphering-highlighted-discussion-threads/"><u>[New] In 2024, Deciphering Highlighted Discussion Threads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-behind-the-scenes-top-storytelling-channels-on-yt-2023/"><u>[Updated] Behind-the-Scenes Top Storytelling Channels on YT, 2023</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-premier-10plus-free-video-intro-creators/"><u>[Updated] Premier 10+ Free Video Intro Creators</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-verdict-on-android-photo-editing-does-picku-excel/"><u>[Updated] The Verdict on Android Photo Editing – Does PickU Excel?</u></a></li>
+<li><a href="https://win-net.techidaily.com/1-troubleshooting-your-pc-understanding-why-it-wont-start-expert-tips-by-yl-software/"><u>1. Troubleshooting Your PC: Understanding Why It Won't Start - Expert Tips by YL Software</u></a></li>
+<li><a href="https://win-net.techidaily.com/demystifying-the-system-registry-insights-from-yl-computing-and-software-expertise/"><u>Demystifying the System Registry: Insights From YL Computing & Software Expertise</u></a></li>
+<li><a href="https://win-net.techidaily.com/hercules-djcontrol-starlight-and-inpulse-200-compatible-dex-3-support-with-pro-dj-controllers/"><u>Hercules DJControl Starlight & Inpulse 200 Compatible: DEX-3 Support with Pro DJ Controllers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-samsung-galaxy-a14-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Samsung Galaxy A14 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/insights-into-the-sociopolitical-impact-of-chinas-great-proletarian-cultural-revolution-an-expert-analysis/"><u>Insights Into The Sociopolitical Impact of China's Great Proletarian Cultural Revolution - An Expert Analysis</u></a></li>
+<li><a href="https://win-net.techidaily.com/marvels-aquaman-mermaid-princess-mera-collect-premier-posters-and-backgrounds-from-queen-mera-fans-endorsed-by-yl-computing/"><u>Marvel's Aquaman Mermaid Princess Mera: Collect Premier Posters and Backgrounds From Queen Mera Fans, Endorsed by YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/maximizing-your-pcs-performance-essential-hardware-upgrades-insights-from-yl-computing/"><u>Maximizing Your PC's Performance: Essential Hardware Upgrades - Insights From YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-startech-drivers-problems-on-windows-11-8-and-7-a-step-by-step-guide/"><u>Resolving StarTech Drivers Problems on Windows 11, 8 & 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/starting-with-social-giving-best-practices-for-fb-posts-for-2024/"><u>Starting with Social Giving Best Practices for FB Posts for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/troubleshooting-a-malfunctioning-graphics-card-expert-tips-and-solutions-yl-tech-support/"><u>Troubleshooting a Malfunctioning Graphics Card: Expert Tips & Solutions - YL Tech Support</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-to-successful-family-account-sharing-a-guide-to-fix-6-common-problems/"><u>Unlocking the Secrets to Successful Family Account Sharing – A Guide to Fix 6 Common Problems</u></a></li>
 </ul></div>
 

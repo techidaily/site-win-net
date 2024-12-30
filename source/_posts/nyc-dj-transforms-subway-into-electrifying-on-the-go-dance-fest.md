@@ -1,7 +1,7 @@
 ---
 title: NYC DJ Transforms Subway Into Electrifying On-the-Go Dance Fest
-date: 2024-12-22T16:46:57.891Z
-updated: 2024-12-24T01:02:42.183Z
+date: 2024-12-25T23:32:51.744Z
+updated: 2024-12-29T23:12:32.701Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ As you watch the video of the event below try to keep in perspective why you bec
 #### AMK Productions Turns NYC Subway Car Into A Mobile Dance Party
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,20 +46,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/mobiledanceparty-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-best-movie-trailers/"><u>[Updated] 2024 Approved Best Movie Trailers</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-luts-utilization-in-movie-color-grading/"><u>[Updated] Luts Utilization in Movie Color Grading</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-channel-art-how-to-make-banners-icons-and-thumbnails/"><u>2024 Approved YouTube Channel Art How to Make Banners, Icons, and Thumbnails?</u></a></li>
-<li><a href="https://win-net.techidaily.com/are-you-experiencing-excessive-noise-from-your-laptop-cooling-system-a-guide-by-yl-computing/"><u>Are You Experiencing Excessive Noise From Your Laptop Cooling System? - A Guide by YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/convert-avi-videos-into-high-impact-gifs-using-filmora-for-windowsmacos-for-2024/"><u>Convert AVI Videos Into High Impact GIFs Using Filmora for Windows/MacOS for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/creating-a-quick-access-key-for-ppt-files-a-guide-yl-tech-solutions/"><u>Creating a Quick Access Key for PPT Files: A Guide - YL Tech Solutions</u></a></li>
-<li><a href="https://win-net.techidaily.com/download-the-latest-dj-mixing-software-update-v39010-compatible-with-all-dex-3-editions/"><u>Download the Latest DJ Mixing Software Update (v3.9.0.10) - Compatible with All Dex #3 Editions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-updating-thunderbolt-3-drivers-on-windows-1187/"><u>Easy Guide to Downloading & Updating Thunderbolt 3 Drivers on Windows 11/8/7</u></a></li>
-<li><a href="https://win-net.techidaily.com/effective-strategies-for-enhancing-your-computers-memory-management-tips-from-yl-computing/"><u>Effective Strategies for Enhancing Your Computer's Memory Management - Tips From YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/enhance-windows-11-efficiency-essential-strategies-by-yl-software-experts/"><u>Enhance Windows 11 Efficiency: Essential Strategies by YL Software Experts</u></a></li>
-<li><a href="https://win-net.techidaily.com/is-my-graphics-card-working-right-learn-the-key-indicators-with-insights-by-yl-software/"><u>Is My Graphics Card Working Right? Learn the Key Indicators with Insights by YL Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mysterious-keys-cessation/"><u>Mysterious Keys Cessation</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210353298-9781914264375-the-other-side-of-me-a-psychics-journey-of-empowerment-and-healing/"><u>The Other Side Of Me - A Psychic's Journey of Empowerment and Healing | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-essentials-a-checklist-before-purchasing-your-next-game-console/"><u>Top 5 Essentials: A Checklist Before Purchasing Your Next Game Console</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-boost-your-videos-popularity-on-youtube/"><u>[New] 2024 Approved Boost Your Video's Popularity on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-transforming-followers-into-loyalists-with-instagram-videos/"><u>[New] In 2024, Transforming Followers Into Loyalists with Instagram Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-top-tips-for-embedding-and-posting-correct-subtitles-on-twitter-instagram-for-2024/"><u>[Updated] Top Tips for Embedding and Posting Correct Subtitles on Twitter, Instagram for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-asus-rog-phone-7-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Asus ROG Phone 7 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-breakdown-of-windows-startup-setup-options/"><u>A Step-by-Step Breakdown of Windows Startup Setup Options</u></a></li>
+<li><a href="https://win-net.techidaily.com/connecting-seamlessly-to-online-services-using-yl-software-a-comprehensive-walkthrough/"><u>Connecting Seamlessly to Online Services Using YL Software - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-net.techidaily.com/experience-elevated-karaoke-with-the-latest-karaoke-cloud-pro-version-086368-featuring-new-sub-cases-functionality/"><u>Experience Elevated Karaoke with the Latest Karaoke Cloud Pro Version 0.8.6368: Featuring New 'Sub-Cases' Functionality</u></a></li>
+<li><a href="https://win-net.techidaily.com/high-definition-soccer-team-logos-and-playset-walls-top-picks-by-yl-computing/"><u>High-Definition Soccer Team Logos & Playset Walls: Top Picks by YL Computing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-mass-download-tiktok-videos/"><u>In 2024, How To Mass Download TikTok Videos?</u></a></li>
+<li><a href="https://win-net.techidaily.com/quick-fixes-and-tweaks-accelerate-your-computers-performance-tips-by-yl-computing/"><u>Quick Fixes and Tweaks: Accelerate Your Computer's Performance - Tips by YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/repeated-computer-freezing-understanding-the-causes-and-solutions-yl-computing-experts/"><u>Repeated Computer Freezing: Understanding the Causes and Solutions - YL Computing Experts</u></a></li>
+<li><a href="https://win-net.techidaily.com/solving-common-hardware-problems-in-windows-a-guide-yl-tech-tips/"><u>Solving Common Hardware Problems in Windows: A Guide - YL Tech Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-rule-book-on-instagram-video-length-for-2024/"><u>The Ultimate Rule Book on Instagram Video Length for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/video-guide-mastering-the-art-of-djing-perfect-your-memory-skills-with-our-expert-song-request-tricks/"><u>Video Guide: Mastering the Art of DJ'ing - Perfect Your Memory Skills with Our Expert Song Request Tricks</u></a></li>
 </ul></div>
 

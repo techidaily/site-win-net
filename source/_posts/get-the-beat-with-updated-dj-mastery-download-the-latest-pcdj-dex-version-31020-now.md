@@ -1,7 +1,7 @@
 ---
 title: "Get the Beat with Updated DJ Mastery: Download the Latest PCDJ DEX Version 3.10.2.0 Now!"
-date: 2024-12-21T17:13:35.747Z
-updated: 2024-12-24T02:47:01.859Z
+date: 2024-12-27T17:46:54.647Z
+updated: 2024-12-29T19:30:11.643Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ To update to DEX 3 version 3.10.2.0 simply click the correct button for your ope
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -47,7 +47,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 [DOWNLOAD DEX 3.10.2.0 (MAC)](https://pcdj.com/downloads/dex3/setup%5Fdex31020%5Fmac.pkg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New Features Added to DEX 3.10.1.0 (Prior Update)
@@ -55,7 +55,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about our **best DJ and Karaoke software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,22 +77,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image-new.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/2024-approved-streamlined-tactics-for-scrolling-through-popular-youtube-reactions/"><u>2024 Approved Streamlined Tactics for Scrolling Through Popular YouTube Reactions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-detailed-overview-of-the-discontinued-netflix-dvd-by-mail-service/"><u>A Detailed Overview of the Discontinued Netflix DVD-by-Mail Service</u></a></li>
-<li><a href="https://win-net.techidaily.com/comprehensive-numark-dex-3re-supporting-controller-tutorial-for-djs-download-map-feature/"><u>Comprehensive Numark DEX 3/RE-Supporting Controller Tutorial for DJs | Download Map Feature</u></a></li>
-<li><a href="https://win-net.techidaily.com/elevate-your-quiz-gatherings-discover-the-updated-party-package-with-state-of-the-art-light-up-buzzers-now-available/"><u>Elevate Your Quiz Gatherings: Discover the Updated Party Package with State-of-the-Art Light Up Buzzers Now Available!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/emergency-rescue-techniques-for-a-wet-iphone-or-ipod/"><u>Emergency Rescue Techniques for a Wet iPhone or iPod</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-tutorial-how-to-navigate-to-advanced-system-settings-on-windows-11-pcs/"><u>Expert Tutorial: How to Navigate to Advanced System Settings on Windows 11 PCs</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-f14-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy F14 5G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-11-proplus-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme 11 Pro+</u></a></li>
-<li><a href="https://win-net.techidaily.com/identifying-early-warnings-of-hard-drive-failures-insights-from-yl-computing/"><u>Identifying Early Warnings of Hard Drive Failures - Insights From YL Computing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ultimate-video-production-for-earth/"><u>In 2024, Ultimate Video Production for Earth</u></a></li>
-<li><a href="https://article-posts.techidaily.com/one-device-one-storage-transferring-files-smoothly/"><u>One Device, One Storage Transferring Files Smoothly</u></a></li>
-<li><a href="https://win-net.techidaily.com/recognizing-scanner-faults-a-guide-by-yl-computing/"><u>Recognizing Scanner Faults: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/renaming-files-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Renaming Files on Windows: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/securing-your-data-a-step-by-step-guide-to-safe-hard-drive-deletion-yl-computing/"><u>Securing Your Data: A Step-by-Step Guide to Safe Hard Drive Deletion - YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-implementing-dual-authentication-techniques-with-yl-software/"><u>Step-by-Step Guide: Implementing Dual Authentication Techniques with YL Software</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-dynamic-duo-a-comprehensive-review-of-motorola-one-hypers-engaging-presence-in-the-mid-range-market/"><u>The Dynamic Duo: A Comprehensive Review of Motorola One Hyper's Engaging Presence in the Mid-Range Market</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-recommendations-for-optimal-computer-performance-by-the-yl-experts/"><u>Top Recommendations for Optimal Computer Performance by the YL Experts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-androids-elite-10-gb-games-simulators/"><u>[New] 2024 Approved Android's Elite 10 GB Games Simulators</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-chortlechorus-choosing-the-happiest-websites-for-ringtones/"><u>[Updated] ChortleChorus Choosing the Happiest Websites for Ringtones</u></a></li>
+<li><a href="https://win-net.techidaily.com/1-expert-guide-fixing-broken-usb-connectors-with-ease-tips-from-yl-computing/"><u>1. Expert Guide: Fixing Broken USB Connectors with Ease - Tips From YL Computing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-hdr-image-processing-steps-in-adobe-lightroom-for-2024/"><u>Advanced HDR Image Processing Steps in Adobe Lightroom for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/best-practices-for-cleaning-up-your-computer-removing-unwanted-apps-and-files-guidance-from-yl-computing/"><u>Best Practices for Cleaning Up Your Computer: Removing Unwanted Apps & Files - Guidance From YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/configuring-windows-security-suite-windows-defender-instructions-by-yl-software-experts/"><u>Configuring Windows Security Suite: Windows Defender Instructions by YL Software Experts</u></a></li>
+<li><a href="https://win-net.techidaily.com/free-quality-sound-effects-at-your-fingertips-discover-the-bbcs-extensive-library-tutorial-video/"><u>Free Quality Sound Effects at Your Fingertips: Discover the BBC's Extensive Library (Tutorial Video)</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-to-successfully-archive-webex-meetings-using-the-movavi-tool/"><u>How to Successfully Archive Webex Meetings Using the Movavi Tool</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-realme-gt-5-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Realme GT 5 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Find N3 Flip</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mobile-hotspot-magic-enabling-streaming-on-your-fire-stick-without-traditional-wi-fi/"><u>Mobile Hotspot Magic: Enabling Streaming on Your Fire Stick Without Traditional Wi-Fi</u></a></li>
+<li><a href="https://win-net.techidaily.com/overcoming-challenges-with-microsoft-software-license-activation-expert-tips-from-yl/"><u>Overcoming Challenges with Microsoft Software License Activation - Expert Tips From YL</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/redefining-ai-interaction-groundbreaking-upgrades-to-chatgpt/"><u>Redefining AI Interaction: Groundbreaking Upgrades to ChatGPT</u></a></li>
+<li><a href="https://win-net.techidaily.com/refresh-your-security-how-to-renew-virus-definitions-in-windows-defender-tips-from-yl-computing/"><u>Refresh Your Security: How To Renew Virus Definitions In Windows Defender - Tips From YL Computing</u></a></li>
 </ul></div>
 

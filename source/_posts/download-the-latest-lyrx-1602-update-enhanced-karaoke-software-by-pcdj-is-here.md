@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest LYRX 1.6.0.2 Update: Enhanced Karaoke Software by PCDJ Is Here!"
-date: 2024-12-17T08:00:11.580Z
-updated: 2024-12-24T01:39:34.396Z
+date: 2024-12-24T18:28:15.500Z
+updated: 2024-12-29T21:52:52.528Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Release 2 of LYRX version 1.6.0.2 is available for download.
@@ -33,7 +33,7 @@ The new release 2 of version 1.6.0.2 addresses some issues, mainly on the window
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrx.png?fit=300%2C210&ssl=1 "LYRX 1.6.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usual, click the button below to download and install. Just be sure your existing version of LYRX is closed and the update will patch directly over-top, leaving all your lists, data, and settings intact.
@@ -41,7 +41,7 @@ We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usua
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in Release 2 of LYRX v1.6.0.2
@@ -56,7 +56,7 @@ If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download fro
 _Have questions about the latest release 2 of 1.6.0.2 of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,19 +78,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/lyrx-r2-1602.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-render-and-upload-your-youtube-video-faster-in-2024/"><u>[Updated] How to Render and Upload Your YouTube Video Faster, In 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mac-users-guide-the-full-spectrum-of-screenflow-pro/"><u>[Updated] In 2024, Mac Users Guide The Full Spectrum of ScreenFlow Pro</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-quick-red-eye-photo-fixes-on-your-iphone-no-money-needed/"><u>2024 Approved Quick Red-Eye Photo Fixes on Your iPhone, No Money Needed</u></a></li>
-<li><a href="https://win-net.techidaily.com/a-comprehensive-guide-to-picking-a-bitcoin-exchange-by-yl-software-experts/"><u>A Comprehensive Guide to Picking a Bitcoin Exchange by YL Software Experts</u></a></li>
-<li><a href="https://solve-news.techidaily.com/abbyys-mobile-ocr-enhancement-seamless-salesforce-connectivity-added-to-android-business-card-scanner/"><u>ABBYY's Mobile OCR Enhancement: Seamless Salesforce Connectivity Added to Android Business Card Scanner</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/budget-friendly-obs-configuration-guide-for-2024/"><u>Budget-Friendly OBS Configuration Guide for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/exploring-prevalent-hardware-problems-a-detailed-guide-from-yl-technology-experts/"><u>Exploring Prevalent Hardware Problems: A Detailed Guide From YL Technology Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-visibility-of-a-non-appearing-wi-fi-network-on-your-device/"><u>How to Restore Visibility of a Non-Appearing Wi-Fi Network on Your Device</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-15-plus-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 15 Plus You Should Try Out</u></a></li>
-<li><a href="https://win-net.techidaily.com/is-graphic-card-overclocking-safe-understanding-risks-and-rewards-expert-insights-from-yl-computing/"><u>Is Graphic Card Overclocking Safe? Understanding Risks & Rewards - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/is-your-printer-drivers-up-to-date-learn-how-with-yl-software-tips-and-tricks/"><u>Is Your Printer Drivers Up-to-Date? Learn How with YL Software Tips and Tricks</u></a></li>
-<li><a href="https://win-net.techidaily.com/troubleshooting-tips-resolving-scanner-freeze-issues-during-scans-expertise-from-yl-computing/"><u>Troubleshooting Tips: Resolving Scanner Freeze Issues During Scans - Expertise From YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/unraveling-the-origins-of-the-boxers-movement-a-detailed-examination-by-yl-software-and-yl-computing/"><u>Unraveling the Origins of the Boxers Movement: A Detailed Examination by YL Software and YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-tclass-not-registering-heres-your-solution/"><u>Windows tClass Not Registering? Here's Your Solution</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-everything-you-need-to-know-before-upgrading-to-windows-10/"><u>[Updated] In 2024, Everything You Need To Know Before Upgrading To Windows 10</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-6s-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 6s</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-getting-your-logiteeck-g-pro-x-microphone-up-and-running-again/"><u>DIY Repair: Getting Your Logiteeck G Pro X Microphone Up and Running Again</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-troubleshooting-steps-when-your-scanner-malfunctions-yl-computing-guide/"><u>Effective Troubleshooting Steps When Your Scanner Malfunctions - YL Computing Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/enhancing-scanning-performance-why-upgrading-your-scanner-application-matters-insights-by-yl-computing/"><u>Enhancing Scanning Performance: Why Upgrading Your Scanner Application Matters - Insights by YL Computing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-error-zero-response/"><u>GPU Error: Zero Response</u></a></li>
+<li><a href="https://win-net.techidaily.com/identifying-lucrative-trade-markets-a-comprehensive-guide-by-yl-computing/"><u>Identifying Lucrative Trade Markets: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-diving-deep-into-screencast-best-practices/"><u>In 2024, Diving Deep Into Screencast Best Practices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-uncovering-the-truth-about-vn-video-editor-pro-a-worthy-alternative-in-2024/"><u>New Uncovering the Truth About VN Video Editor Pro A Worthy Alternative, In 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/pinnacle-ai-transcribers-for-speech/"><u>Pinnacle AI Transcribers for Speech</u></a></li>
+<li><a href="https://win-net.techidaily.com/solving-common-printing-errors-expert-tips-by-yl-software-specialists/"><u>Solving Common Printing Errors: Expert Tips by YL Software Specialists</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-configuration-of-your-computers-peripherals-customize-your-mouse-and-keyboard-settings-with-yl-computing-software/"><u>Step-by-Step Configuration of Your Computer's Peripherals: Customize Your Mouse and Keyboard Settings with YL Computing Software</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-changing-your-computers-desktop-image-tips-from-yl-computing/"><u>Step-by-Step Guide: Changing Your Computer's Desktop Image - Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ssentials-to-carve-out-your-creative-space-for-2024/"><u>The Essentials to Carve Out Your Creative Space for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/troubleshooting-unresponsive-laptop-issues-following-recent-software-update-tips-from-yl-tech-experts/"><u>Troubleshooting Unresponsive Laptop Issues Following Recent Software Update – Tips From YL Tech Experts</u></a></li>
+<li><a href="https://win-net.techidaily.com/troubleshooting-your-gpu-solutions-for-graphics-card-malfunctions-by-yl-software-experts/"><u>Troubleshooting Your GPU: Solutions for Graphics Card Malfunctions by YL Software Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/win11s-top-5-no-cost-screen-recorders-updated-guide/"><u>Win11's Top 5 No-Cost Screen Recorders - Updated Guide</u></a></li>
 </ul></div>
 

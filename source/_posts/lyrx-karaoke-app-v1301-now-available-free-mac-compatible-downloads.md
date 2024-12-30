@@ -1,7 +1,7 @@
 ---
 title: LYRX Karaoke App v1.3.0.1 Now Available - Free Mac Compatible Downloads
-date: 2024-12-18T17:02:21.422Z
-updated: 2024-12-23T19:36:42.397Z
+date: 2024-12-23T16:34:32.494Z
+updated: 2024-12-29T18:04:23.335Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ _**Note:** Another update is scheduled soon for LYRX that includes new features.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3.0.1
@@ -41,7 +41,7 @@ _**Note:** Another update is scheduled soon for LYRX that includes new features.
 _Have questions about the latest 1.3.0.1 version of our **karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,18 +63,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/lyrx-update-v1301.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-pro-gamers-manual-learn-xbox-one-screen-recording/"><u>[New] In 2024, Pro Gamer's Manual Learn Xbox One Screen Recording</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-innovative-tips-to-create-effective-free-video-advertisements-on-youtube/"><u>[Updated] In 2024, Innovative Tips to Create Effective Free Video Advertisements on YouTube</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-to-check-if-your-gpu-works-with-your-pcs-os-tips-from-yl-software-experts/"><u>How to Check if Your GPU Works With Your PC's OS – Tips From YL Software Experts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-x50-gt-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor X50 GT to PC? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-13-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone 13 SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/hing-a-successful-vlog-a-guide-to-profitability-for-2024/"><u>Launching a Successful Vlog A Guide to Profitability for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/seamless-mobile-optimization-mastering-video-streaming-on-your-android-device/"><u>Seamless Mobile Optimization: Mastering Video Streaming on Your Android Device</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-configuring-your-folder-settings-with-ease-techtips-by-yl/"><u>Step-by-Step Guide: Configuring Your Folder Settings with Ease - TechTips by YL</u></a></li>
-<li><a href="https://win-net.techidaily.com/troubleshooting-installation-issues-with-drivers-expert-tips-by-yl-software-team/"><u>Troubleshooting Installation Issues with Drivers - Expert Tips by YL Software Team</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-choosing-the-perfect-iphone-for-mobile-gaming-enthusiasts/"><u>Ultimate Guide: Choosing the Perfect iPhone for Mobile Gaming Enthusiasts</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-motorola-g24-power-by-drfone-android/"><u>Universal Unlock Pattern for Motorola G24 Power</u></a></li>
-<li><a href="https://win-net.techidaily.com/uplifting-and-complimentary-wallpapers-download-the-yl-computing-collection-by-yl-software/"><u>Uplifting & Complimentary Wallpapers: Download the YL Computing Collection by YL Software</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/winx-hd-video-converter-deluxe-online-customer-service-and-common-issues-resolved/"><u>WinX HD Video Converter Deluxe - Online Customer Service & Common Issues Resolved</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-explore-androids-best-moba-experiences-in-10/"><u>[New] Explore Android's Best MOBA Experiences in #10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-rookie-recording-assessment-guide-for-2024/"><u>[New] Rookie Recording Assessment Guide for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-how-to-start-a-google-meet-on-laptops-and-mobile/"><u>[Updated] In 2024, How to Start a Google Meet on Laptops & Mobile?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-navigating-the-world-of-giant-file-movement-between-iphone-and-macos-for-2024/"><u>[Updated] Navigating the World of Giant File Movement Between iPhone and macOS for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-comedy-photo-stylist-tool/"><u>2024 Approved Premier Comedy Photo Stylist Tool</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/creative-tims-elite-vuejs-bootstrap-4-admin-suite-enhanced-productivity-for-developers/"><u>Creative Tim's Elite Vue.js Bootstrap 4 Admin Suite: Enhanced Productivity for Developers</u></a></li>
+<li><a href="https://win-net.techidaily.com/exploring-device-details-how-to-access-and-interpret-system-properties-via-windows-control-panel-smartpc-guides/"><u>Exploring Device Details: How to Access and Interpret System Properties via Windows Control Panel - SmartPC Guides</u></a></li>
+<li><a href="https://win-net.techidaily.com/identifying-graphics-card-issues-a-guide-by-yl-computing/"><u>Identifying Graphics Card Issues: A Guide by YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-itel-p55t-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Itel P55T Phone Screen?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-german-letters-and-phonetics-for-beginners/"><u>Navigating German Letters and Phonetics for Beginners</u></a></li>
+<li><a href="https://win-net.techidaily.com/resolving-unsolvable-scanner-issues-expert-tips-from-yl-computings-tech-solutions/"><u>Resolving Unsolvable Scanner Issues: Expert Tips From YL Computing's Tech Solutions</u></a></li>
+<li><a href="https://win-net.techidaily.com/troubleshooting-critical-system-failures-fixing-a-crash-or-blue-screen-with-yl-software-strategies/"><u>Troubleshooting Critical System Failures: Fixing a Crash or Blue Screen with YL Software Strategies</u></a></li>
+<li><a href="https://win-net.techidaily.com/understanding-crucial-registration-zones-with-yl-computing-and-yl-software-expertise/"><u>Understanding Crucial Registration Zones with YL Computing and YL Software Expertise</u></a></li>
 </ul></div>
 

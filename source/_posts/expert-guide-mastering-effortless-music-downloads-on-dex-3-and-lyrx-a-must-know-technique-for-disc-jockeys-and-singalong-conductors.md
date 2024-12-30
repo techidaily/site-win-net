@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Mastering Effortless Music Downloads on DEX 3 & LYRX - A Must-Know Technique for Disc Jockeys & Singalong Conductors"
-date: 2024-12-19T01:47:05.498Z
-updated: 2024-12-24T07:34:12.181Z
+date: 2024-12-28T20:32:33.043Z
+updated: 2024-12-29T18:10:30.489Z
 tags:
   - product
 categories:
@@ -24,16 +24,12 @@ Fret not, for the solution is simpler than you might think, turning this dauntin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1: Get Set with Google Chrome
 
 First thing’s first: ensure you have [Google Chrome](https://www.google.com/chrome/) installed on your Windows or Mac computer. This is going to be your gateway to quickly downloading new tracks directly into your DEX 3 or LYRX library.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Nest and Set
@@ -41,7 +37,7 @@ First thing’s first: ensure you have [Google Chrome](https://www.google.com/ch
 Before we dive into Chrome, make sure you’ve got a specific folder [nested under favorites](https://www.youtube.com/watch?v=hRQVXTi64AM&ab%5Fchannel=PCDJHeadquarters) in your DEX 3 or LYRX. This little organizational trick is going to be a lifesaver, trust me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Chrome Configuration
@@ -53,7 +49,7 @@ Now, let’s tweak Chrome to make your life easier:
 * Find the “Downloads” section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 4: Direct and Download
@@ -62,6 +58,10 @@ Here’s where you make the choice:
 
 * Click “Change” to pick a new default download spot – this should be the folder you’ve nested in your DJ software.
 * Or, select “Ask where to save each file before downloading” for full control over each download. Remember, consistency is key to keeping things streamlined, so always save to the nested folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 5: Wrap It Up
 
@@ -72,7 +72,7 @@ That’s all there is to it. Now, whenever you find yourself needing to download
 Remember, keeping your library fresh and responsive to your audience can set you apart in the dynamic world of DJing and karaoke hosting. With this simple setup, you’re not just playing music; you’re curating an experience that feels personal and spontaneous. So go ahead, embrace those on-the-fly requests, and keep the party lively and engaging with your newfound, seamless track-adding skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,24 +94,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2024/03/automatically-importing-do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-9-best-online-mic-recorders-2023-for-2024/"><u>[Updated] 9 Best Online Mic Recorders 2023 for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-maximize-productivity-innovative-windows-10-tips/"><u>[Updated] Maximize Productivity Innovative Windows 10 Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-create-brand-symbols-from-templates-at-no-cost/"><u>2024 Approved Create Brand Symbols From Templates at No Cost</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-video-content-insights-into-effective-keywords/"><u>2024 Approved Mastering Video Content Insights Into Effective Keywords</u></a></li>
-<li><a href="https://win-net.techidaily.com/boosting-pc-boot-times-with-simple-techniques-an-expert-guide-from-the-team-at-yl-computing/"><u>Boosting PC Boot Times with Simple Techniques: An Expert Guide From the Team at YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-instructions-for-linking-your-printer-with-different-devices/"><u>Comprehensive Instructions for Linking Your Printer with Different Devices</u></a></li>
-<li><a href="https://win-net.techidaily.com/diagnosing-screen-silence-what-drives-a-monitor-to-show-no-signal-error-expertise-by-yl-software/"><u>Diagnosing Screen Silence: What Drives a Monitor to Show No Signal Error? – Expertise by YL Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/effective-solutions-when-your-program-encounters-a-crash-yl-computings-guide/"><u>Effective Solutions When Your Program Encounters a Crash - YL Computing's Guide</u></a></li>
-<li><a href="https://win-net.techidaily.com/effective-strategies-for-optimizing-memory-consumption-in-windows-yl-computing-guide/"><u>Effective Strategies for Optimizing Memory Consumption in Windows - YL Computing Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-films-anticipated-the-covid-19-pandemic-years-before-it-happened/"><u>How Films Anticipated the COVID-19 Pandemic Years Before It Happened</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/how-to-screen-record-on-hp-laptop-best-4-ways-to-use/"><u>How to Screen Record on Hp Laptop? - Best 4 Ways to Use</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-turn-artistry-professionally-crafted-valorant-game-imagery/"><u>In 2024, Quick-Turn Artistry Professionally Crafted Valorant Game Imagery</u></a></li>
-<li><a href="https://win-net.techidaily.com/modifying-your-start-menu-experience-on-windows-11-a-guide-from-yl-computing/"><u>Modifying Your Start Menu Experience on Windows 11: A Guide From YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/navigating-windows-malfunctions-essential-steps-by-yl-software-professionals/"><u>Navigating Windows Malfunctions: Essential Steps by YL Software Professionals</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-a-comprehensive-tutorial-on-mp4-video-editing-for-mac-and-windows-users/"><u>New Edit Like a Pro A Comprehensive Tutorial on MP4 Video Editing for Mac and Windows Users</u></a></li>
-<li><a href="https://win-net.techidaily.com/solving-your-pcs-physical-issues-comprehensive-troubleshooting-guide-by-yl-software/"><u>Solving Your PC's Physical Issues: Comprehensive Troubleshooting Guide by YL Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-reasons-behind-frequent-system-lock-ups-insights-from-yl-computing/"><u>Top Reasons Behind Frequent System Lock-Ups: Insights From YL Computing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-powerful-ai-driven-searches-on-bing-the-user-registration-process-explained/"><u>Unlock Powerful AI-Driven Searches on Bing: The User Registration Process Explained</u></a></li>
-<li><a href="https://win-net.techidaily.com/verifying-your-pcs-cooling-efficiency-a-step-by-step-guide-insights-from-yl-computing/"><u>Verifying Your PC's Cooling Efficiency: A Step-by-Step Guide - Insights From YL Computing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-transform-virtual-engagements-the-10-free-applications-you-need/"><u>[New] In 2024, Transform Virtual Engagements The 10 Free Applications You Need</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-comprehensive-examination-the-future-of-photography-with-aurora-hdr/"><u>[Updated] In 2024, Comprehensive Examination The Future of Photography with Aurora HDR?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-obs-adjustments-for-inexpensive-machines/"><u>2024 Approved Essential OBS Adjustments for Inexpensive Machines</u></a></li>
+<li><a href="https://win-net.techidaily.com/data-rescue-tactics-for-accidentally-formatted-drives-including-proven-recovery-methods-by-yl-computing/"><u>Data Rescue Tactics for Accidentally Formatted Drives, Including Proven Recovery Methods by YL Computing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/encompassing-views-vs-enhanced-visual-depth/"><u>Encompassing Views vs Enhanced Visual Depth</u></a></li>
+<li><a href="https://win-net.techidaily.com/high-definition-grim-reaper-wraparound-premium-stock-photography-and-hd-wallpapers-by-yl-computing/"><u>High-Definition Grim Reaper Wraparound - Premium Stock Photography & HD Wallpapers by YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/identifying-early-warnings-of-hard-drive-failures-insights-from-yl-computing/"><u>Identifying Early Warnings of Hard Drive Failures - Insights From YL Computing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-resolve-deceptive-user-appearance-within-chat-environments/"><u>In 2024, Resolve Deceptive User Appearance Within Chat Environments</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-why-are-videos-invisible-on-sony-a6400/"><u>In 2024, Why Are Videos Invisible on Sony A6400?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-itel-p55-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Itel P55? | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/securing-your-data-a-step-by-step-guide-to-safe-hard-drive-deletion-yl-computing/"><u>Securing Your Data: A Step-by-Step Guide to Safe Hard Drive Deletion - YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-setting-up-your-own-crypto-trading-platform-with-yl-computing-solutions/"><u>Step-by-Step Guide: Setting Up Your Own Crypto Trading Platform with YL Computing Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-gaming-keyboards-of-2024/"><u>The Best Gaming Keyboards of 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/windows-10-printer-problems-demystified-expert-troubleshooting-tips-from-yl-computing/"><u>Windows 10 Printer Problems Demystified: Expert Troubleshooting Tips From YL Computing</u></a></li>
 </ul></div>
 
