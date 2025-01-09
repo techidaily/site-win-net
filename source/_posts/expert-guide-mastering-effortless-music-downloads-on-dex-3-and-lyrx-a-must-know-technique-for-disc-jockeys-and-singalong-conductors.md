@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Mastering Effortless Music Downloads on DEX 3 & LYRX - A Must-Know Technique for Disc Jockeys & Singalong Conductors"
-date: 2024-12-28T20:32:33.043Z
-updated: 2024-12-29T18:10:30.489Z
+date: 2025-01-04T18:51:22.704Z
+updated: 2025-01-09T06:10:21.268Z
 tags:
   - product
 categories:
@@ -24,12 +24,16 @@ Fret not, for the solution is simpler than you might think, turning this dauntin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Get Set with Google Chrome
 
 First thing’s first: ensure you have [Google Chrome](https://www.google.com/chrome/) installed on your Windows or Mac computer. This is going to be your gateway to quickly downloading new tracks directly into your DEX 3 or LYRX library.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Nest and Set
@@ -37,7 +41,7 @@ First thing’s first: ensure you have [Google Chrome](https://www.google.com/ch
 Before we dive into Chrome, make sure you’ve got a specific folder [nested under favorites](https://www.youtube.com/watch?v=hRQVXTi64AM&ab%5Fchannel=PCDJHeadquarters) in your DEX 3 or LYRX. This little organizational trick is going to be a lifesaver, trust me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Chrome Configuration
@@ -48,10 +52,6 @@ Now, let’s tweak Chrome to make your life easier:
 * Hit “Settings” and scroll down to “Show advanced settings”.
 * Find the “Downloads” section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 4: Direct and Download
 
 Here’s where you make the choice:
@@ -60,7 +60,7 @@ Here’s where you make the choice:
 * Or, select “Ask where to save each file before downloading” for full control over each download. Remember, consistency is key to keeping things streamlined, so always save to the nested folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 5: Wrap It Up
@@ -72,7 +72,7 @@ That’s all there is to it. Now, whenever you find yourself needing to download
 Remember, keeping your library fresh and responsive to your audience can set you apart in the dynamic world of DJing and karaoke hosting. With this simple setup, you’re not just playing music; you’re curating an experience that feels personal and spontaneous. So go ahead, embrace those on-the-fly requests, and keep the party lively and engaging with your newfound, seamless track-adding skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,19 +94,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2024/03/automatically-importing-do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-transform-virtual-engagements-the-10-free-applications-you-need/"><u>[New] In 2024, Transform Virtual Engagements The 10 Free Applications You Need</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-comprehensive-examination-the-future-of-photography-with-aurora-hdr/"><u>[Updated] In 2024, Comprehensive Examination The Future of Photography with Aurora HDR?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-obs-adjustments-for-inexpensive-machines/"><u>2024 Approved Essential OBS Adjustments for Inexpensive Machines</u></a></li>
-<li><a href="https://win-net.techidaily.com/data-rescue-tactics-for-accidentally-formatted-drives-including-proven-recovery-methods-by-yl-computing/"><u>Data Rescue Tactics for Accidentally Formatted Drives, Including Proven Recovery Methods by YL Computing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/encompassing-views-vs-enhanced-visual-depth/"><u>Encompassing Views vs Enhanced Visual Depth</u></a></li>
-<li><a href="https://win-net.techidaily.com/high-definition-grim-reaper-wraparound-premium-stock-photography-and-hd-wallpapers-by-yl-computing/"><u>High-Definition Grim Reaper Wraparound - Premium Stock Photography & HD Wallpapers by YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/identifying-early-warnings-of-hard-drive-failures-insights-from-yl-computing/"><u>Identifying Early Warnings of Hard Drive Failures - Insights From YL Computing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-resolve-deceptive-user-appearance-within-chat-environments/"><u>In 2024, Resolve Deceptive User Appearance Within Chat Environments</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-why-are-videos-invisible-on-sony-a6400/"><u>In 2024, Why Are Videos Invisible on Sony A6400?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-itel-p55-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Itel P55? | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/securing-your-data-a-step-by-step-guide-to-safe-hard-drive-deletion-yl-computing/"><u>Securing Your Data: A Step-by-Step Guide to Safe Hard Drive Deletion - YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-setting-up-your-own-crypto-trading-platform-with-yl-computing-solutions/"><u>Step-by-Step Guide: Setting Up Your Own Crypto Trading Platform with YL Computing Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-gaming-keyboards-of-2024/"><u>The Best Gaming Keyboards of 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/windows-10-printer-problems-demystified-expert-troubleshooting-tips-from-yl-computing/"><u>Windows 10 Printer Problems Demystified: Expert Troubleshooting Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/opyright-concerns-with-recording-youtube-content/"><u>[New] Copyright Concerns with Recording YouTube Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-fps-dilemma-picking-between-30-and-60-hertz-in-video-recording/"><u>[New] FPS Dilemma Picking Between 30 and 60 Hertz in Video Recording</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/accelerate-your-computers-performance-essential-system-optimization-steps-revealed-tips-by-yl-tech/"><u>Accelerate Your Computer's Performance: Essential System Optimization Steps Revealed - Tips by YL Tech</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/chart-analyst-master-video-popularity-for-2024/"><u>Apex Chart Analyst Master Video Popularity for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-setup-thrustmaster-t300-steering-wheel-drivers-for-windows-win-1110/"><u>Download and Setup: Thrustmaster T300 Steering Wheel Drivers for Windows (Win 11/10)</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-solutions-by-yl-software-for-restoring-defective-electronic-parts/"><u>Effective Solutions by YL Software for Restoring Defective Electronic Parts</u></a></li>
+<li><a href="https://win-net.techidaily.com/expert-advice-on-quick-and-simple-document-printing-from-yl-software-solutions/"><u>Expert Advice on Quick and Simple Document Printing From YL Software Solutions</u></a></li>
+<li><a href="https://win-net.techidaily.com/high-definition-desktop-scenes-ultimate-hd-wallpaper-collections-by-yl-computing/"><u>High-Definition Desktop Scenes: Ultimate HD Wallpaper Collections by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-pro-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 Pro Max To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/is-it-wise-to-switch-to-windows-n-on-your-music-production-machine-read-why-not-traktor-presets-guide/"><u>Is It Wise to Switch to Windows N on Your Music Production Machine? Read Why Not! | Traktor Presets Guide</u></a></li>
+<li><a href="https://solve-news.techidaily.com/jpeggif/"><u>JPEG画像からGIF動画への変換手順</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastering-youtube-to-mpeg-format-change-for-2024/"><u>Mastering YouTube to MPEG Format Change for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/ultimate-super-cars-hd-wallpapers-and-imagery-archive-premium-vehicular-graphics-from-yl-software-experts/"><u>Ultimate Super Cars HD Wallpapers and Imagery Archive – Premium Vehicular Graphics From YL Software Experts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/wisdom-warriors-top-11-trivia-videos/"><u>Wisdom Warriors' Top 11 Trivia Videos</u></a></li>
 </ul></div>
 

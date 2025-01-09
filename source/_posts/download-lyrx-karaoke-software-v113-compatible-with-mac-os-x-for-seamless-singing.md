@@ -1,7 +1,7 @@
 ---
 title: Download LYRX Karaoke Software v1.1.3 - Compatible with Mac OS X for Seamless Singing
-date: 2024-12-22T20:19:51.071Z
-updated: 2024-12-29T21:59:07.179Z
+date: 2025-01-03T05:25:44.473Z
+updated: 2025-01-08T21:23:07.766Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### NEW AND CHANGED IN LYRX 1.1.3
@@ -51,7 +51,7 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 _**NOTE:** With your existing version of LYRX closed, download and install version 1.1.3 to update now_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How The Party Tyme Karaoke Subscription Works In LYRX
@@ -59,7 +59,7 @@ _**NOTE:** With your existing version of LYRX closed, download and install versi
 _Have questions about our **top karaoke software for MAC** and the new features found in LYRX 1.1.3? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,24 +81,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/lyrxv113-now-available.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-djis-quadcopters-variants-basic-model-advanced-series-uhd-edition/"><u>[New] 2024 Approved DJI's Quadcopters Variants Basic Model, Advanced Series, UHD Edition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-fine-tuning-your-frames-with-videoleap/"><u>[New] 2024 Approved Fine-Tuning Your Frames with Videoleap</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/astering-aspect-ratios-for-youtube-videos-shorts-and-ads-guide-for-2024/"><u>[New] Mastering Aspect Ratios for YouTube Videos, Shorts & Ads Guide for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-roadmap-to-selecting-top-tier-visual-storytellers/"><u>[New] The Roadmap to Selecting Top-Tier Visual Storytellers</u></a></li>
-<li><a href="https://win-net.techidaily.com/background-operation-of-windows-defender-insights-by-yl-computing/"><u>Background Operation of Windows Defender: Insights by YL Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/come-comprimere-i-file-mp4-mantenendo-lottimo-livello-di-qualita-una-guida-essenziale-alla-compressione-effettiva-e-allottimizzazione-dei-video/"><u>Come Comprimere I File MP4 Mantenendo L'ottimo Livello Di Qualità: Una Guida Essenziale Alla Compressione Effettiva E All'ottimizzazione Dei Video</u></a></li>
-<li><a href="https://win-net.techidaily.com/decoding-the-value-proposition-how-are-prices-determined-for-pcdj-karaoke-subscriptions/"><u>Decoding the Value Proposition: How Are Prices Determined for PCDJ Karaoke Subscriptions?</u></a></li>
-<li><a href="https://win-net.techidaily.com/efficacy-of-windows-defender-on-macos-systems-an-in-depth-analysis/"><u>Efficacy of Windows Defender on macOS Systems: An In-Depth Analysis</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-did-the-xinhai-revolution-reshape-modern-chinas-history-and-society-insights-from-tech-expert-yl-computing/"><u>How Did the Xinhai Revolution Reshape Modern China's History and Society? - Insights From Tech Expert YL Computing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-13-pro-max-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 13 Pro Max Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-v30-lite-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo V30 Lite 5G?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-m14-4g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy M14 4G Lock Screen Password?</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-tweaking-your-mouse-preferences-via-windows-control-panel-tips-from-yl-software/"><u>Step-by-Step Guide: Tweaking Your Mouse Preferences via Windows Control Panel - Tips From YL Software</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/top-20-gratsky-programovy-nastroj-pro-videoarchivazu-2024-libovolne-pouzdro/"><u>Top 20 Grátský Programový Nástroj Pro Vídeoarchivážu 2024 - Libovolné Pouzdro</u></a></li>
-<li><a href="https://win-net.techidaily.com/troubleshooting-undetected-hardware-devices-in-windows-tips-and-tricks-by-yl-software/"><u>Troubleshooting Undetected Hardware Devices in Windows - Tips and Tricks by YL Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/ultimate-guide-how-to-personalize-your-control-panel-display-with-ease-tips-from-yl-computing/"><u>Ultimate Guide: How to Personalize Your Control Panel Display with Ease - Tips From YL Computing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-oppo-reno-11-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Oppo Reno 11 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-net.techidaily.com/unraveling-windows-malfunctions-a-guide-to-diagnosing-and-fixing-hardware-issues-with-yls-expert-advice/"><u>Unraveling Windows Malfunctions: A Guide to Diagnosing and Fixing Hardware Issues with YL's Expert Advice</u></a></li>
-<li><a href="https://win-net.techidaily.com/yl-software-essentials-easy-enrollment-into-secure-cryptocurrency-storage-solutions/"><u>YL Software Essentials: Easy Enrollment Into Secure Cryptocurrency Storage Solutions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-plotting-prime-promotional-summaries/"><u>[New] In 2024, Plotting Prime Promotional Summaries</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/implicity-in-downloading-youtube-graphics/"><u>[New] Simplicity in Downloading YouTube Graphics</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ideo-enhanced-slideshow-mastery-with-youtube/"><u>[New] Video-Enhanced Slideshow Mastery with YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-navigate-to-noteworthy-youtube-commentaries/"><u>2024 Approved Navigate to Noteworthy YouTube Commentaries</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-free-4k-media-players-top-picks-for-windows-1111-and-macos-users/"><u>Best Free 4K Media Players: Top Picks for Windows 11/11 & macOS Users</u></a></li>
+<li><a href="https://win-net.techidaily.com/come-spostare-i-file-dal-tuo-surface-pro-al-dispositivo-destinato/"><u>Come Spostare I File Dal Tuo Surface Pro Al Dispositivo Destinato</u></a></li>
+<li><a href="https://win-net.techidaily.com/come-unire-i-tuoi-file-e-le-tue-cartelle-su-windows-7-una-guida-completa/"><u>Come Unire I Tuoi File E Le Tue Cartelle Su Windows 7: Una Guida Completa</u></a></li>
+<li><a href="https://win-net.techidaily.com/comment-recuperer-des-fichiers-perdus-dans-windows-server-2012-r2/"><u>Comment Récupérer Des Fichiers Perdus Dans Windows Server 2012 R2</u></a></li>
+<li><a href="https://win-net.techidaily.com/el-software-ideal-para-descifrar-bitlocker-en-windows-11-8-7-y-mas/"><u>El Software Ideal Para Descifrar BitLocker en Windows 11, 8, 7 Y Más</u></a></li>
+<li><a href="https://win-net.techidaily.com/emeditor-v1500-beta-edition-available-now-ultimate-free-text-editing-experience/"><u>EmEditor v15.0.0 Beta Edition Available Now – Ultimate Free Text Editing Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-fixing-pc-issues-when-playing-star-wars-jedi-fallen-order/"><u>Expert Advice: Fixing PC Issues When Playing Star Wars Jedi: Fallen Order</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oneplus-ace-3-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the OnePlus Ace 3 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-scripts-to-screen-making-youtube-splits/"><u>In 2024, From Scripts to Screen Making YouTube Splits</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-broadcom-bluetooth-drivers-efficiently-for-windows-1187-users/"><u>Install Broadcom Bluetooth Drivers Efficiently for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://win-net.techidaily.com/schnell-abgehoben-wie-man-probleme-mit-der-partition-einrichtung-auf-laufwerk-0-in-windows-beseitigt/"><u>Schnell Abgehoben: Wie Man Probleme Mit Der Partition Einrichtung Auf Laufwerk 0 In Windows Beseitigt</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-to-setting-up-a-restoration-point-on-windows-server-200/"><u>Step-by-Step Guide to Setting Up a Restoration Point on Windows Server 200</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncovering-the-truth-behind-zoom-connectivity-and-quality-problems/"><u>Uncovering the Truth Behind Zoom Connectivity and Quality Problems</u></a></li>
+<li><a href="https://win-net.techidaily.com/windows-os-111087ssd/"><u>Windows OS (11/10/8/7)をSSDに移すためのインストールなし方法説明</u></a></li>
+<li><a href="https://win-net.techidaily.com/outlookimap/"><u>ローカルバックアップ方法：OutlookでIMAPメールを安全に保管するためのガイド</u></a></li>
 </ul></div>
 

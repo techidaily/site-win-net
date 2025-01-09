@@ -1,7 +1,7 @@
 ---
 title: "Past Productions Archive: Dive Into Classic Beats with PCDJ's Retro Video Treasury"
-date: 2024-12-22T22:40:48.489Z
-updated: 2024-12-29T19:11:02.521Z
+date: 2025-01-08T07:53:06.906Z
+updated: 2025-01-08T18:18:35.653Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ It was during these early years that digital DJ technology was met with extreme 
 **Here’s three old-school PCDJ videos that both took me down memory lane, and reminded me of just how much DJ software technology has evolved:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,20 +48,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/01/videoarchive-coverimage2.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-deciphering-highlighted-discussion-threads/"><u>[New] In 2024, Deciphering Highlighted Discussion Threads</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-behind-the-scenes-top-storytelling-channels-on-yt-2023/"><u>[Updated] Behind-the-Scenes Top Storytelling Channels on YT, 2023</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-premier-10plus-free-video-intro-creators/"><u>[Updated] Premier 10+ Free Video Intro Creators</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-verdict-on-android-photo-editing-does-picku-excel/"><u>[Updated] The Verdict on Android Photo Editing – Does PickU Excel?</u></a></li>
-<li><a href="https://win-net.techidaily.com/1-troubleshooting-your-pc-understanding-why-it-wont-start-expert-tips-by-yl-software/"><u>1. Troubleshooting Your PC: Understanding Why It Won't Start - Expert Tips by YL Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/demystifying-the-system-registry-insights-from-yl-computing-and-software-expertise/"><u>Demystifying the System Registry: Insights From YL Computing & Software Expertise</u></a></li>
-<li><a href="https://win-net.techidaily.com/hercules-djcontrol-starlight-and-inpulse-200-compatible-dex-3-support-with-pro-dj-controllers/"><u>Hercules DJControl Starlight & Inpulse 200 Compatible: DEX-3 Support with Pro DJ Controllers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-samsung-galaxy-a14-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Samsung Galaxy A14 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/insights-into-the-sociopolitical-impact-of-chinas-great-proletarian-cultural-revolution-an-expert-analysis/"><u>Insights Into The Sociopolitical Impact of China's Great Proletarian Cultural Revolution - An Expert Analysis</u></a></li>
-<li><a href="https://win-net.techidaily.com/marvels-aquaman-mermaid-princess-mera-collect-premier-posters-and-backgrounds-from-queen-mera-fans-endorsed-by-yl-computing/"><u>Marvel's Aquaman Mermaid Princess Mera: Collect Premier Posters and Backgrounds From Queen Mera Fans, Endorsed by YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/maximizing-your-pcs-performance-essential-hardware-upgrades-insights-from-yl-computing/"><u>Maximizing Your PC's Performance: Essential Hardware Upgrades - Insights From YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-startech-drivers-problems-on-windows-11-8-and-7-a-step-by-step-guide/"><u>Resolving StarTech Drivers Problems on Windows 11, 8 & 7: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/starting-with-social-giving-best-practices-for-fb-posts-for-2024/"><u>Starting with Social Giving Best Practices for FB Posts for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/troubleshooting-a-malfunctioning-graphics-card-expert-tips-and-solutions-yl-tech-support/"><u>Troubleshooting a Malfunctioning Graphics Card: Expert Tips & Solutions - YL Tech Support</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-to-successful-family-account-sharing-a-guide-to-fix-6-common-problems/"><u>Unlocking the Secrets to Successful Family Account Sharing – A Guide to Fix 6 Common Problems</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-transform-text-to-trendy-memes-kapwings-magic-tool/"><u>2024 Approved Transform Text to Trendy Memes - Kapwing’s Magic Tool</u></a></li>
+<li><a href="https://win-net.techidaily.com/complete-guide-to-saving-your-data-using-the-windows-control-panel/"><u>Complete Guide to Saving Your Data: Using the Windows Control Panel</u></a></li>
+<li><a href="https://win-net.techidaily.com/complete-guide-eliminating-viruses-and-malware-from-your-system-tips-by-yl-computing/"><u>Complete Guide: Eliminating Viruses & Malware From Your System - Tips by YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/customize-monitor-dimensions-with-yl-softwares-simple-guidelines-for-optimal-viewing-experience/"><u>Customize Monitor Dimensions with YL Software's Simple Guidelines for Optimal Viewing Experience</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-nvidia-3d-vision-drivers-for-windows-without-paying-a-penny/"><u>How to Get Nvidia 3D Vision Drivers for Windows Without Paying a Penny</u></a></li>
+<li><a href="https://win-net.techidaily.com/identifying-and-diagnosing-ram-issues-in-windows-a-step-by-step-guide-by-yl-computing/"><u>Identifying and Diagnosing RAM Issues in Windows: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audio-alchemy-transforming-your-windows-11-projects-with-sound/"><u>In 2024, Audio Alchemy Transforming Your Windows 11 Projects with Sound</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-jovial-graphics-via-adobe-tools/"><u>In 2024, Jovial Graphics via Adobe Tools</u></a></li>
+<li><a href="https://win-net.techidaily.com/navigating-preferred-operating-systems-expert-analysis-by-yl-software/"><u>Navigating Preferred Operating Systems - Expert Analysis by YL Software</u></a></li>
+<li><a href="https://win-net.techidaily.com/sharing-files-on-windows-a-comprehensive-guide-by-yl-computing/"><u>Sharing Files on Windows: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://games-able.techidaily.com/speedy-game-playtime-curate-these-top-20-phones-games/"><u>Speedy Game Playtime: Curate These Top 20 Phones Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-cannot-find-d3dx920-file-issue-easily/"><u>Troubleshooting the 'Cannot Find D3DX9_20 File' Issue Easily</u></a></li>
 </ul></div>
 

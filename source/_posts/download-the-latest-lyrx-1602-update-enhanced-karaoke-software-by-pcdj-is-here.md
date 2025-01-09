@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest LYRX 1.6.0.2 Update: Enhanced Karaoke Software by PCDJ Is Here!"
-date: 2024-12-24T18:28:15.500Z
-updated: 2024-12-29T21:52:52.528Z
+date: 2025-01-05T22:11:19.875Z
+updated: 2025-01-08T19:36:26.601Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Release 2 of LYRX version 1.6.0.2 is available for download.
@@ -33,7 +33,7 @@ The new release 2 of version 1.6.0.2 addresses some issues, mainly on the window
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrx.png?fit=300%2C210&ssl=1 "LYRX 1.6.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usual, click the button below to download and install. Just be sure your existing version of LYRX is closed and the update will patch directly over-top, leaving all your lists, data, and settings intact.
@@ -41,7 +41,7 @@ We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usua
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in Release 2 of LYRX v1.6.0.2
@@ -56,7 +56,7 @@ If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download fro
 _Have questions about the latest release 2 of 1.6.0.2 of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,22 +78,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/lyrx-r2-1602.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-everything-you-need-to-know-before-upgrading-to-windows-10/"><u>[Updated] In 2024, Everything You Need To Know Before Upgrading To Windows 10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-6s-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 6s</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-repair-getting-your-logiteeck-g-pro-x-microphone-up-and-running-again/"><u>DIY Repair: Getting Your Logiteeck G Pro X Microphone Up and Running Again</u></a></li>
-<li><a href="https://win-net.techidaily.com/effective-troubleshooting-steps-when-your-scanner-malfunctions-yl-computing-guide/"><u>Effective Troubleshooting Steps When Your Scanner Malfunctions - YL Computing Guide</u></a></li>
-<li><a href="https://win-net.techidaily.com/enhancing-scanning-performance-why-upgrading-your-scanner-application-matters-insights-by-yl-computing/"><u>Enhancing Scanning Performance: Why Upgrading Your Scanner Application Matters - Insights by YL Computing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-error-zero-response/"><u>GPU Error: Zero Response</u></a></li>
-<li><a href="https://win-net.techidaily.com/identifying-lucrative-trade-markets-a-comprehensive-guide-by-yl-computing/"><u>Identifying Lucrative Trade Markets: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-diving-deep-into-screencast-best-practices/"><u>In 2024, Diving Deep Into Screencast Best Practices</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-uncovering-the-truth-about-vn-video-editor-pro-a-worthy-alternative-in-2024/"><u>New Uncovering the Truth About VN Video Editor Pro A Worthy Alternative, In 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/pinnacle-ai-transcribers-for-speech/"><u>Pinnacle AI Transcribers for Speech</u></a></li>
-<li><a href="https://win-net.techidaily.com/solving-common-printing-errors-expert-tips-by-yl-software-specialists/"><u>Solving Common Printing Errors: Expert Tips by YL Software Specialists</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-configuration-of-your-computers-peripherals-customize-your-mouse-and-keyboard-settings-with-yl-computing-software/"><u>Step-by-Step Configuration of Your Computer's Peripherals: Customize Your Mouse and Keyboard Settings with YL Computing Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-changing-your-computers-desktop-image-tips-from-yl-computing/"><u>Step-by-Step Guide: Changing Your Computer's Desktop Image - Tips From YL Computing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ssentials-to-carve-out-your-creative-space-for-2024/"><u>The Essentials to Carve Out Your Creative Space for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/troubleshooting-unresponsive-laptop-issues-following-recent-software-update-tips-from-yl-tech-experts/"><u>Troubleshooting Unresponsive Laptop Issues Following Recent Software Update – Tips From YL Tech Experts</u></a></li>
-<li><a href="https://win-net.techidaily.com/troubleshooting-your-gpu-solutions-for-graphics-card-malfunctions-by-yl-software-experts/"><u>Troubleshooting Your GPU: Solutions for Graphics Card Malfunctions by YL Software Experts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/win11s-top-5-no-cost-screen-recorders-updated-guide/"><u>Win11's Top 5 No-Cost Screen Recorders - Updated Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-peering-into-payment-structures-for-maker-profit-in-video-shorts/"><u>[Updated] Peering Into Payment Structures for Maker Profit in Video Shorts</u></a></li>
+<li><a href="https://win-net.techidaily.com/diagnosing-screen-silence-what-drives-a-monitor-to-show-no-signal-error-expertise-by-yl-software/"><u>Diagnosing Screen Silence: What Drives a Monitor to Show No Signal Error? – Expertise by YL Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725286674927-dvd/"><u>DVD字幕化技巧：自动截取与手工添加</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/formulating-flashy-podcast-announcements/"><u>Formulating Flashy Podcast Announcements</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/interactive-revolution-siri-powered-chatgpt-experience-iphones/"><u>Interactive Revolution: Siri-Powered ChatGPT Experience iPhones</u></a></li>
+<li><a href="https://win-net.techidaily.com/modifying-your-start-menu-experience-on-windows-11-a-guide-from-yl-computing/"><u>Modifying Your Start Menu Experience on Windows 11: A Guide From YL Computing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/schnell-und-einfach-synchronisierung-von-zwei-externen-speichermedien-mit-windows-10-zwei-methoden-erklart/"><u>Schnell Und Einfach: Synchronisierung Von Zwei Externen Speichermedien Mit Windows 10 – Zwei Methoden Erklärt</u></a></li>
+<li><a href="https://win-net.techidaily.com/solving-your-pcs-physical-issues-comprehensive-troubleshooting-guide-by-yl-software/"><u>Solving Your PC's Physical Issues: Comprehensive Troubleshooting Guide by YL Software</u></a></li>
+<li><a href="https://win-net.techidaily.com/verifying-your-pcs-cooling-efficiency-a-step-by-step-guide-insights-from-yl-computing/"><u>Verifying Your PC's Cooling Efficiency: A Step-by-Step Guide - Insights From YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Introducing the New & Improved DJ Dex: Your Go-To App for iPad DJing"
-date: 2024-12-24T20:12:10.326Z
-updated: 2024-12-29T16:55:03.440Z
+date: 2025-01-06T03:40:42.020Z
+updated: 2025-01-09T03:41:55.727Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Get all touchy with the intuitive interface or plug in a DJ controller for tacti
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s a look at the key features you get with DJ DEX ($4.99):
@@ -61,13 +61,13 @@ Get all touchy with the intuitive interface or plug in a DJ controller for tacti
 [![DJ DEX app platters](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0192.png?fit=300%2C225&ssl=1 "DJ DEX app platters")![DJ DEX app platters](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0192.png?resize=495%2C400&ssl=1 "DJ DEX app platters")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0192.png?fit=1030%2C773&ssl=1 "Platter Display Mode")[![DJ DEX app file browser](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/unnamed.jpg?fit=300%2C225&ssl=1 "DJ DEX app file browser")![DJ DEX app file browser](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/unnamed.jpg?resize=495%2C400&ssl=1 "DJ DEX app file browser")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/unnamed.jpg?fit=1030%2C773&ssl=1 "Browser View")[![DJ DEX app splash screen](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0199.png?fit=300%2C225&ssl=1 "DJ DEX app splash screen")![DJ DEX app splash screen](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0199.png?resize=495%2C400&ssl=1 "DJ DEX app splash screen")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0199.png?fit=1030%2C773&ssl=1 "Loading/Splash Screen")[![DJ DEX App Settings](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0198.png?fit=300%2C225&ssl=1 "DJ DEX App Settings")![DJ DEX App Settings](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0198.png?resize=495%2C400&ssl=1 "DJ DEX App Settings")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0198.png?fit=1030%2C773&ssl=1 "Preferences")[![DJ DEX App hot cues](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0197.png?fit=300%2C225&ssl=1 "DJ DEX App hot cues")![DJ DEX App hot cues](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0197.png?resize=495%2C400&ssl=1 "DJ DEX App hot cues")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0197.png?fit=1030%2C773&ssl=1 "Hot Cues")[![DJ DEX app loops](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0196.png?fit=300%2C225&ssl=1 "DJ DEX app loops")![DJ DEX app loops](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0196.png?resize=495%2C400&ssl=1 "DJ DEX app loops")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0196.png?fit=1030%2C773&ssl=1 "Looping Controls")[![DJ DEX app eq](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0195.png?fit=300%2C225&ssl=1 "DJ DEX app eq")![DJ DEX app eq](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0195.png?resize=495%2C400&ssl=1 "DJ DEX app eq")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0195.png?fit=1030%2C773&ssl=1 "Equalizer")[![DJ DEX app effects](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0194.png?fit=300%2C225&ssl=1 "DJ DEX app effects")![DJ DEX app effects](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0194.png?resize=495%2C400&ssl=1 "DJ DEX app effects")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0194.png?fit=1030%2C773&ssl=1 "X/Y Effects Pads")[![DJ DEX app horizontal waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0193.png?fit=300%2C225&ssl=1 "DJ DEX app horizontal waveforms")![DJ DEX app horizontal waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0193.png?resize=495%2C400&ssl=1 "DJ DEX app horizontal waveforms")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0193.png?fit=1030%2C773&ssl=1 "Horizontal Waveform Mode")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about the new DJ DEX **iPad DJ App**? Feel free to leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -89,17 +89,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/DJDEXAPP.jpg?fit=706%2C360
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-master-of-catchphrase-design/"><u>[New] Master of Catchphrase Design</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-real-world-impact-of-instagram-reels-10-things-you-should-know/"><u>[Updated] 2024 Approved Real-World Impact of Instagram Reels (10 Things You Should Know)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-visualsizetweak-mastering-your-instagram-media/"><u>[Updated] In 2024, VisualSizeTweak Mastering Your Instagram Media</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-mastering-the-art-of-financial-forecasting-a-deep-dive-into-budgeting-strategies/"><u>[Updated] Mastering the Art of Financial Forecasting A Deep Dive Into Budgeting Strategies</u></a></li>
-<li><a href="https://win-community.techidaily.com/capturing-stunning-videos-from-google-earth-a-comprehensive-tutorial/"><u>Capturing Stunning Videos From Google Earth - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-net.techidaily.com/future-proof-your-computer-strategies-to-prevent-system-lag-insights-from-yl-computing/"><u>Future-Proof Your Computer: Strategies to Prevent System Lag - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-enable-video-looping-feature-in-vlc-player-quick-and-easy-methods/"><u>How to Enable Video Looping Feature in VLC Player - Quick and Easy Methods</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/solving-graphics-card-problems-in-windows-a-comprehensive-guide-by-yl-software/"><u>Solving Graphics Card Problems in Windows: A Comprehensive Guide by YL Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-restoring-your-pcs-graphics-driver-on-windows-10-tips-from-yl-computing/"><u>Step-by-Step Guide: Restoring Your PC's Graphics Driver on Windows 10 - Tips From YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/the-ultimate-guide-to-fixing-your-frozen-desktops-and-laptops-by-yl-software-experts/"><u>The Ultimate Guide to Fixing Your Frozen Desktops and Laptops by YL Software Experts</u></a></li>
-<li><a href="https://win-net.techidaily.com/yl-software-simplified-creating-and-deleting-user-profiles-effortlessly/"><u>YL Software Simplified: Creating and Deleting User Profiles Effortlessly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-construct-clever-caricatures-on-giphy/"><u>[New] 2024 Approved Construct Clever Caricatures on Giphy</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-fashion-finds-filled-with-fun-editing-for-hauls/"><u>[New] Fashion Finds Filled with Fun Editing for Hauls</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-a-comprezyme-of-creativity-and-technique-dominating-instagram-interactions/"><u>[Updated] In 2024, A Comprezyme of Creativity and Technique Dominating Instagram Interactions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-connect-and-share-youtube-in-instagrams-ecosystem/"><u>2024 Approved Connect & Share YouTube in Instagram's Ecosystem</u></a></li>
+<li><a href="https://win-able.techidaily.com/cold-war-woes-in-cod-black-ops-resolving-gameplay-issues-without-cost/"><u>Cold War Woes in COD: Black Ops - Resolving Gameplay Issues Without Cost</u></a></li>
+<li><a href="https://fox-access.techidaily.com/cutting-edge-ai-photo-enhancement-suite-for-2024/"><u>Cutting-Edge AI Photo Enhancement Suite for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-kernel32dll-glitches-in-win/"><u>Fix Kernel32.dll Glitches in Win</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-realme-gt-5-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Realme GT 5 Pro FRP?</u></a></li>
+<li><a href="https://win-net.techidaily.com/mastering-windows-energy-management-comprehensive-guide-from-yl-software-experts/"><u>Mastering Windows Energy Management - Comprehensive Guide From YL Software Experts</u></a></li>
+<li><a href="https://win-net.techidaily.com/nyc-dj-transforms-subway-into-electrifying-on-the-go-dance-fest/"><u>NYC DJ Transforms Subway Into Electrifying On-the-Go Dance Fest</u></a></li>
+<li><a href="https://article-tips.techidaily.com/precision-meetings-sharpen-your-screens-in-msteam-for-2024/"><u>Precision Meetings Sharpen Your Screens in MSTEAM for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/printer-configuration-restart-tutorial-a-step-by-step-guide-by-yl-computing/"><u>Printer Configuration Restart Tutorial: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/troubleshooting-tips-resolving-application-launch-issues-in-windows-insights-from-yl-computing/"><u>Troubleshooting Tips: Resolving Application Launch Issues in Windows - Insights From YL Computing</u></a></li>
 </ul></div>
 
