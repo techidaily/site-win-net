@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Mastering Effortless Music Downloads on DEX 3 & LYRX - A Must-Know Technique for Disc Jockeys & Singalong Conductors"
-date: 2025-01-04T18:51:22.704Z
-updated: 2025-01-09T06:10:21.268Z
+date: 2025-01-10T21:53:10.265Z
+updated: 2025-01-14T23:08:01.700Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Fret not, for the solution is simpler than you might think, turning this dauntin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Get Set with Google Chrome
@@ -33,7 +33,7 @@ Fret not, for the solution is simpler than you might think, turning this dauntin
 First thing’s first: ensure you have [Google Chrome](https://www.google.com/chrome/) installed on your Windows or Mac computer. This is going to be your gateway to quickly downloading new tracks directly into your DEX 3 or LYRX library.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Nest and Set
@@ -41,7 +41,7 @@ First thing’s first: ensure you have [Google Chrome](https://www.google.com/ch
 Before we dive into Chrome, make sure you’ve got a specific folder [nested under favorites](https://www.youtube.com/watch?v=hRQVXTi64AM&ab%5Fchannel=PCDJHeadquarters) in your DEX 3 or LYRX. This little organizational trick is going to be a lifesaver, trust me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Chrome Configuration
@@ -60,7 +60,7 @@ Here’s where you make the choice:
 * Or, select “Ask where to save each file before downloading” for full control over each download. Remember, consistency is key to keeping things streamlined, so always save to the nested folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 5: Wrap It Up
@@ -72,7 +72,7 @@ That’s all there is to it. Now, whenever you find yourself needing to download
 Remember, keeping your library fresh and responsive to your audience can set you apart in the dynamic world of DJing and karaoke hosting. With this simple setup, you’re not just playing music; you’re curating an experience that feels personal and spontaneous. So go ahead, embrace those on-the-fly requests, and keep the party lively and engaging with your newfound, seamless track-adding skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,20 +94,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2024/03/automatically-importing-do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/opyright-concerns-with-recording-youtube-content/"><u>[New] Copyright Concerns with Recording YouTube Content</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-fps-dilemma-picking-between-30-and-60-hertz-in-video-recording/"><u>[New] FPS Dilemma Picking Between 30 and 60 Hertz in Video Recording</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/accelerate-your-computers-performance-essential-system-optimization-steps-revealed-tips-by-yl-tech/"><u>Accelerate Your Computer's Performance: Essential System Optimization Steps Revealed - Tips by YL Tech</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/chart-analyst-master-video-popularity-for-2024/"><u>Apex Chart Analyst Master Video Popularity for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-setup-thrustmaster-t300-steering-wheel-drivers-for-windows-win-1110/"><u>Download and Setup: Thrustmaster T300 Steering Wheel Drivers for Windows (Win 11/10)</u></a></li>
-<li><a href="https://win-net.techidaily.com/effective-solutions-by-yl-software-for-restoring-defective-electronic-parts/"><u>Effective Solutions by YL Software for Restoring Defective Electronic Parts</u></a></li>
-<li><a href="https://win-net.techidaily.com/expert-advice-on-quick-and-simple-document-printing-from-yl-software-solutions/"><u>Expert Advice on Quick and Simple Document Printing From YL Software Solutions</u></a></li>
-<li><a href="https://win-net.techidaily.com/high-definition-desktop-scenes-ultimate-hd-wallpaper-collections-by-yl-computing/"><u>High-Definition Desktop Scenes: Ultimate HD Wallpaper Collections by YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-pro-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 Pro Max To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/is-it-wise-to-switch-to-windows-n-on-your-music-production-machine-read-why-not-traktor-presets-guide/"><u>Is It Wise to Switch to Windows N on Your Music Production Machine? Read Why Not! | Traktor Presets Guide</u></a></li>
-<li><a href="https://solve-news.techidaily.com/jpeggif/"><u>JPEG画像からGIF動画への変換手順</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/mastering-youtube-to-mpeg-format-change-for-2024/"><u>Mastering YouTube to MPEG Format Change for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/ultimate-super-cars-hd-wallpapers-and-imagery-archive-premium-vehicular-graphics-from-yl-software-experts/"><u>Ultimate Super Cars HD Wallpapers and Imagery Archive – Premium Vehicular Graphics From YL Software Experts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/wisdom-warriors-top-11-trivia-videos/"><u>Wisdom Warriors' Top 11 Trivia Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/orrect-yt-monetization-checklist-maximize-your-earnings-for-2024/"><u>[New] Correct YT Monetization Checklist – Maximize Your Earnings for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-top-entry-editor-for-seamless-edits-across-all-platforms-for-2024/"><u>[New] Top Entry Editor for Seamless Edits Across All Platforms for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-enhance-videos-with-easy-apple-music-integration/"><u>[Updated] 2024 Approved Enhance Videos with Easy Apple Music Integration</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-jumpstart-your-collaboration-zooms-screen-share-essentials-for-2024/"><u>[Updated] Jumpstart Your Collaboration Zoom's Screen-Share Essentials for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-pip-mode-with-youtube-on-your-iphone-device/"><u>2024 Approved Mastering PIP Mode with YouTube on Your iPhone Device</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-transforming-text-the-illustrator-3d-approach/"><u>2024 Approved Transforming Text The Illustrator 3D Approach</u></a></li>
+<li><a href="https://win-net.techidaily.com/assessing-your-pcs-hardware-performance-a-comprehensive-guide-yl-computing/"><u>Assessing Your PC's Hardware Performance: A Comprehensive Guide - YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/diagnosing-printer-device-disconnects-expert-tips-from-yl-softwares-technical-team/"><u>Diagnosing Printer-Device Disconnects: Expert Tips From YL Software's Technical Team</u></a></li>
+<li><a href="https://win-net.techidaily.com/do-loud-computer-fans-indicate-impending-cpu-issues-insights-from-yl-computing/"><u>Do Loud Computer Fans Indicate Impending CPU Issues? Insights From YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/experience-elevated-karaoke-with-the-latest-karaoke-cloud-pro-version-086368-featuring-new-sub-cases-functionality/"><u>Experience Elevated Karaoke with the Latest Karaoke Cloud Pro Version 0.8.6368: Featuring New 'Sub-Cases' Functionality</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-y36-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo Y36 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-enhancing-videos-with-camtasias-ken-burns-trick/"><u>In 2024, Enhancing Videos with Camtasia's Ken Burns Trick</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/live-streaming-pro-master-your-remote-broadcasts-with-manycam-the-ultimate-virtual-webcam-solution/"><u>Live Streaming Pro: Master Your Remote Broadcasts with ManyCam – The Ultimate Virtual Webcam Solution</u></a></li>
+<li><a href="https://win-net.techidaily.com/repeated-computer-freezing-understanding-the-causes-and-solutions-yl-computing-experts/"><u>Repeated Computer Freezing: Understanding the Causes and Solutions - YL Computing Experts</u></a></li>
+<li><a href="https://win-net.techidaily.com/unresponsive-scanner-issues-resolving-command-failures-between-scanners-and-computers-with-yl-software-insights/"><u>Unresponsive Scanner Issues: Resolving Command Failures Between Scanners & Computers with YL Software Insights</u></a></li>
+<li><a href="https://win-net.techidaily.com/video-guide-mastering-the-art-of-djing-perfect-your-memory-skills-with-our-expert-song-request-tricks/"><u>Video Guide: Mastering the Art of DJ'ing - Perfect Your Memory Skills with Our Expert Song Request Tricks</u></a></li>
 </ul></div>
 

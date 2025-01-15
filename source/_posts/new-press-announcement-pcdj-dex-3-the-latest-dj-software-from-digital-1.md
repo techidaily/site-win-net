@@ -1,7 +1,7 @@
 ---
 title: "New Press Announcement: PCDJ DEX 3 - The Latest DJ Software From Digital 1"
-date: 2025-01-07T19:34:45.082Z
-updated: 2025-01-08T20:14:40.921Z
+date: 2025-01-13T17:12:46.372Z
+updated: 2025-01-15T03:13:54.421Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [![d1audio](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/d1audio-180x180.jpg?resize=84%2C84&ssl=1)](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/d1audio.jpg?ssl=1)Digital 1 Audio launches PCDJ DEX 3 for MAC and Windows, a core upgrade of the popular flagship DJ software that includes a new video mixing engine, graphics engine and totally redesigned media file browser.
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
 [Digital 1 Audio, Inc.](http://www.prweb.net/Redirect.aspx?id=aHR0cDovL3d3dy5wY2RqLmNvbQ==), a leading creator of [DJ mixing software](https://tools.techidaily.com/pcdj/products/) for professional DJs, launched a much anticipated[PCDJ DEX 3](https://tools.techidaily.com/pcdj/products/) platform upgrade. The new upgrade for existing PCDJ DEX 2 DJ software users introduces an all-[![PCDJ DEX 3 DJ Software](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/08/dex3pageimage1-300x214.jpg?resize=300%2C214&ssl=1)](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/dex3pageimage1.jpg?ssl=1)new robust core platform, the foundation for the next few years of new feature development.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 > _“DEX 3 will be PCDJ’s most complete solution to date for Pro DJs mixing all media types; music, videos and karaoke,” says Digital 1 Audio’s General Manager Ryan Sherr. “The new version 3 DJ software platform is a core foundational upgrade. The video mixing engine, graphics engine and the file browser, which is now a true and very snappy database, have been redesigned from the ground up to ensure we can continue to build on features for the next five to ten years. In addition, we’ve added support for a few new DJ controllers, with support for over 70 controllers total. We invite anyone that has tried PCDJ DEX 2 before to download the DEX 3 demo; I think DJs will find the DEX 3 a major upgrade to previous version and excellent all-in-one mixing software platform. Our current DEX 2 customers are going to love it.”_
@@ -69,7 +69,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **_Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. Professional DJs all around the world now spin with their computer using one of the company’s entertainment products._**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,22 +91,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/d1releaseddex3-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-budget-friendly-top-7-tiktok-edits-for-macos/"><u>[Updated] In 2024, Budget-Friendly Top 7 TikTok Edits for MacOS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-top-video-shooting-equipment-a-comprehensive-review/"><u>[Updated] Top Video Shooting Equipment A Comprehensive Review</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-gratitude-unboxed-free-and-paid-creative-otus/"><u>2024 Approved Gratitude Unboxed Free & Paid Creative OTUs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-buys-exclusive-deal-on-high-end-gaming-sound-systems-dont-miss-out-on-ultimate-immersion-for-your-playtime/"><u>Best Buy's Exclusive Deal on High-End Gaming Sound Systems! Don’t Miss Out on Ultimate Immersion for Your Playtime.</u></a></li>
-<li><a href="https://win-net.techidaily.com/easy-configuration-tweaking-your-windows-pcs-mouse-and-keyboard-settings-in-the-control-panel-with-expert-guidance-from-yl-software/"><u>Easy Configuration: Tweaking Your Windows PC's Mouse and Keyboard Settings in the Control Panel with Expert Guidance From YL Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/effective-strategies-for-securely-storing-and-managing-your-digital-coins-with-top-tools-insights-from-yl-computing/"><u>Effective Strategies for Securely Storing & Managing Your Digital Coins with Top Tools - Insights From YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/enhance-your-computers-speed-with-effective-ram-cleanup-techniques-yl-software-guide/"><u>Enhance Your Computer's Speed with Effective RAM Cleanup Techniques - YL Software Guide</u></a></li>
-<li><a href="https://win-net.techidaily.com/expert-guide-mastering-effortless-music-downloads-on-dex-3-and-lyrx-a-must-know-technique-for-disc-jockeys-and-singalong-conductors/"><u>Expert Guide: Mastering Effortless Music Downloads on DEX 3 & LYRX - A Must-Know Technique for Disc Jockeys & Singalong Conductors</u></a></li>
-<li><a href="https://win-net.techidaily.com/expert-tips-top-strategies-for-efficiently-solving-computer-hardware-problems-insights-from-yl-computing/"><u>Expert Tips: Top Strategies for Efficiently Solving Computer Hardware Problems - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-conversion-turn-your-mov-files-into-mp3-audio-format/"><u>Free Online Conversion: Turn Your MOV Files Into MP3 Audio Format</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-and-set-up-the-latest-brother-l2700dw-printer-driver-for-your-pc/"><u>How to Get and Set Up the Latest Brother L2700DW Printer Driver for Your PC</u></a></li>
-<li><a href="https://win-net.techidaily.com/improving-scan-quality-a-comprehensive-guide-to-scanner-calibration-techniques-by-yl-computing/"><u>Improving Scan Quality: A Comprehensive Guide to Scanner Calibration Techniques by YL Computing</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-essential-tips-for-extracting-vimeo-content-as-high-quality-mp4s/"><u>In 2024, Essential Tips for Extracting Vimeo Content as High-Quality MP4s</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-8-plus-5-ways-to-get-into-a-locked-iphone-8-plus-by-drfone-ios/"><u>Locked Out of iPhone 8 Plus? 5 Ways to get into a Locked iPhone 8 Plus</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/simple-steps-to-change-iphones-call-alert-sounds/"><u>Simple Steps to Change iPhones' Call Alert Sounds</u></a></li>
-<li><a href="https://win-net.techidaily.com/streamlining-your-pcs-onoff-routine-essential-tips-and-tricks-from-yl-computing/"><u>Streamlining Your PC's On/Off Routine: Essential Tips & Tricks From YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/windows-doesnt-see-my-scanner-heres-what-you-can-do-according-to-professionals-at-yl-software/"><u>Windows Doesn't See My Scanner? Here’s What You Can Do According to Professionals at YL Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-minute-by-minute-mastery-the-top-ten-on-youtube-daily/"><u>[New] In 2024, Minute-by-Minute Mastery The Top Ten on YouTube Daily</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-5-best-3d-intro-makers-for-youtube-for-2024/"><u>[New] Top 5 Best 3D Intro Makers for YouTube for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-universalaccess-tv-diverse-channels-with-a-local-twist/"><u>[New] UniversalAccess TV Diverse Channels with a Local Twist</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-choosing-the-right-gimbal-for-flawless-youtube-footage-for-2024/"><u>[Updated] Choosing the Right Gimbal for Flawless YouTube Footage for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-snag-soundwaves-from-fb-topics/"><u>[Updated] Snag Soundwaves From Fb Topics</u></a></li>
+<li><a href="https://win-net.techidaily.com/1728500479028-windows-server-202/"><u>「Windows Server 202#で、タスクスケジューラーを使って再起動スケジュール設定ガイド」</u></a></li>
+<li><a href="https://win-net.techidaily.com/de-beste-methodes-om-geheugenbestand-fragmenten-te-herstellen-in-windows-7/"><u>De Beste Methodes Om Geheugenbestand Fragmenten Te Herstellen in Windows 7</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-13-ultra-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-enhancing-iphones-in-night-mode-silhouettes/"><u>In 2024, Enhancing iPhones in Night Mode Silhouettes</u></a></li>
+<li><a href="https://win-net.techidaily.com/les-meilleurs-correctifs-pour-un-demarrage-securise-non-actif-sur-votre-ordinateur/"><u>Les Meilleurs Correctifs Pour Un Démarrage Sécurisé Non Actif Sur Votre Ordinateur</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/master-the-art-of-movie-capture-on-any-device-for-2024/"><u>Master the Art of Movie Capture on Any Device for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/migrations-logicielles-en-transition-utiliser-aomei-backupper-pour-sauvegarde-et-restauration-dun-nouvel-appareil-materiel/"><u>Migrations Logicielles en Transition: Utiliser AOMEI Backupper Pour Sauvegarde Et Restauration D'un Nouvel Appareil Matériel</u></a></li>
+<li><a href="https://win-net.techidaily.com/perfektes-airdrop-mit-windows-11-zu-iphoneipad-professionelle-losungen-fur-ein-reibungsloses-dateitransfer/"><u>Perfektes AirDrop Mit Windows 11 Zu iPhone/iPad - Professionelle Lösungen Für Ein Reibungsloses Dateitransfer</u></a></li>
+<li><a href="https://win-net.techidaily.com/restore-your-boot-partition-after-unintentional-removal-on-windows-os-781011/"><u>Restore Your Boot Partition After Unintentional Removal on Windows OS (7/8/10/11)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-8-best-open-source-videoconference-systems-for-enterprises-today/"><u>The 8 Best Open Source Videoconference Systems for Enterprises Today</u></a></li>
+<li><a href="https://win-net.techidaily.com/tutorial-lancar-mengembalikan-file-ke-lestari-di-google-drive-dropbox/"><u>Tutorial Lancar Mengembalikan File Ke Lestari Di Google Drive / Dropbox</u></a></li>
+<li><a href="https://win-net.techidaily.com/1728488449813-windows-pc/"><u>Windows PC上的最佳免费文件恢复工具 - 立即下载</u></a></li>
 </ul></div>
 

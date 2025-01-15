@@ -1,7 +1,7 @@
 ---
 title: "Past Productions Archive: Dive Into Classic Beats with PCDJ's Retro Video Treasury"
-date: 2025-01-08T07:53:06.906Z
-updated: 2025-01-08T18:18:35.653Z
+date: 2025-01-13T02:32:15.141Z
+updated: 2025-01-14T23:54:06.275Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ It was during these early years that digital DJ technology was met with extreme 
 **Here’s three old-school PCDJ videos that both took me down memory lane, and reminded me of just how much DJ software technology has evolved:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,18 +48,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/01/videoarchive-coverimage2.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/2024-approved-transform-text-to-trendy-memes-kapwings-magic-tool/"><u>2024 Approved Transform Text to Trendy Memes - Kapwing’s Magic Tool</u></a></li>
-<li><a href="https://win-net.techidaily.com/complete-guide-to-saving-your-data-using-the-windows-control-panel/"><u>Complete Guide to Saving Your Data: Using the Windows Control Panel</u></a></li>
-<li><a href="https://win-net.techidaily.com/complete-guide-eliminating-viruses-and-malware-from-your-system-tips-by-yl-computing/"><u>Complete Guide: Eliminating Viruses & Malware From Your System - Tips by YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/customize-monitor-dimensions-with-yl-softwares-simple-guidelines-for-optimal-viewing-experience/"><u>Customize Monitor Dimensions with YL Software's Simple Guidelines for Optimal Viewing Experience</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-nvidia-3d-vision-drivers-for-windows-without-paying-a-penny/"><u>How to Get Nvidia 3D Vision Drivers for Windows Without Paying a Penny</u></a></li>
-<li><a href="https://win-net.techidaily.com/identifying-and-diagnosing-ram-issues-in-windows-a-step-by-step-guide-by-yl-computing/"><u>Identifying and Diagnosing RAM Issues in Windows: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-audio-alchemy-transforming-your-windows-11-projects-with-sound/"><u>In 2024, Audio Alchemy Transforming Your Windows 11 Projects with Sound</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-jovial-graphics-via-adobe-tools/"><u>In 2024, Jovial Graphics via Adobe Tools</u></a></li>
-<li><a href="https://win-net.techidaily.com/navigating-preferred-operating-systems-expert-analysis-by-yl-software/"><u>Navigating Preferred Operating Systems - Expert Analysis by YL Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/sharing-files-on-windows-a-comprehensive-guide-by-yl-computing/"><u>Sharing Files on Windows: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://games-able.techidaily.com/speedy-game-playtime-curate-these-top-20-phones-games/"><u>Speedy Game Playtime: Curate These Top 20 Phones Games</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-cannot-find-d3dx920-file-issue-easily/"><u>Troubleshooting the 'Cannot Find D3DX9_20 File' Issue Easily</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-easy-peasy-ffvegior-grab-facebook-video-mp4-files/"><u>[New] 2024 Approved Easy Peasy FFVEGIOR Grab Facebook Video MP4 Files</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-deciphering-the-secrets-of-gopro-hero5-captures/"><u>[New] In 2024, Deciphering the Secrets of GoPro Hero5 Captures</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-tycoon-titans-the-12-game-series-for-budding-business-masters/"><u>[New] In 2024, Tycoon Titans The #12 Game Series for Budding Business Masters</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nvestment-edutainment-the-best-channels-reviewed/"><u>[New] Investment Edutainment The Best Channels Reviewed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-crafting-seamless-visuals-with-instagrams-chroma-key/"><u>[Updated] In 2024, Crafting Seamless Visuals with Instagram's Chroma Key</u></a></li>
+<li><a href="https://fox-that.techidaily.com/a-comprehensive-guide-to-fixing-accurate-apple-screen-time-records-for-your-iphone/"><u>A Comprehensive Guide to Fixing Accurate Apple Screen Time Records for Your iPhone</u></a></li>
+<li><a href="https://win-net.techidaily.com/centralizzato-strategie-di-backup-con-aomei-guida-per-il-recupero-dei-dati/"><u>Centralizzato: Strategie Di Backup Con AOMEI - Guida per Il Recupero Dei Dati</u></a></li>
+<li><a href="https://win-net.techidaily.com/comprehensive-nas-storage-solutions-faq-your-ultimate-guide/"><u>Comprehensive NAS Storage Solutions FAQ: Your Ultimate Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/comprehensive-tutorial-creating-secure-iphone-backups-using-itunes-and-icloud/"><u>Comprehensive Tutorial: Creating Secure iPhone Backups Using iTunes & iCloud</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-artifice-intelligence-conversational-agents-debunking-the-top-9-misunderstandings/"><u>Demystifying Artifice Intelligence Conversational Agents: Debunking the Top 9 Misunderstandings</u></a></li>
+<li><a href="https://win-net.techidaily.com/high-volume-hddssd/"><u>High Volume HDDを少ないSSDにコピーするための専門家レベル技術</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/highly-effective-ways-to-stream-and-record-sports-games-for-2024/"><u>Highly Effective Ways to Stream and Record Sports Games for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-13t-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Xiaomi 13T Phone</u></a></li>
+<li><a href="https://win-net.techidaily.com/overcome-error-code-0x8004010f-in-microsoft-outlook-using-these-2-proven-fixes/"><u>Overcome Error Code 0X8004010F in Microsoft Outlook Using These 2 Proven Fixes</u></a></li>
+<li><a href="https://win-net.techidaily.com/struggling-with-youtube-on-ipad-try-these-11-remedies-to-get-it-running-smoothly/"><u>Struggling with YouTube on iPad? Try These 11 Remedies to Get It Running Smoothly!</u></a></li>
+<li><a href="https://win-net.techidaily.com/tutorial-membuat-pemulihan-data-iphone-resiko-hanya-tanpa-gagal/"><u>Tutorial Membuat Pemulihan Data iPhone Resiko Hanya Tanpa Gagal</u></a></li>
+<li><a href="https://win-net.techidaily.com/1728468697391-windows-10/"><u>Windows 10 リファーリング前の重要な準備手順 - 何が必要か見逃すな</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winx-mediatrans-la-solution-ultime-pour-transferer-votre-contenu-musical-et-multimedia-entre-ios-et-pc-facile-a-utiliser-and-efficace/"><u>WinX MediaTrans : La Solution Ultime Pour Transferer Votre Contenu Musical Et Multimédia Entre iOS Et PC - Facile À Utiliser & Efficace</u></a></li>
+<li><a href="https://win-net.techidaily.com/44kq44oq44oz44or44k544kr44oh44op44gu44ov44kh44kk44or44gl44kj55s75yop44ks5zue5b6p44gz44kl5pa55rov/"><u>オリンパスカメラのファイルから画像を回復する方法</u></a></li>
 </ul></div>
 
