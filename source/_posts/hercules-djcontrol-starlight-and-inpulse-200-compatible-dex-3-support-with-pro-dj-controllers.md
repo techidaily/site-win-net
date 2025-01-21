@@ -1,7 +1,7 @@
 ---
 title: "Hercules DJControl Starlight & Inpulse 200 Compatible: DEX-3 Support with Pro DJ Controllers"
-date: 2025-01-11T17:19:29.243Z
-updated: 2025-01-14T18:08:28.964Z
+date: 2025-01-14T21:46:56.690Z
+updated: 2025-01-21T07:11:06.564Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ By downloading and placing the map files (below) in the DJ Controller controller
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules DJControl Starlight
@@ -33,7 +33,7 @@ By downloading and placing the map files (below) in the DJ Controller controller
 [![Hercules DJControl Starlight](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/10244000945cd0ed4c41b8d.jpg?fit=300%2C106&ssl=1 "Hercules DJControl Starlight")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/10244000945cd0ed4c41b8d.jpg?fit=1000%2C352&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ultra-compact, ultra-light, ultra-practical and ultra-unique with its lights, the DJControl Starlight packs all the features needed to mix and scratch. With its built-in audio interface, the DJControl Starlight offers pre-listening in the headphones so you can then play your mix on speakers, which is perfect for learning or creating new mixes. The system is so comprehensive for its size that it boasts all the essential features such as bass equalization/filter knobs for smooth transitions or touch-sensitive jog wheels for easy scratching. The added bonus: the bright and powerful RGB backlighting with unique strobe effects to make it easier to learn how to mix.
@@ -41,7 +41,7 @@ Ultra-compact, ultra-light, ultra-practical and ultra-unique with its lights, th
 Like the Numark DJ2GO2, the Hercules DJControl Starlight is a “throw it in your backpack and go” Controller that’s ideal for house parties and smaller mobile events. It even has a few bells and whistles not available with the aforementioned Numark DJ2GO2, as well. At a price-point of only $89.99 it’s at the very least a fantastic practice unit. For more information on specifications visit the [Hercules DJ Control Starlight Specifications Page](https://www.hercules.com/en-us/product/djcontrolstarlight/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules DJControl Inpulse 200
@@ -49,7 +49,7 @@ Like the Numark DJ2GO2, the Hercules DJControl Starlight is a “throw it in you
 [![Hercules DJControl Inpulse 200](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/image.jpg?fit=300%2C229&ssl=1 "Hercules DJControl Inpulse 200")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/image.jpg?fit=1030%2C787&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The [DJControl Inpulse 200](https://www.hercules.com/en-us/product/djcontrolinpulse200/) has the industry-standard look like many other popular entry-level controllers on the market. It’s equipped with two decks with 8 performance pads per decks, touch-sensitive jog wheels, a 3 band EQ and filter on the mixer and a built-in audio interface with headphone pre-fade listening. It’s a step up from the Starlight, and will run you $119.99 at most online DJ equipment shops. Another small form controller that you can throw in a bag and hit the road with. [Learn more about the specifications on the Hercules DJControl](https://www.hercules.com/en-us/product/djcontrolinpulse200/).
@@ -77,7 +77,7 @@ Keep an eye out for a blog post regarding DEX 3 support for a couple additional 
 _Have questions about the **Hercules DJ Control Starlight** or **Hercules DJ Control Inpulse 200** and how they work with our DEX 3 **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,21 +99,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/06/herculessupported.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-elevating-educational-content-by-adding-youtube-music-to-vids-for-2024/"><u>[New] Elevating Educational Content by Adding YouTube Music to Vids for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-tips-to-improve-your-gopros-power-sustainability/"><u>[Updated] 2024 Approved Tips to Improve Your GoPro's Power Sustainability</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-art-of-illusion-crafting-stunning-snaps-with-filters/"><u>[Updated] The Art of Illusion Crafting Stunning Snaps with Filters</u></a></li>
-<li><a href="https://win-net.techidaily.com/onedriveandhddwindows-111087/"><u>簡単OneDrive&HDDの並行同期：Windows 11/10/8/7利用者向けガイド</u></a></li>
-<li><a href="https://win-net.techidaily.com/ace-your-data-rescue-three-simple-steps-for-successful-acer-disk-to-disk-restoration/"><u>Ace Your Data Rescue: Three Simple Steps for Successful Acer Disk-to-Disk Restoration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-the-paperclip-maximization-issue-the-intersection-between-ai-goals-and-human-values/"><u>Deciphering the Paperclip Maximization Issue: The Intersection Between AI Goals and Human Values</u></a></li>
-<li><a href="https://win-net.techidaily.com/erstellen-eines-wiederherstellungspfades-fur-windows-710-auf-einem-usb-datentrager-schritt-fur-schritt-anleitung/"><u>Erstellen Eines Wiederherstellungspfades Für Windows 7/10 Auf Einem USB-Datenträger - Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-twitter-optimization-tools-and-preferred-client-solutions/"><u>Essential Twitter Optimization Tools and Preferred Client Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-realme-gt-3-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Realme GT 3 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Itel S23+? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-poco-x6-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Poco X6 Pro Device</u></a></li>
-<li><a href="https://win-net.techidaily.com/revitalize-your-pc-two-methods-for-restoring-windows-10-via-command-line/"><u>Revitalize Your PC: Two Methods for Restoring Windows 10 via Command Line</u></a></li>
-<li><a href="https://win-net.techidaily.com/ricostruire-il-tuo-profilo-wechat-su-iphone-dopo-leliminazione-della-cronologia-dei-messaggi/"><u>Ricostruire Il Tuo Profilo WeChat Su iPhone Dopo L'eliminazione Della Cronologia Dei Messaggi</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-building-a-bootable-windows-7-live-usb-without-using-an-iso-file/"><u>Step-by-Step Guide: Building a Bootable Windows 7 Live USB Without Using an ISO File</u></a></li>
-<li><a href="https://win-net.techidaily.com/troubleshoot-windows-to-go-drive-issues-with-these-5-steps/"><u>Troubleshoot Windows To Go Drive Issues with These 5 Steps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/wallet-friendly-360-degree-video-technology/"><u>Wallet-Friendly 360-Degree Video Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solved-how-to-view-hidden-files-in-windows-10windows-help/"><u>[Solved] How to View Hidden Files in Windows 10–Windows Help</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-exploring-the-financial-benefits-in-podcasting-for-2024/"><u>[Updated] Exploring the Financial Benefits in Podcasting for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/6-effective-strategies-resolving-your-lenovo-laptops-inaccessible-boot-device-issue/"><u>6 Effective Strategies: Resolving Your Lenovo Laptop's 'Inaccessible Boot Device' Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-revolutionizes-browsing-top-8-productivity-extensions-for-google-chrome/"><u>AI Revolutionizes Browsing: Top 8 Productivity Extensions for Google Chrome</u></a></li>
+<li><a href="https://win-net.techidaily.com/de-mysterieux-ontsnapping-van-microsofts-gegooid-geheugen-verhaal-bewezen/"><u>De Mysterieux Ontsnapping Van Microsoft's Gegooid Geheugen - Verhaal Bewezen!</u></a></li>
+<li><a href="https://win-net.techidaily.com/efficient-weg-hijsen-van-gegevens-van-iphone-met-ongedaan-maken-geautomatiseerd-snel/"><u>Efficiënt Weg Hijsen Van Gegevens Van iPhone Met Ongedaan Maken - Geautomatiseerd, Snel</u></a></li>
+<li><a href="https://win-net.techidaily.com/efficiently-move-images-top-strategies-for-pc-to-ipad-pro-transfers/"><u>Efficiently Move Images: Top Strategies for PC to iPad Pro Transfers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-strategic-synergy-in-streams-dissecting-your-videos-from-rivals/"><u>In 2024, Strategic Synergy in Streams Dissecting Your Videos From Rivals'</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-intel-hm63-driver/"><u>Quick Fix: Intel HM63 Driver</u></a></li>
+<li><a href="https://win-net.techidaily.com/recupero-semplice-come-riportare-indietro-i-tuoi-dati-persi-da-una-scheda-sd/"><u>Recupero Semplice: Come Riportare Indietro I Tuoi Dati Persi Da Una Scheda SD</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-msvcrtdll-file-not-found-step-by-step-guide/"><u>Resolving 'Msvcrt.dll' File Not Found: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-detecting-and-deleting-repetitive-images-using-adobe-lightrooms-tools/"><u>Step-by-Step Guide: Detecting & Deleting Repetitive Images Using Adobe Lightroom's Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/strategic-steps-towards-uncovering-youtubes-secret-videos-for-2024/"><u>Strategic Steps Towards Uncovering YouTube's Secret Videos for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/top-three-methods-for-setting-your-iphones-ringtone-directly-no-itunes-required/"><u>Top Three Methods for Setting Your iPhone's Ringtone Directly, No iTunes Required!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transformative-tools-for-pictorial-art/"><u>Transformative Tools for Pictorial Art</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/troubleshooting-pc-faulty-bootups-blue-screen-solutions-by-yl-software-experts/"><u>Troubleshooting PC Faulty Bootups: Blue Screen Solutions by YL Software Experts</u></a></li>
+<li><a href="https://win-net.techidaily.com/troubleshooting-windows-file-restoration-issues-solutions-and-fixes/"><u>Troubleshooting Windows File Restoration Issues - Solutions & Fixes</u></a></li>
+<li><a href="https://win-net.techidaily.com/effektivnye-metody-resheniya-problem-s-rezervnym-kopirovaniem-windows-10/"><u>Эффективные Методы Решения Проблем С Резервным Копированием Windows 10</u></a></li>
 </ul></div>
 

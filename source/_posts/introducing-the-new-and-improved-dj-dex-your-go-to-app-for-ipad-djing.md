@@ -1,7 +1,7 @@
 ---
 title: "Introducing the New & Improved DJ Dex: Your Go-To App for iPad DJing"
-date: 2025-01-08T00:47:13.868Z
-updated: 2025-01-14T21:43:54.853Z
+date: 2025-01-15T21:19:37.972Z
+updated: 2025-01-20T21:21:30.160Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Get all touchy with the intuitive interface or plug in a DJ controller for tacti
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s a look at the key features you get with DJ DEX ($4.99):
@@ -61,13 +61,13 @@ Get all touchy with the intuitive interface or plug in a DJ controller for tacti
 [![DJ DEX app platters](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0192.png?fit=300%2C225&ssl=1 "DJ DEX app platters")![DJ DEX app platters](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0192.png?resize=495%2C400&ssl=1 "DJ DEX app platters")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0192.png?fit=1030%2C773&ssl=1 "Platter Display Mode")[![DJ DEX app file browser](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/unnamed.jpg?fit=300%2C225&ssl=1 "DJ DEX app file browser")![DJ DEX app file browser](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/unnamed.jpg?resize=495%2C400&ssl=1 "DJ DEX app file browser")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/unnamed.jpg?fit=1030%2C773&ssl=1 "Browser View")[![DJ DEX app splash screen](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0199.png?fit=300%2C225&ssl=1 "DJ DEX app splash screen")![DJ DEX app splash screen](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0199.png?resize=495%2C400&ssl=1 "DJ DEX app splash screen")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0199.png?fit=1030%2C773&ssl=1 "Loading/Splash Screen")[![DJ DEX App Settings](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0198.png?fit=300%2C225&ssl=1 "DJ DEX App Settings")![DJ DEX App Settings](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0198.png?resize=495%2C400&ssl=1 "DJ DEX App Settings")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0198.png?fit=1030%2C773&ssl=1 "Preferences")[![DJ DEX App hot cues](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0197.png?fit=300%2C225&ssl=1 "DJ DEX App hot cues")![DJ DEX App hot cues](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0197.png?resize=495%2C400&ssl=1 "DJ DEX App hot cues")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0197.png?fit=1030%2C773&ssl=1 "Hot Cues")[![DJ DEX app loops](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0196.png?fit=300%2C225&ssl=1 "DJ DEX app loops")![DJ DEX app loops](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0196.png?resize=495%2C400&ssl=1 "DJ DEX app loops")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0196.png?fit=1030%2C773&ssl=1 "Looping Controls")[![DJ DEX app eq](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0195.png?fit=300%2C225&ssl=1 "DJ DEX app eq")![DJ DEX app eq](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0195.png?resize=495%2C400&ssl=1 "DJ DEX app eq")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0195.png?fit=1030%2C773&ssl=1 "Equalizer")[![DJ DEX app effects](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0194.png?fit=300%2C225&ssl=1 "DJ DEX app effects")![DJ DEX app effects](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0194.png?resize=495%2C400&ssl=1 "DJ DEX app effects")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0194.png?fit=1030%2C773&ssl=1 "X/Y Effects Pads")[![DJ DEX app horizontal waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0193.png?fit=300%2C225&ssl=1 "DJ DEX app horizontal waveforms")![DJ DEX app horizontal waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0193.png?resize=495%2C400&ssl=1 "DJ DEX app horizontal waveforms")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0193.png?fit=1030%2C773&ssl=1 "Horizontal Waveform Mode")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about the new DJ DEX **iPad DJ App**? Feel free to leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -89,17 +89,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/DJDEXAPP.jpg?fit=706%2C360
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-effortless-online-audio-accessibility-ideal-tools-for-iphone-and-youtube/"><u>[Updated] 2024 Approved Effortless Online Audio Accessibility Ideal Tools for iPhone & YouTube</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/2021-max-verstappen-formula-one-title-win-high-quality-backgrounds-and-desktop-wallpaper-downloads-yl-computings-top-picks/"><u>2021 Max Verstappen Formula One Title Win: High-Quality Backgrounds & Desktop Wallpaper Downloads - YL Computing's Top Picks</u></a></li>
-<li><a href="https://win-net.techidaily.com/mastering-audio-configuration-and-output-device-selection-on-windows-11-a-guide-by-yl-computing/"><u>Mastering Audio Configuration & Output Device Selection on Windows 11 - A Guide by YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/nyc-dj-transforms-subway-into-electrifying-on-the-go-dance-fest/"><u>NYC DJ Transforms Subway Into Electrifying On-the-Go Dance Fest</u></a></li>
-<li><a href="https://win-net.techidaily.com/printer-configuration-restart-tutorial-a-step-by-step-guide-by-yl-computing/"><u>Printer Configuration Restart Tutorial: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/reimagining-mobile-photoshopping-iphone-x-insights/"><u>Reimagining Mobile Photoshopping IPhone X Insights</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamless-setup-guide-for-hid-keyboard-drivers-get-them-instantly/"><u>Seamless Setup Guide for HID Keyboard Drivers – Get Them Instantly!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unete-a-los-millones-que-ya-usan-la-herramienta-gratuita-para-realizar-copias-de-seguridad-profesionales-de-su-servidor/"><u>Únete a Los Millones Que Ya Usan La Herramienta Gratuita Para Realizar Copias De Seguridad Profesionales De Su Servidor</u></a></li>
-<li><a href="https://win-net.techidaily.com/unraveling-the-historical-consequences-a-deep-dive-into-the-nanjing-massacres-aftermath/"><u>Unraveling the Historical Consequences: A Deep Dive Into the Nanjing Massacre's Aftermath</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo V30? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-you-should-get-an-apple-watch-6-persuasive-arguments-by-industry-expert-featured/"><u>Why You Should Get an Apple Watch: 6 Persuasive Arguments by Industry Expert, Featured</u></a></li>
-<li><a href="https://win-net.techidaily.com/yl-software-premium-korean-style-purple-background-graphics-and-hd-wallpapers-for-inspiration/"><u>YL Software: Premium Korean-Style Purple Background Graphics and HD Wallpapers for Inspiration</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-preventing-and-addressing-live-pause-issues-fb-for-2024/"><u>[New] Preventing and Addressing Live Pause Issues (FB) for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-14-ultra-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi 14 Ultra</u></a></li>
+<li><a href="https://win-net.techidaily.com/beginners-journey-to-secure-digital-assets-install-a-cryptocurrency-wallet-with-ease-using-yl-computing-tools/"><u>Beginner's Journey to Secure Digital Assets: Install a Cryptocurrency Wallet with Ease Using YL Computing Tools</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/depasser-la-lenteur-de-copie-des-fichiers-sous-windows-10-8-solutions-rapides-avec-resolu/"><u>Dépasser La Lenteur De Copie Des Fichiers Sous Windows 10 : 8 Solutions Rapides Avec Résolu</u></a></li>
+<li><a href="https://win-net.techidaily.com/expert-solutions-for-empty-displays-understanding-and-fixing-monitor-problems-with-yl-software-advice/"><u>Expert Solutions for Empty Displays: Understanding and Fixing Monitor Problems with YL Software Advice</u></a></li>
+<li><a href="https://win-net.techidaily.com/font-installation-steps-a-comprehensive-guide-by-yl-computing/"><u>Font Installation Steps: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-become-a-canvas-connoisseur-with-these-10-tips/"><u>In 2024, Become a Canvas Connoisseur with These 10 Tips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-se-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an iPhone SE without Apple ID?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oneplus-nord-n30-se-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change OnePlus Nord N30 SE IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-face-off-against-microsoft-edges-gaming-power/"><u>Opera GX Face-Off Against Microsoft Edge's Gaming Power</u></a></li>
+<li><a href="https://win-data.techidaily.com/overcoming-blue-screen-of-death-a-comprehensive-guide-with-yl-software-solutions/"><u>Overcoming 'Blue Screen of Death': A Comprehensive Guide with YL Software Solutions</u></a></li>
+<li><a href="https://win-net.techidaily.com/ultimate-guide-how-to-efficiently-and-safely-clean-your-laptops-fan-tips-from-yl-computing/"><u>Ultimate Guide: How to Efficiently and Safely Clean Your Laptop's Fan - Tips From YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Major News Release by Karaoke.net Regarding Enhancements to PCDJ Technology
-date: 2024-12-22T22:16:18.773Z
-updated: 2024-12-29T16:10:39.003Z
+date: 2025-01-18T18:04:41.402Z
+updated: 2025-01-21T03:59:44.944Z
 tags:
   - product
 categories:
@@ -31,13 +31,13 @@ This also means [DEX 3](https://tools.techidaily.com/pcdj/products/) and [LYRX](
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How Karaoke.net (Soon to be PartyTyme.net) Works in DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,16 +59,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/02/partytyme-karaoke.net\_.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-masterclass-converting-twitter-vids-to-eye-catching-engaging-gifs/"><u>[Updated] 2024 Approved Masterclass Converting Twitter Vids to Eye-Catching, Engaging GIFs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-5-pro-photoshop-tricks-that-newbies-must-know/"><u>[Updated] 5 Pro Photoshop Tricks That Newbies Must Know</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-beginners-pathway-utilizing-fade-transitions/"><u>[Updated] In 2024, Beginner's Pathway Utilizing Fade Transitions</u></a></li>
-<li><a href="https://win-net.techidaily.com/adjusting-system-optimization-preferences-a-guide-by-yl-computing/"><u>Adjusting System Optimization Preferences: A Guide by YL Computing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209532196-9781789504279-astrology-in-the-workplace/"><u>Astrology in the Workplace | Free Book</u></a></li>
-<li><a href="https://win-net.techidaily.com/download-lyrx-karaoke-software-v113-compatible-with-mac-os-x-for-seamless-singing/"><u>Download LYRX Karaoke Software v1.1.3 - Compatible with Mac OS X for Seamless Singing</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-revolutionize-your-gameplay-videos-top-free-editing-tools/"><u>New 2024 Approved Revolutionize Your Gameplay Videos Top Free Editing Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-hidden-remove-button-for-windows-11-security/"><u>Reactivating Hidden 'Remove' Button for Windows 11 Security</u></a></li>
-<li><a href="https://win-net.techidaily.com/spotting-promising-blockchain-initiatives-tips-by-yl-computing-and-yl-software/"><u>Spotting Promising Blockchain Initiatives: Tips by YL Computing and YL Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/troubleshooting-guide-how-to-fix-your-scanners-connection-issues-with-your-pc-insights-by-yl-computing/"><u>Troubleshooting Guide: How To Fix Your Scanner's Connection Issues With Your PC - Insights by YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/unveiling-the-lasting-effects-of-the-chinese-nationalist-uprising-on-todays-nation-a-perspective-by-software-guru-yl/"><u>Unveiling the Lasting Effects of the Chinese Nationalist Uprising on Today's Nation: A Perspective by Software Guru YL</u></a></li>
+<li><a href="https://win-net.techidaily.com/y-x2-6x-plus-9-5/"><u> [Y = -(X^2 - 6X + 9) - 5 </u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unmatched-guide-the-ultimate-11-streaming-recorders/"><u>[New] 2024 Approved Unmatched Guide The Ultimate 11 Streaming Recorders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quick-guide-to-planning-google-meet-sessions/"><u>[New] In 2024, Quick Guide to Planning Google Meet Sessions</u></a></li>
+<li><a href="https://facebook.techidaily.com/10-essential-tips-for-perfect-fb-timeline-covers/"><u>10 Essential Tips for Perfect Fb Timeline Covers</u></a></li>
+<li><a href="https://win-net.techidaily.com/automatische-datendestruktion-in-sharepoint-und-strategien-zur-wiederherstellung-von-dokumenten/"><u>Automatische Datendestruktion in SharePoint Und Strategien Zur Wiederherstellung Von Dokumenten</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-poco-c55-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Poco C55 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-character-and-word-capacity-boundaries-in-chatgpt-interactions/"><u>Exploring Character and Word Capacity Boundaries in ChatGPT Interactions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-asus-2024-rog-zephyrus-g14-with-oled-display-and-nvidias-rtx-4060-at-a-discounted-price-save-300-now/"><u>Get the Asus 2024 ROG Zephyrus G14 with OLED Display and NVIDIA's RTX 4060 at a Discounted Price - Save $300 Now!</u></a></li>
+<li><a href="https://win-net.techidaily.com/guide-complet-la-nouvelle-methode-pour-creer-des-partitions-de-sauvegarde-sur-windows/"><u>Guide Complet : La Nouvelle Méthode Pour Créer Des Partitions De Sauvegarde Sur Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pursuing-perfection-in-lengthy-iphone-photography/"><u>In 2024, Pursuing Perfection in Lengthy iPhone Photography</u></a></li>
+<li><a href="https://win-net.techidaily.com/quick-and-easy-methods-how-to-copy-songs-onto-your-usb-memory-stick-using-your-laptop/"><u>Quick and Easy Methods: How to Copy Songs Onto Your USB Memory Stick Using Your Laptop</u></a></li>
+<li><a href="https://win-net.techidaily.com/top-server-sicherungsstrategien-fur-it-dienstleister-pc-und-cloud-basierte-backups/"><u>Top-Server-Sicherungsstrategien Für IT-Dienstleister: PC Und Cloud-Basierte Backups</u></a></li>
+<li><a href="https://win-net.techidaily.com/wd-aomei/"><u>WD品質最高的備份軟體 - AOMEI優秀版</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Mastering Effortless Music Downloads on DEX 3 & LYRX - A Must-Know Technique for Disc Jockeys & Singalong Conductors"
-date: 2025-01-10T21:53:10.265Z
-updated: 2025-01-14T23:08:01.700Z
+date: 2025-01-18T03:08:07.104Z
+updated: 2025-01-20T20:26:15.709Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Fret not, for the solution is simpler than you might think, turning this dauntin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Get Set with Google Chrome
@@ -33,7 +33,7 @@ Fret not, for the solution is simpler than you might think, turning this dauntin
 First thing’s first: ensure you have [Google Chrome](https://www.google.com/chrome/) installed on your Windows or Mac computer. This is going to be your gateway to quickly downloading new tracks directly into your DEX 3 or LYRX library.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Nest and Set
@@ -41,7 +41,7 @@ First thing’s first: ensure you have [Google Chrome](https://www.google.com/ch
 Before we dive into Chrome, make sure you’ve got a specific folder [nested under favorites](https://www.youtube.com/watch?v=hRQVXTi64AM&ab%5Fchannel=PCDJHeadquarters) in your DEX 3 or LYRX. This little organizational trick is going to be a lifesaver, trust me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Chrome Configuration
@@ -52,6 +52,10 @@ Now, let’s tweak Chrome to make your life easier:
 * Hit “Settings” and scroll down to “Show advanced settings”.
 * Find the “Downloads” section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 4: Direct and Download
 
 Here’s where you make the choice:
@@ -60,7 +64,7 @@ Here’s where you make the choice:
 * Or, select “Ask where to save each file before downloading” for full control over each download. Remember, consistency is key to keeping things streamlined, so always save to the nested folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 5: Wrap It Up
@@ -70,10 +74,6 @@ Finish off by closing the “Settings” tab. You’re all set!
 That’s all there is to it. Now, whenever you find yourself needing to download a new track through Chrome, it will automatically save in your pre-selected, nested folder. Jump back into [DEX 3](https://tools.techidaily.com/pcdj/products/) or [LYRX](http://www.lyrxkaraoke.com/), click on your favorites, and voilà, your fresh track awaits, ready to be unleashed on your eager audience.
 
 Remember, keeping your library fresh and responsive to your audience can set you apart in the dynamic world of DJing and karaoke hosting. With this simple setup, you’re not just playing music; you’re curating an experience that feels personal and spontaneous. So go ahead, embrace those on-the-fly requests, and keep the party lively and engaging with your newfound, seamless track-adding skills.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -94,21 +94,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2024/03/automatically-importing-do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/orrect-yt-monetization-checklist-maximize-your-earnings-for-2024/"><u>[New] Correct YT Monetization Checklist – Maximize Your Earnings for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-top-entry-editor-for-seamless-edits-across-all-platforms-for-2024/"><u>[New] Top Entry Editor for Seamless Edits Across All Platforms for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-enhance-videos-with-easy-apple-music-integration/"><u>[Updated] 2024 Approved Enhance Videos with Easy Apple Music Integration</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-jumpstart-your-collaboration-zooms-screen-share-essentials-for-2024/"><u>[Updated] Jumpstart Your Collaboration Zoom's Screen-Share Essentials for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-pip-mode-with-youtube-on-your-iphone-device/"><u>2024 Approved Mastering PIP Mode with YouTube on Your iPhone Device</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-transforming-text-the-illustrator-3d-approach/"><u>2024 Approved Transforming Text The Illustrator 3D Approach</u></a></li>
-<li><a href="https://win-net.techidaily.com/assessing-your-pcs-hardware-performance-a-comprehensive-guide-yl-computing/"><u>Assessing Your PC's Hardware Performance: A Comprehensive Guide - YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/diagnosing-printer-device-disconnects-expert-tips-from-yl-softwares-technical-team/"><u>Diagnosing Printer-Device Disconnects: Expert Tips From YL Software's Technical Team</u></a></li>
-<li><a href="https://win-net.techidaily.com/do-loud-computer-fans-indicate-impending-cpu-issues-insights-from-yl-computing/"><u>Do Loud Computer Fans Indicate Impending CPU Issues? Insights From YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/experience-elevated-karaoke-with-the-latest-karaoke-cloud-pro-version-086368-featuring-new-sub-cases-functionality/"><u>Experience Elevated Karaoke with the Latest Karaoke Cloud Pro Version 0.8.6368: Featuring New 'Sub-Cases' Functionality</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-y36-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo Y36 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-enhancing-videos-with-camtasias-ken-burns-trick/"><u>In 2024, Enhancing Videos with Camtasia's Ken Burns Trick</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/live-streaming-pro-master-your-remote-broadcasts-with-manycam-the-ultimate-virtual-webcam-solution/"><u>Live Streaming Pro: Master Your Remote Broadcasts with ManyCam – The Ultimate Virtual Webcam Solution</u></a></li>
-<li><a href="https://win-net.techidaily.com/repeated-computer-freezing-understanding-the-causes-and-solutions-yl-computing-experts/"><u>Repeated Computer Freezing: Understanding the Causes and Solutions - YL Computing Experts</u></a></li>
-<li><a href="https://win-net.techidaily.com/unresponsive-scanner-issues-resolving-command-failures-between-scanners-and-computers-with-yl-software-insights/"><u>Unresponsive Scanner Issues: Resolving Command Failures Between Scanners & Computers with YL Software Insights</u></a></li>
-<li><a href="https://win-net.techidaily.com/video-guide-mastering-the-art-of-djing-perfect-your-memory-skills-with-our-expert-song-request-tricks/"><u>Video Guide: Mastering the Art of DJ'ing - Perfect Your Memory Skills with Our Expert Song Request Tricks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-pursuit-of-perfection-zooming-into-high-quality-video/"><u>[New] Pursuit of Perfection Zooming Into High-Quality Video</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-tiktok-demystified-a-complete-guide-for-computer-users/"><u>[Updated] In 2024, TikTok Demystified A Complete Guide for Computer Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-streamlit-splendor-hues-and-highlights-technique-for-2024/"><u>[Updated] Streamlit Splendor Hues and Highlights Technique for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-step-by-step-metaverse-marketing-plan-for-2024/"><u>A Step-by-Step Metaverse Marketing Plan for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/accelerate-system-responsiveness-masterclass-techniques-for-superior-computer-speed-and-functionality-by-yl-computing/"><u>Accelerate System Responsiveness: Masterclass Techniques for Superior Computer Speed and Functionality by YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/closure-notice-from-pulselocker-leadership-ceo-announces-end-of-operations-by-nov-10-2er/"><u>Closure Notice From Pulselocker Leadership - CEO Announces End of Operations by Nov 10, 2Er</u></a></li>
+<li><a href="https://win-net.techidaily.com/finding-your-way-a-step-by-step-guide-to-adjusting-regional-and-language-preferences-on-windows-tips-from-yl-computing/"><u>Finding Your Way: A Step-by-Step Guide to Adjusting Regional & Language Preferences on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/identifying-typical-physical-issues-in-your-pc-a-guide-insights-by-yl-tech-solutions/"><u>Identifying Typical Physical Issues in Your PC: A Guide - Insights by YL Tech Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-google-pixel-8-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Google Pixel 8 Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-3d-animation-software-is-not-easy-to-find-some-makers-are-even-free-and-simple-if-you-want-to-know-which-are-the-8-best-3d-animation-/"><u>New 2024 Approved Free 3D Animation Software Is Not Easy to Find. Some Makers Are Even Free and Simple. If You Want to Know Which Are the 8 Best 3D Animation Software, Check It Out</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-high-refresh-monitor-selection/"><u>Optimal High Refresh Monitor Selection</u></a></li>
+<li><a href="https://win-net.techidaily.com/premium-scotland-wallpaper-pack-for-laptops-and-desktops-4k-resolution-yl-software-creation/"><u>Premium Scotland Wallpaper Pack for Laptops & Desktops, 4K Resolution, YL Software Creation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/prolonged-gaming-mastery-with-the-mavix-m9-chair-an-insiders-review-on-comfort-and-support/"><u>Prolonged Gaming Mastery with the Mavix M9 Chair - An Insider's Review on Comfort and Support</u></a></li>
+<li><a href="https://win-net.techidaily.com/solving-your-pcs-display-problems-a-step-by-step-guide-by-yl-computing/"><u>Solving Your PC's Display Problems: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-instructions-to-activate-file-scanning-feature-on-windows-tips-from-yl-software/"><u>Step-by-Step Instructions to Activate File Scanning Feature on Windows - Tips From YL Software</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-tutorial-recovering-your-computers-file-list-on-onedrive-easily/"><u>Step-by-Step Tutorial: Recovering Your Computer's File List on OneDrive Easily</u></a></li>
+<li><a href="https://win-net.techidaily.com/yls-ultimate-tips-for-blocking-websites-via-windows-settings-enhanced-security-and-parental-control-solutions/"><u>YL's Ultimate Tips for Blocking Websites via Windows Settings – Enhanced Security and Parental Control Solutions</u></a></li>
 </ul></div>
 

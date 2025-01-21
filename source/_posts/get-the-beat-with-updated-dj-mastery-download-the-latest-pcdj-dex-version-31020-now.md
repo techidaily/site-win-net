@@ -1,7 +1,7 @@
 ---
 title: "Get the Beat with Updated DJ Mastery: Download the Latest PCDJ DEX Version 3.10.2.0 Now!"
-date: 2025-01-11T19:40:37.866Z
-updated: 2025-01-15T00:32:36.407Z
+date: 2025-01-14T05:27:34.786Z
+updated: 2025-01-20T17:28:11.254Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ To update to DEX 3 version 3.10.2.0 simply click the correct button for your ope
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -47,7 +47,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 [DOWNLOAD DEX 3.10.2.0 (MAC)](https://pcdj.com/downloads/dex3/setup%5Fdex31020%5Fmac.pkg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New Features Added to DEX 3.10.1.0 (Prior Update)
@@ -55,7 +55,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about our **best DJ and Karaoke software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,20 +77,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image-new.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-accelerate-your-youtube-channels-growth-to-1kplus/"><u>[Updated] 2024 Approved Accelerate Your YouTube Channel's Growth to 1K+</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-vid-lifting-made-simple-top-5-free-downloaders-for-pinterest-users-for-2024/"><u>[Updated] Vid Lifting Made Simple Top 5 Free Downloaders for Pinterest Users for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/6lw35yuv44gx44gq44ge44op44o844oj44oh44kj44k544kv44gr5qc857sn44gv44km44gf44oh44o844k44ks5yplusw44kk5oi744gz56m25qw144gu5pa55rov4ocv6kmz44gx44gp6kej5pio77yb.m43/"><u>起動しないハードディスクに格納されたデータを取り戻す究極の方法―詳しく解明！</u></a></li>
-<li><a href="https://win-net.techidaily.com/alternatives-sans-frais-a-la-restauration-lenovo-ideapad-top-solutions-gratuites/"><u>Alternatives Sans Frais À La Restauration Lenovo Ideapad : Top Solutions Gratuites!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-legal-hurdles-explored-in-revised-google-headlines-unlock-the-secret-to-prime-mobile-internet-on-vacation/"><u>ChatGPT Legal Hurdles Explored in Revised Google Headlines; Unlock the Secret to Prime Mobile Internet on Vacation!</u></a></li>
-<li><a href="https://win-net.techidaily.com/easy-tutorial-on-shifting-video-files-from-a-memory-card-to-an-ios-tablet-or-smartphone/"><u>Easy Tutorial on Shifting Video Files From a Memory Card to an iOS Tablet or Smartphone</u></a></li>
-<li><a href="https://win-net.techidaily.com/free-techniques-for-retrieving-accidentally-erased-data-from-your-flash-drive/"><u>Free Techniques for Retrieving Accidentally Erased Data From Your Flash Drive</u></a></li>
-<li><a href="https://win-net.techidaily.com/guia-paso-a-paso-transferir-archivos-de-programas-entre-unidades-de-almacenamiento-en-windows-11/"><u>Guía Paso a Paso: Transferir Archivos De Programas Entre Unidades De Almacenamiento en Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y27-4g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y27 4G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-access-government-recorded-content-for-free-online/"><u>In 2024, How to Access Government-Recorded Content for Free Online</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revive-accidentally-erased-items-on-your-iphone-with-this-superior-mac-data-recovery-application/"><u>Revive Accidentally Erased Items on Your iPhone with This Superior Mac Data Recovery Application</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ri-conversione-mpeg-a-wma-online-gratuita-con-movavi-come-fare/"><u>Ri-Conversione MPEG a WMA Online Gratuita Con Movavi - Come Fare</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/should-i-seize-upon-macos-sonomas-new-features/"><u>Should I Seize Upon macOS Sonoma’s New Features?</u></a></li>
-<li><a href="https://win-net.techidaily.com/troubleshooting-dells-backup-and-restore-issues-on-windows-10-8-and-7/"><u>Troubleshooting Dell's Backup & Restore Issues on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://win-net.techidaily.com/windows-11-and-windows/"><u>Windows 11 & Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bitlock-cracked-staying-secure-yet-unmoved/"><u>BitLock Cracked: Staying Secure Yet Unmoved</u></a></li>
+<li><a href="https://win-net.techidaily.com/complete-guide-retrieve-files-from-your-sandisk-passport-external-hdd/"><u>Complete Guide: Retrieve Files From Your SanDisk Passport External HDD</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/crafting-perfect-urban-landscapes-in-city-skylines-a-gamers-perspective/"><u>Crafting Perfect Urban Landscapes in 'City Skylines': A Gamer's Perspective</u></a></li>
+<li><a href="https://win-net.techidaily.com/day-to-day-data-protection-the-benefits-of-incremental-vs-differential-backups-explained/"><u>Day-to-Day Data Protection: The Benefits of Incremental Vs. Differential Backups Explained</u></a></li>
+<li><a href="https://win-net.techidaily.com/error-webpage-missing-unavailable-content/"><u>Error: Webpage Missing – Unavailable Content</u></a></li>
+<li><a href="https://win-net.techidaily.com/exploring-varchar-and-char-in-sql-what-sets-them-apart/"><u>Exploring VARCHAR and CHAR in SQL - What Sets Them Apart?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y100a-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-strategies-for-effective-360-video-broadcasts-on-fb/"><u>In 2024, Strategies for Effective 360 Video Broadcasts on FB</u></a></li>
+<li><a href="https://win-net.techidaily.com/la-reinstallation-de-windows-et-la-surete-des-fichiers-sauvegardes-quen-pensez-vous/"><u>La Reinstallation De Windows Et La Sûreté Des Fichiers Sauvegardés : Qu'en Pensez-Vous?</u></a></li>
+<li><a href="https://win-net.techidaily.com/les-meilleurs-outils-dusmt-pour-transferer-facilement-vos-preferences-dutilisateur-et-fichiers-de-profil/"><u>Les Meilleurs Outils D'USMT Pour Transférer Facilement Vos Préférences D'Utilisateur Et Fichiers De Profil</u></a></li>
+<li><a href="https://win-net.techidaily.com/les-top-5-gestionnaires-de-sauvegarde-dimage-libres-et-gratuits-pour-ordinateurs-portables/"><u>Les Top 5 Gestionnaires De Sauvegarde D'Image Libres Et Gratuits Pour Ordinateurs Portables</u></a></li>
+<li><a href="https://win-net.techidaily.com/locate-all-photos-on-your-pc-with-windows-11-a-step-by-step-guide/"><u>Locate All Photos on Your PC with Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-mobile-gaming-performance-on-iphones-which-model-takes-the-crown/"><u>Maximizing Mobile Gaming Performance on iPhones – Which Model Takes the Crown?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-internet-unseen-a-users-guide-to-private-browsing-on-chrome-firefox-edge-safari-and-opera/"><u>Navigating the Internet Unseen: A User's Guide to Private Browsing on Chrome, Firefox, Edge, Safari and Opera</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-when-your-overwatch-voice-chat-isnt-functioning/"><u>Quick Fixes for When Your Overwatch Voice Chat Isn't Functioning</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/recuperez-sans-probleme-vos-cles-perdues-sur-windows-11-en-suivant-ces-6-astuces-faciles/"><u>Récupérez Sans Problème Vos Clés Perdues Sur Windows 11 en Suivant Ces 6 Astuces Faciles</u></a></li>
+<li><a href="https://win-net.techidaily.com/simple-steps-for-securely-formatting-your-external-hard-disk/"><u>Simple Steps for Securely Formatting Your External Hard Disk</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-skype-microphone-malfunction-on-pcs-with-windows-10/"><u>Troubleshooting Guide: Skype Microphone Malfunction on PCs with Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/visual-vibrancy-theory-turned-practice-for-2024/"><u>Visual Vibrancy Theory-Turned-Practice for 2024</u></a></li>
 </ul></div>
 
