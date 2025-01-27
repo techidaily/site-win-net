@@ -1,7 +1,7 @@
 ---
 title: NYC DJ Transforms Subway Into Electrifying On-the-Go Dance Fest
-date: 2025-01-15T19:45:19.456Z
-updated: 2025-01-20T18:27:29.389Z
+date: 2025-01-25T20:35:29.653Z
+updated: 2025-01-26T17:12:05.851Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ As you watch the video of the event below try to keep in perspective why you bec
 #### AMK Productions Turns NYC Subway Car Into A Mobile Dance Party
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,24 +46,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/mobiledanceparty-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-xsplit-index-download-and-evaluation-guide/"><u>[New] 2024 Approved XSplit Index Download & Evaluation Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-best-practices-for-creating-compelling-hash-tags-on-facebook-for-2024/"><u>[Updated] Best Practices for Creating Compelling Hash Tags on Facebook for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ingenious-strategies-for-selecting-trailer-soundtracks/"><u>2024 Approved Ingenious Strategies for Selecting Trailer Soundtracks</u></a></li>
-<li><a href="https://win-net.techidaily.com/6-proven-solutions-to-resolve-issues-with-windows-7-offline-files/"><u>6 Proven Solutions to Resolve Issues with Windows 7 Offline Files</u></a></li>
-<li><a href="https://win-net.techidaily.com/onedriveandhddwindows-111087/"><u>簡単OneDrive&HDDの並行同期：Windows 11/10/8/7利用者向けガイド</u></a></li>
-<li><a href="https://win-net.techidaily.com/ace-your-data-rescue-three-simple-steps-for-successful-acer-disk-to-disk-restoration/"><u>Ace Your Data Rescue: Three Simple Steps for Successful Acer Disk-to-Disk Restoration</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/capture-and-save-your-desktop-free-ways-on-windows/"><u>Capture & Save Your Desktop - Free Ways on Windows</u></a></li>
-<li><a href="https://win-net.techidaily.com/comprehensive-guide-understanding-windows-11-installation-duration-and-tips/"><u>Comprehensive Guide: Understanding Windows 11 Installation Duration & Tips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/head-to-head-comparison-the-difference-between-nintendo-switch-lite-and-switch-oled/"><u>Head-to-Head Comparison: The Difference Between Nintendo Switch Lite and Switch OLED</u></a></li>
-<li><a href="https://win-net.techidaily.com/revitalize-your-pc-two-methods-for-restoring-windows-10-via-command-line/"><u>Revitalize Your PC: Two Methods for Restoring Windows 10 via Command Line</u></a></li>
-<li><a href="https://win-net.techidaily.com/ricostruire-il-tuo-profilo-wechat-su-iphone-dopo-leliminazione-della-cronologia-dei-messaggi/"><u>Ricostruire Il Tuo Profilo WeChat Su iPhone Dopo L'eliminazione Della Cronologia Dei Messaggi</u></a></li>
-<li><a href="https://win-net.techidaily.com/schritt-fur-schritt-anleitung-zur-nutzung-von-dell-os-wiederherstellungstools-unter-windows-11/"><u>Schritt-Für-Schritt-Anleitung Zur Nutzung Von Dell OS-Wiederherstellungstools Unter Windows 11</u></a></li>
-<li><a href="https://win-net.techidaily.com/speicherbedarf-fur-gelandespiel-genshin-impact-uberschritten-losungen-finden/"><u>Speicherbedarf Für Geländespiel 'Genshin Impact' Überschritten – Lösungen Finden!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-troubleshooting-overcoming-common-issues-in-moving-from-android-to-ios/"><u>Step-by-Step Troubleshooting: Overcoming Common Issues in Moving From Android to iOS</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ew-face-of-collaboration-video-events-post-vidcon-for-2024/"><u>The New Face of Collaboration Video Events Post-VidCon for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-windows-8-guide-to-powerful-movie-maker-editing-techniques/"><u>The Windows 8 Guide to Powerful Movie Maker Editing Techniques</u></a></li>
-<li><a href="https://win-net.techidaily.com/troubleshoot-windows-to-go-drive-issues-with-these-5-steps/"><u>Troubleshoot Windows To Go Drive Issues with These 5 Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/trust-in-precision-tech-reviews-and-advice-from-toms-hardware-team/"><u>Trust in Precision Tech Reviews and Advice From Tom's Hardware Team</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-elevate-your-videos-mastering-lower-thirds-in-fcpx/"><u>Updated 2024 Approved Elevate Your Videos Mastering Lower Thirds in FCPX</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-future-is-here-free-innovative-fb-story-enhancers/"><u>[New] 2024 Approved The Future Is Here Free, Innovative FB Story Enhancers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-beauty-channels-your-step-by-step-blueprint/"><u>[New] The Ultimate Guide to Beauty Channels Your Step-By-Step Blueprint</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-5-screen-recorder-for-chromebook-free-extensions/"><u>[Updated] In 2024, Top 5 Screen Recorder for Chromebook Free Extensions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-incredible-virtual-room-encounters/"><u>[Updated] Incredible Virtual Room Encounters</u></a></li>
+<li><a href="https://win-net.techidaily.com/1728500479028-windows-server-202/"><u>「Windows Server 202#で、タスクスケジューラーを使って再起動スケジュール設定ガイド」</u></a></li>
+<li><a href="https://win-net.techidaily.com/hddssdwindows-1111pc/"><u>安全にHDDをSSDに交換:Windows 11／11ノートPC用最適化方法【専門家入門】</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-redmi-12-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Redmi 12 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-call-of-duty-modern-warfares-error-6034-strategies-for-successful-gameplay-across-all-platforms/"><u>Conquering Call of Duty Modern Warfare's Error 6034 - Strategies for Successful Gameplay Across All Platforms</u></a></li>
+<li><a href="https://win-net.techidaily.com/de-beste-methodes-om-geheugenbestand-fragmenten-te-herstellen-in-windows-7/"><u>De Beste Methodes Om Geheugenbestand Fragmenten Te Herstellen in Windows 7</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/easy-way-change-clownfish-tone-in-windows-for-2024/"><u>Easy Way Change Clownfish Tone in Windows for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/les-meilleurs-correctifs-pour-un-demarrage-securise-non-actif-sur-votre-ordinateur/"><u>Les Meilleurs Correctifs Pour Un Démarrage Sécurisé Non Actif Sur Votre Ordinateur</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/lost-old-yahoo-emails-discover-how-to-retrieve-them-now/"><u>Lost Old Yahoo Emails - Discover How to Retrieve Them Now!</u></a></li>
+<li><a href="https://win-net.techidaily.com/migrations-logicielles-en-transition-utiliser-aomei-backupper-pour-sauvegarde-et-restauration-dun-nouvel-appareil-materiel/"><u>Migrations Logicielles en Transition: Utiliser AOMEI Backupper Pour Sauvegarde Et Restauration D'un Nouvel Appareil Matériel</u></a></li>
+<li><a href="https://win-net.techidaily.com/perfektes-airdrop-mit-windows-11-zu-iphoneipad-professionelle-losungen-fur-ein-reibungsloses-dateitransfer/"><u>Perfektes AirDrop Mit Windows 11 Zu iPhone/iPad - Professionelle Lösungen Für Ein Reibungsloses Dateitransfer</u></a></li>
+<li><a href="https://win-net.techidaily.com/top-solutions-for-successfully-completing-an-ipad-transfer-when-upgrading-to-a-new-model/"><u>Top Solutions For Successfully Completing An iPad Transfer When Upgrading to a New Model</u></a></li>
+<li><a href="https://win-net.techidaily.com/1728488449813-windows-pc/"><u>Windows PC上的最佳免费文件恢复工具 - 立即下载</u></a></li>
 </ul></div>
 
