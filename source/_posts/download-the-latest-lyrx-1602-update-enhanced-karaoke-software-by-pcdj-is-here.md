@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest LYRX 1.6.0.2 Update: Enhanced Karaoke Software by PCDJ Is Here!"
-date: 2025-01-22T17:09:26.809Z
-updated: 2025-01-26T20:36:29.588Z
+date: 2025-02-08T01:27:52.185Z
+updated: 2025-02-09T00:12:40.247Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Release 2 of LYRX version 1.6.0.2 is available for download.
@@ -33,7 +33,7 @@ The new release 2 of version 1.6.0.2 addresses some issues, mainly on the window
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrx.png?fit=300%2C210&ssl=1 "LYRX 1.6.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usual, click the button below to download and install. Just be sure your existing version of LYRX is closed and the update will patch directly over-top, leaving all your lists, data, and settings intact.
@@ -41,7 +41,7 @@ We suggest updating to release 2 of LYRX version 1.6.0.2 immediately. As is usua
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in Release 2 of LYRX v1.6.0.2
@@ -56,7 +56,7 @@ If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download fro
 _Have questions about the latest release 2 of 1.6.0.2 of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,24 +78,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/lyrx-r2-1602.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-key-strategies-for-adding-timestamps-in-youtube-content/"><u>[New] 2024 Approved Key Strategies for Adding Timestamps in YouTube Content</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-top-10plus-creative-youtubes-channel-names-for-aspiring-vloggers-no-more-than-156-characters/"><u>[New] 2024 Approved Top 10+ Creative YouTubes Channel Names for Aspiring Vloggers (No More than 156 Characters)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-power-of-persuasion-how-to-boost-instagram-post-reach/"><u>[New] In 2024, The Power of Persuasion How to Boost Instagram Post Reach</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-strategic-dominance-unleashed-the-foremost-7-war-games/"><u>[Updated] Strategic Dominance Unleashed The Foremost 7 War Games</u></a></li>
-<li><a href="https://win-net.techidaily.com/2-facilmente-como-transferir-imagen-de-windows-11-al-ssd-sin-reinstalacion/"><u>2 Fácilmente Cómo Transferir Imagen De Windows 11 Al SSD Sin Reinstalación</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/synology-nas-windows-10/"><u>如何使用 Synology NAS 進行 Windows 10 全面備份 - 最有效方法介紹</u></a></li>
-<li><a href="https://win-net.techidaily.com/6kit572u6ieq5yuv5ykz5lu95lu75yuz5lul56e75yuv5pah5lu25yiw5paw55qe6zuy56uv5a2y5ysy56m66zat/"><u>設置自動備份任務以移動文件到新的雲端存儲空間</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/effortless-video-format-change-convert-mp4-videos-to-wma-streaming-and-download-by-movavi-free-of-charge/"><u>Effortless Video Format Change - Convert MP4 Videos to WMA Streaming & Download by Movavi, Free of Charge</u></a></li>
-<li><a href="https://win-net.techidaily.com/fehlerbehebung-fur-dokument-wird-verwendet-warnungen-unter-windows-10-grunde-und-losungen/"><u>Fehlerbehebung Für 'Dokument Wird Verwendet' Warnungen Unter Windows 10 - Gründe Und Lösungen</u></a></li>
-<li><a href="https://win-net.techidaily.com/guia-completa-para-recuperar-informacion-perdida-en-tu-iphone-metodos-y-soluciones-de-2023/"><u>Guía Completa Para Recuperar Información Perdida en Tu iPhone: Métodos Y Soluciones De 2023</u></a></li>
-<li><a href="https://driver-download.techidaily.com/immediate-access-streamlined-downloading-of-ft232r-usb-serial-converter-driver/"><u>Immediate Access: Streamlined Downloading of FT232R USB Serial Converter Driver</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-xiaomi-civi-3-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Xiaomi Civi 3 FRP</u></a></li>
-<li><a href="https://win-net.techidaily.com/mastering-bootable-rescues-on-windows-10-with-these-3-techniques/"><u>Mastering Bootable Rescues on Windows 10 with These 3 Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prime-tools-and-techniques-image-to-video-conversion-for-2024/"><u>Prime Tools and Techniques Image-to-Video Conversion for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/professionelle-tipps-zur-verwendung-der-quick-access-security-funktionen-in-windows-11-eine-anleitung-fur-anfanger/"><u>Professionelle Tipps Zur Verwendung Der Quick Access Security Funktionen in Windows 11: Eine Anleitung Für Anfänger</u></a></li>
-<li><a href="https://win-net.techidaily.com/transfer-app-backup-e-ripristino-gratuito-da-hard-drive-a-chiave-usb-esterna-ottimizzato-per-windows-11/"><u>Transfer App: Backup E Ripristino Gratuito Da Hard Drive a Chiave USB Esterna, Ottimizzato per Windows 11</u></a></li>
-<li><a href="https://win-net.techidaily.com/unbezahlte-hochwertige-backupsoftwares-die-sie-benotigen-sichern-von-pcs-and-daten-mit-windows-11-kompatibilitat/"><u>Unbezahlte Hochwertige Backupsoftwares, Die Sie Benötigen: Sichern Von PCs & Daten Mit Windows 11 Kompatibilität</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-the-most-exceptional-podcast-microphones/"><u>Unveiling the Most Exceptional Podcast Microphones</u></a></li>
-<li><a href="https://win-net.techidaily.com/1728510029845-windows-1011/"><u>Windows 10/11 恢復已經删除的磁碟檔案：一步一步操作指南</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-innovative-imaging-identifying-the-top-10-smartphone-cameras-in-4k/"><u>[New] In 2024, Innovative Imaging Identifying the Top 10 Smartphone Cameras in 4K</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-recording-review-and-examination-for-2024/"><u>[Updated] Recording Review and Examination for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/1-managing-user-profiles-adding-and-removing-accounts-via-windows-control-panel-a-guide-by-yl-computing/"><u>1. Managing User Profiles: Adding & Removing Accounts via Windows Control Panel - A Guide by YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-motorola-g24-power-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Motorola G24 Power Phone</u></a></li>
+<li><a href="https://win-net.techidaily.com/complete-guide-to-saving-your-data-using-the-windows-control-panel/"><u>Complete Guide to Saving Your Data: Using the Windows Control Panel</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-share-your-life-on-leading-media-sites-facebook-twitter-instagram-and-youtube-unleashed/"><u>Connect and Share Your Life on Leading Media Sites - Facebook, Twitter, Instagram and Youtube Unleashed</u></a></li>
+<li><a href="https://win-net.techidaily.com/customize-monitor-dimensions-with-yl-softwares-simple-guidelines-for-optimal-viewing-experience/"><u>Customize Monitor Dimensions with YL Software's Simple Guidelines for Optimal Viewing Experience</u></a></li>
+<li><a href="https://win-net.techidaily.com/ensuring-safety-comprehensive-measures-for-secure-crypto-transactions-with-yl-computing/"><u>Ensuring Safety: Comprehensive Measures for Secure Crypto Transactions with YL Computing</u></a></li>
+<li><a href="https://facebook.techidaily.com/finding-lost-social-media-conversations-on-fb/"><u>Finding Lost Social Media Conversations on FB</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-motorola-moto-g14-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Motorola Moto G14 Phone</u></a></li>
+<li><a href="https://win-net.techidaily.com/identifying-and-diagnosing-ram-issues-in-windows-a-step-by-step-guide-by-yl-computing/"><u>Identifying and Diagnosing RAM Issues in Windows: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/los-mejores-10-potenciadores-ai-gratis-para-optimizar-videos-en-windows-y-mac-tu-guia-definitiva-online/"><u>Los Mejores 10 Potenciadores AI Gratis Para Optimizar Videos en Windows Y Mac: Tu Guía Definitiva Online</u></a></li>
+<li><a href="https://win-net.techidaily.com/major-news-release-by-karaokenet-regarding-enhancements-to-pcdj-technology/"><u>Major News Release by Karaoke.net Regarding Enhancements to PCDJ Technology</u></a></li>
+<li><a href="https://win-net.techidaily.com/navigating-preferred-operating-systems-expert-analysis-by-yl-software/"><u>Navigating Preferred Operating Systems - Expert Analysis by YL Software</u></a></li>
+<li><a href="https://win-net.techidaily.com/sharing-files-on-windows-a-comprehensive-guide-by-yl-computing/"><u>Sharing Files on Windows: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-switching-your-windows-11-operating-systems-language-settings-with-yl-computing/"><u>Step-by-Step Guide: Switching Your Windows 11 Operating System's Language Settings with YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-connection-issues-with-your-xbox-one-controller/"><u>Troubleshooting Guide: Fixing Connection Issues with Your Xbox One Controller</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/your-essential-guide-to-purchasing-a-basic-but-quality-kindle-reviews-for-the-amazon-kindle-2/"><u>Your Essential Guide to Purchasing a Basic but Quality Kindle - Reviews for the Amazon Kindle (2</u></a></li>
 </ul></div>
 

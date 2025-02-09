@@ -1,7 +1,7 @@
 ---
 title: 简单而深邃：从雪球到亿万，YL Software分享的投资思想与u计划
-date: 2025-01-21T07:25:14.954Z
-updated: 2025-01-26T18:44:57.219Z
+date: 2025-02-02T04:22:41.316Z
+updated: 2025-02-09T01:54:10.961Z
 tags:
   - product
 categories:
@@ -56,20 +56,22 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-launchpad-for-novice-gopro-owners-must-have-gear-guide/"><u>[New] Launchpad for Novice GoPro Owners - Must-Have Gear Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-spotlight-on-10-rapidly-expanding-youtube-talks-of-inspiration/"><u>[Updated] 2024 Approved Spotlight on 10 Rapidly Expanding YouTube Talks of Inspiration</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-nokia-130-music-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Nokia 130 Music? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/1728497181555-raid/"><u>最高效能的无偿RAID集群数据备份解决方案</u></a></li>
-<li><a href="https://win-net.techidaily.com/complete-guide-on-retrieving-lost-voice-memos-from-iphone-13-and-14/"><u>Complete Guide on Retrieving Lost Voice Memos From iPhone 13 & 14</u></a></li>
-<li><a href="https://win-net.techidaily.com/comprehensive-guide-to-understanding-and-controlling-the-size-of-vmware-backups/"><u>Comprehensive Guide to Understanding and Controlling the Size of VMware Backups</u></a></li>
-<li><a href="https://win-net.techidaily.com/fertigstellung-der-problemlosung-verstehen-sie-warum-duplikate-in-ihren-mac-fotos-fehlen-losungen-auf-vier-arten/"><u>Fertigstellung Der Problemlösung: Verstehen Sie, Warum Duplikate in Ihren Mac Fotos Fehlen (Lösungen Auf Vier Arten)</u></a></li>
-<li><a href="https://win-net.techidaily.com/guia-de-recuperacion-para-marcadores-perdidos-o-eliminados-en-microsoft-edge/"><u>Guía De Recuperación Para Marcadores Perdidos O Eliminados en Microsoft Edge</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-12-pro-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 12 Pro Lock Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-zte-nubia-z60-ultra-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change ZTE Nubia Z60 Ultra Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oppo-a2-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Oppo A2 Without PUK Codes</u></a></li>
-<li><a href="https://win-net.techidaily.com/losung-fur-den-nicht-aufklappbaren-windows-11-defender-startet-sofort/"><u>Lösung Für Den Nicht Aufklappbaren Windows 11 Defender - Startet Sofort!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pushing-limits-with-4k-vision-lgs-monitor-the-31mu97-b/"><u>Pushing Limits with 4K Vision – LG's Monitor, the 31MU97-B</u></a></li>
-<li><a href="https://win-net.techidaily.com/resolving-the-issue-of-a-non-existent-pst-file-in-windows-10-two-effective-approaches/"><u>Resolving the Issue of a Non-Existent PST File in Windows 10: Two Effective Approaches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vrije-online-3gp-en-m4a-formaten-veranderen-met-movavi/"><u>Vrije Online 3GP en M4A Formaten Veranderen Met Movavi</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-what-you-need-to-know-about-tiktoks-latest-trends/"><u>[New] In 2024, What You Need to Know About TikTok’s Latest Trends</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-nubia-z50s-pro-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Nubia Z50S Pro PC | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/affordable-microsoft-office-2019-bundle-at-25-installation-steps-for-windows-and-mac-users-expert-insights-from-zdnet/"><u>Affordable Microsoft Office 2019 Bundle at $25 - Installation Steps for Windows and Mac Users | Expert Insights From ZDNET</u></a></li>
+<li><a href="https://win-net.techidaily.com/affordable-microsoft-software-upgrade-save-with-20-off-on-project-and-visio-pros-offered-by-zdnet-exclusive/"><u>Affordable Microsoft Software Upgrade: Save with $20 Off on Project and Visio Pros, Offered by ZDNET Exclusive!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-hr-efficiency-top-5-conversational-ai-prompts-for-routine-task-automation/"><u>Boost HR Efficiency: Top 5 Conversational AI Prompts for Routine Task Automation</u></a></li>
+<li><a href="https://win-net.techidaily.com/boosting-developer-efficiency-how-generation-as-artificial-intelligence-enhances-software-production/"><u>Boosting Developer Efficiency: How Generation-A's Artificial Intelligence Enhances Software Production</u></a></li>
+<li><a href="https://win-net.techidaily.com/former-microsoft-leader-steve-ballmer-concedes-lack-of-bravery-in-bold-revelation-tech-news-by-zdnet/"><u>Former Microsoft Leader Steve Ballmer Concedes Lack of Bravery in Bold Revelation | Tech News by ZDNet</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/guida-rapida-per-il-ripristino-dei-file-excel-perduti-in-windows-11-tutti-i-consigli-che-ti-serviranno/"><u>Guida Rapida per Il Ripristino Dei File Excel Perduti in Windows 11: Tutti I Consigli Che Ti Serviranno</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-microsoft-is-betting-big-with-50-million-on-lanzajet-to-power-eco-friendly-fuel-for-data-centers-zdnet-insights/"><u>How Microsoft Is Betting Big with $50 Million on LanzaJet to Power Eco-Friendly Fuel for Data Centers | ZDNet Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-nokia-c02-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Nokia C02 Lock Screen Password</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-vr-on-the-go-smartphones-top-10-choices/"><u>In 2024, VR on the Go Smartphones' Top 10 Choices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-your-creativity-expert-tips-for-using-anthropics-claude-3-ai/"><u>Maximize Your Creativity: Expert Tips for Using Anthropics' Claude 3 AI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-future-of-the-metaverse-next-steps-explored-by-zdnet/"><u>Navigating the Future of the Metaverse: Next Steps Explored by ZDNet</u></a></li>
+<li><a href="https://win-net.techidaily.com/top-ranking-surface-computers-thorough-comparisons-by-tech-experts-zdnet-insights/"><u>Top-Ranking Surface Computers : Thorough Comparisons by Tech Experts - ZDNet Insights</u></a></li>
+<li><a href="https://win-net.techidaily.com/unlock-the-potential-of-windows-11-by-integrating-your-microsoft-365-business-profile-a-step-by-step-guide-and-reasons-to-do-so/"><u>Unlock the Potential of Windows 11 by Integrating Your Microsoft 365 Business Profile – A Step-by-Step Guide and Reasons to Do So!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-chatgpt-4s-sluggishness-in-contrast-with-35/"><u>Unraveling ChatGPT-4's Sluggishness in Contrast with 3.5</u></a></li>
+<li><a href="https://win-net.techidaily.com/zdnet-exclusive-how-microsoft-copilot-is-revolutionizing-singapores-legal-tech-platform/"><u>ZDNet Exclusive: How Microsoft Copilot Is Revolutionizing Singapore's Legal Tech Platform</u></a></li>
 </ul></div>
 
