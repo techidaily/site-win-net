@@ -1,7 +1,7 @@
 ---
 title: "Get the Beat with Updated DJ Mastery: Download the Latest PCDJ DEX Version 3.10.2.0 Now!"
-date: 2025-02-01T16:20:09.557Z
-updated: 2025-02-08T22:16:40.871Z
+date: 2025-02-14T18:11:19.801Z
+updated: 2025-02-18T19:11:41.336Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ To update to DEX 3 version 3.10.2.0 simply click the correct button for your ope
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -47,7 +47,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 [DOWNLOAD DEX 3.10.2.0 (MAC)](https://pcdj.com/downloads/dex3/setup%5Fdex31020%5Fmac.pkg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New Features Added to DEX 3.10.1.0 (Prior Update)
@@ -55,7 +55,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about our **best DJ and Karaoke software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,19 +77,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image-new.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-capturing-joy-in-switchs-best-card-choices/"><u>[New] 2024 Approved Capturing Joy in Switch's Best Card Choices</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-engaging-scriptwriting-techniques-for-higher-video-rankings-for-2024/"><u>[New] Engaging Scriptwriting Techniques for Higher Video Rankings for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-the-goofy-way-a-look-back-at-the-90s-comedy-vhs/"><u>[New] In 2024, 'The Goofy Way' A Look Back at the 90S Comedy VHS</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-non-playing-youtube-content-fixed-for-phonestablets/"><u>[Updated] Non-Playing YouTube Content Fixed for Phones/Tablets</u></a></li>
-<li><a href="https://win-net.techidaily.com/angela-intro-by-author-comprehensive-guide-with-aomei-backupper-features/"><u>Angela Intro by Author - Comprehensive Guide with AOMEI Backupper Features</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/clearing-out-your-clutter-the-ultimate-solution-for-deleting-temp-data-on-win-10-systems/"><u>Clearing Out Your Clutter: The Ultimate Solution for Deleting Temp Data on Win 10 Systems</u></a></li>
-<li><a href="https://win-net.techidaily.com/easy-file-migration-from-external-hdd-to-internal-disk-for-windows-xp-vista/"><u>Easy File Migration From External HDD to Internal Disk for Windows (XP, Vista)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-c67-4g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme C67 4G Phones with/without a PC</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/how-to-restore-lost-videos-on-your-ipad/"><u>How To Restore Lost Videos On Your iPad</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/resolving-the-dilemma-steps-to-solve-airdrop-hanging-in-limbo-on-your-apple-devices/"><u>Resolving the Dilemma: Steps to Solve Airdrop Hanging in Limbo on Your Apple Devices</u></a></li>
-<li><a href="https://win-net.techidaily.com/scopri-come-accedere-e-visualizzare-i-file-nascosti-in-windows-11-tutorial-dettagliato/"><u>Scopri Come Accedere E Visualizzare I File Nascosti in Windows 11 - Tutorial Dettagliato</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-tecnicas-para-optimizar-la-instalacion-de-windows-11-en-un-disco-solid-state/"><u>Top Técnicas Para Optimizar La Instalación De Windows 11 en Un Disco Solid State</u></a></li>
-<li><a href="https://win-net.techidaily.com/1728481249043-word/"><u>Word 檔案修補技巧：如何完美恢復有效性</u></a></li>
+<li><a href="https://win-net.techidaily.com/y-x2-6x-plus-9-5/"><u> [Y = -(X^2 - 6X + 9) - 5 </u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-asus-proart-hdr-master-the-4k-quest-continues-for-2024/"><u>[New] ASUS ProArt HDR Master The 4K Quest Continues for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-flawless-screen-capture-s-assassins-creed-odyssey-for-2024/"><u>[New] Flawless Screen Capture 'S Assassin's Creed Odyssey for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-automate-calendar-events-to-zoom-on-mobile-devices/"><u>[New] In 2024, Automate Calendar Events to Zoom on Mobile Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-infinite-playground-top-10-affordable-online-adventures-for-2024/"><u>[New] Infinite Playground Top 10 Affordable Online Adventures for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-12-facebook-marketing-tips-for-business-beginners-and-pros/"><u>[Updated] 12 Facebook Marketing Tips for Business (Beginners and Pros)</u></a></li>
+<li><a href="https://win-net.techidaily.com/1728463252531-windows-117/"><u>探している!Windows 11で紛失したデスクトップファイルを見つけ直せる7コツ</u></a></li>
+<li><a href="https://win-net.techidaily.com/automatische-datendestruktion-in-sharepoint-und-strategien-zur-wiederherstellung-von-dokumenten/"><u>Automatische Datendestruktion in SharePoint Und Strategien Zur Wiederherstellung Von Dokumenten</u></a></li>
+<li><a href="https://win-net.techidaily.com/guide-complet-la-nouvelle-methode-pour-creer-des-partitions-de-sauvegarde-sur-windows/"><u>Guide Complet : La Nouvelle Méthode Pour Créer Des Partitions De Sauvegarde Sur Windows</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-130-music-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-infinix-note-30-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Infinix Note 30 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpts-multilingual-advantage-strategies/"><u>Leveraging ChatGPT's Multilingual Advantage Strategies</u></a></li>
+<li><a href="https://win-net.techidaily.com/quick-and-easy-methods-how-to-copy-songs-onto-your-usb-memory-stick-using-your-laptop/"><u>Quick and Easy Methods: How to Copy Songs Onto Your USB Memory Stick Using Your Laptop</u></a></li>
+<li><a href="https://win-net.techidaily.com/resolucion-de-errores-inicio-desde-disco-oleodinamico-metodos-cuatro-para-windows-10/"><u>Resolución De Errores: Inicio Desde Disco Óleodinámico - Métodos Cuatro Para Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-ai-powered-apps-revolutionizing-presentation-creation/"><u>Top 7 AI-Powered Apps Revolutionizing Presentation Creation</u></a></li>
+<li><a href="https://win-net.techidaily.com/top-server-sicherungsstrategien-fur-it-dienstleister-pc-und-cloud-basierte-backups/"><u>Top-Server-Sicherungsstrategien Für IT-Dienstleister: PC Und Cloud-Basierte Backups</u></a></li>
+<li><a href="https://win-net.techidaily.com/troubleshooting-slow-loading-time-on-your-external-hard-drive-a-comprehensive-guide/"><u>Troubleshooting Slow Loading Time on Your External Hard Drive: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ts-vob-vod-movavi/"><u>TS VOB 파일을 VOD 형식으로 바꾸기 - 무료, 인터넷 연결에서 Movavi가 제공하는 용이한 도구</u></a></li>
+<li><a href="https://win-net.techidaily.com/wd-aomei/"><u>WD品質最高的備份軟體 - AOMEI優秀版</u></a></li>
 </ul></div>
 
