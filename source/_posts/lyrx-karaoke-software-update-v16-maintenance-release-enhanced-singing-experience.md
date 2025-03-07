@@ -1,7 +1,7 @@
 ---
 title: LYRX Karaoke Software Update v1.6 Maintenance Release - Enhanced Singing Experience!
-date: 2025-02-13T01:57:24.806Z
-updated: 2025-02-19T06:58:45.832Z
+date: 2025-03-03T16:28:01.417Z
+updated: 2025-03-07T17:08:29.457Z
 tags:
   - product
 categories:
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/6659fe54b6365b1f6893f18c4aeffaf5df66ed6e0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### A new maintenance release for LYRX 1.6 is available for download.
 
 Last week, we introduced the [new 1.6 version LYRX](https://tools.techidaily.com/pcdj/products/) with official macOS Catalina support. With the help of our truly awesome customers, we were able to pinpoint a few nagging bugs that we’ve now taken the proverbial boot to. Thanks for your help in making LYRX our **most popular karaoke software** title — all in less than two years time since it was first announced!
 
 Download this free LYRX update below and install with your existing version closed to update now. If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a fully-functional free trial.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6 (v2)
 
@@ -44,10 +36,6 @@ Download this free LYRX update below and install with your existing version clos
 **IMPORTANT NOTE:** If you receive this warning _“lyrx-v1.6-installer\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install LYRX.
 
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -68,22 +56,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrxforwin-cover-2.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-exclusive-guide-ranking-most-effective-ig-money-makers/"><u>[New] In 2024, Exclusive Guide Ranking Most Effective IG Money Makers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-unpacking-the-wirecast-experience-and-its-rivals/"><u>[New] Unpacking the WireCast Experience & Its Rivals</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-get-to-the-core-of-fb-status-videos-downloading-guide-2023/"><u>2024 Approved Get to the Core of FB Status Videos - Downloading Guide 2023</u></a></li>
-<li><a href="https://win-net.techidaily.com/browser-based-game-emulators-relive-the-classics-with-just-a-click/"><u>Browser-Based Game Emulators: Relive the Classics with Just a Click</u></a></li>
-<li><a href="https://win-net.techidaily.com/discover-leading-flv-video-editors-for-optimal-quality-and-speed-results/"><u>Discover Leading Flv Video Editors for Optimal Quality & Speed Results</u></a></li>
-<li><a href="https://win-guides.techidaily.com/easy-guide-executing-a-secure-erase-on-your-wd-ssd-in-windows-11/"><u>Easy Guide: Executing a Secure Erase on Your WD SSD in Windows 11</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-easing-freezes-tips-for-smooth-photobooth-footage/"><u>In 2024, Easing Freezes Tips for Smooth Photobooth Footage</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-exploring-earth-with-high-res-the-mi-drone-review/"><u>In 2024, Exploring Earth with High Res The MI Drone Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/learn-how-to-effortlessly-utilize-whatsapp-with-your-mac-computer/"><u>Learn How to Effortlessly Utilize WhatsApp with Your Mac Computer</u></a></li>
-<li><a href="https://win-net.techidaily.com/professional-screenshot-solutions-affordable-and-effective-replacements-for-snagit/"><u>Professional Screenshot Solutions: Affordable & Effective Replacements for Snagit</u></a></li>
-<li><a href="https://win-net.techidaily.com/quick-guide-converting-f4v-video-clips-to-compatible-mp4-files/"><u>Quick Guide: Converting F4V Video Clips to Compatible MP4 Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/regain-access-to-hidden-5ghz-networks-on-your-windows-pc/"><u>Regain Access to Hidden 5GHz Networks on Your Windows PC</u></a></li>
-<li><a href="https://win-net.techidaily.com/seamless-steps-moving-your-information-from-a-galaxy-device-to-an-iphone-xs/"><u>Seamless Steps: Moving Your Information From a Galaxy Device to an iPhone XS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/tackling-the-turbulence-in-call-of-duty-warzone-pacific-edition/"><u>Tackling the Turbulence in Call of Duty: Warzone - Pacific Edition</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-picks-the-ultimate-review-of-leading-gif-capture-software/"><u>Top Picks: The Ultimate Review of Leading GIF Capture Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-three-strategies-for-safeguarding-your-android-contact-data/"><u>Top Three Strategies for Safeguarding Your Android Contact Data</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-ranking-quick-video-clips-tools-of-2021/"><u>Top-Ranking Quick Video Clips Tools of 2021</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-sharex-unmasked-critical-insights-and-substitutes/"><u>[New] 2024 Approved ShareX Unmasked Critical Insights & Substitutes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-hobbyist-to-pro-optimal-cameras-for-youtubing/"><u>[Updated] 2024 Approved From Hobbyist to Pro Optimal Cameras For YouTubing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-mastering-final-cut-pro-essentials/"><u>[Updated] Ultimate Guide to Mastering Final Cut Pro Essentials</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unveiling-the-art-of-quiet-video-capture-methods/"><u>[Updated] Unveiling the Art of Quiet Video Capture Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-itel-p40plus-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Itel P40+</u></a></li>
+<li><a href="https://win-net.techidaily.com/creating-customized-backdrops-adding-your-business-emblem-to-flipbook-pages-using-flipbuilder/"><u>Creating Customized Backdrops: Adding Your Business Emblem to FlipBook Pages Using FlipBuilder</u></a></li>
+<li><a href="https://win-net.techidaily.com/creative-image-editing-tips-incornating-clipart-for-stunning-visuals-on-flipbuilder/"><u>Creative Image Editing Tips: Incornating Clipart for Stunning Visuals on FlipBuilder</u></a></li>
+<li><a href="https://win-net.techidaily.com/creative-visual-styling-step-by-step-instructions-for-incorpressing-clipart-in-images-with-flipbuilder/"><u>Creative Visual Styling: Step-by-Step Instructions for Incorpressing Clipart in Images with FlipBuilder</u></a></li>
+<li><a href="https://win-net.techidaily.com/download-ready-flipbooks-a-simple-guide-on-setting-up-your-site-with-flipbuilder/"><u>Download-Ready Flipbooks: A Simple Guide on Setting Up Your Site with FlipBuilder</u></a></li>
+<li><a href="https://win-net.techidaily.com/efficiently-sharing-your-flip-ebooks-by-email-tips-and-tricks-from-flipbuilder-experts/"><u>Efficiently Sharing Your Flip eBooks by Email: Tips & Tricks From FlipBuilder Experts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-11-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 11</u></a></li>
+<li><a href="https://win-net.techidaily.com/expanding-your-pdfs-horizons-easily-cover-more-ground-across-double-page-layouts-in-flipbook/"><u>Expanding Your PDF's Horizons: Easily Cover More Ground Across Double-Page Layouts in FlipBook</u></a></li>
+<li><a href="https://win-net.techidaily.com/expert-guide-to-designing-convincing-digital-product-catalogs-using-flipbuilder/"><u>Expert Guide to Designing Convincing Digital Product Catalogs Using FlipBuilder</u></a></li>
+<li><a href="https://win-net.techidaily.com/explore-exceptional-digital-booklets-start-your-journey-on-flipbuildercom-today/"><u>Explore Exceptional Digital Booklets - Start Your Journey on Flipbuilder.com Today!</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-master-merging-and-splitting-pdfs-with-the-best-software-solutions-available/"><u>How to Master Merging and Splitting PDFs with the Best Software Solutions Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/sas-drivers-compatibility-guide-ensuring-smooth-operations-for-windows-10-8-and-7-users/"><u>SAS Drivers Compatibility Guide: Ensuring Smooth Operations for Windows 10, 8, and 7 Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Lava Storm 5G | Dr.fone</u></a></li>
 </ul></div>
 

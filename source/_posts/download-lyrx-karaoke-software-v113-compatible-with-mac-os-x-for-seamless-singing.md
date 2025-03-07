@@ -1,7 +1,7 @@
 ---
 title: Download LYRX Karaoke Software v1.1.3 - Compatible with Mac OS X for Seamless Singing
-date: 2025-02-13T02:18:12.776Z
-updated: 2025-02-18T19:56:47.753Z
+date: 2025-03-05T18:27:13.836Z
+updated: 2025-03-07T17:21:14.225Z
 tags:
   - product
 categories:
@@ -32,10 +32,6 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### NEW AND CHANGED IN LYRX 1.1.3
 
 * Added resizing of browser and lists (put mouse cursor between browser panes and drag left/right to resize)
@@ -50,17 +46,9 @@ LYRX is $39.99 and is a stand-alone easy-to-use karaoke player for MAC. [Learn M
 
 _**NOTE:** With your existing version of LYRX closed, download and install version 1.1.3 to update now_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How The Party Tyme Karaoke Subscription Works In LYRX
 
 _Have questions about our **top karaoke software for MAC** and the new features found in LYRX 1.1.3? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -81,24 +69,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/lyrxv113-now-available.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/nlock-youtube-power-with-insights-from-creator-studio-for-2024/"><u>[New] Unlock YouTube Power with Insights From Creator Studio for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-effortless-rearrangement-of-your-personalized-lists/"><u>[Updated] In 2024, Effortless Rearrangement of Your Personalized Lists</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unveiling-vsdcs-potential-and-top-alternatives/"><u>[Updated] In 2024, Unveiling VSDC’s Potential & Top Alternatives</u></a></li>
-<li><a href="https://win-net.techidaily.com/1-steps-for-activating-iphones-recovery-mode-without-using-a-pc/"><u>1. Steps for Activating iPhone's Recovery Mode Without Using a PC</u></a></li>
-<li><a href="https://win-net.techidaily.com/5-effektive-methoden-zum-ubertragen-von-sprachmemos-auf-das-neueste-iphone-modell/"><u>5 Effektive Methoden Zum Übertragen Von Sprachmemos Auf Das Neueste iPhone Modell</u></a></li>
-<li><a href="https://win-net.techidaily.com/comprehensive-guide-on-continuous-data-protection-strategies-and-tips/"><u>Comprehensive Guide on Continuous Data Protection: Strategies & Tips</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/editorprime-design/"><u>EditorPrime Design</u></a></li>
-<li><a href="https://win-net.techidaily.com/find-and-restore-accidentally-deleted-documents-in-windows-10-or-11-expert-tips-and-tricks/"><u>Find and Restore Accidentally Deleted Documents in Windows 10 or 11: Expert Tips & Tricks</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-unlock-your-earning-potential-maximizing-youtube-revenue-on-mobile/"><u>In 2024, Unlock Your Earning Potential Maximizing YouTube Revenue on Mobile</u></a></li>
-<li><a href="https://facebook.techidaily.com/no-change-in-whatsapp-capabilities-with-privacy-term-rejection/"><u>No Change in WhatsApp Capabilities with Privacy Term Rejection</u></a></li>
-<li><a href="https://win-net.techidaily.com/quick-and-easy-methods-how-to-copy-songs-onto-your-usb-memory-stick-using-your-laptop/"><u>Quick and Easy Methods: How to Copy Songs Onto Your USB Memory Stick Using Your Laptop</u></a></li>
-<li><a href="https://win-net.techidaily.com/resepsi-berat-pada-restorasi-partisi-sd-yang-hilang-dengan-solusi-dua-penting/"><u>Resepsi Berat Pada Restorasi Partisi SD Yang Hilang Dengan Solusi Dua Penting!</u></a></li>
-<li><a href="https://win-net.techidaily.com/retrieve-and-restore-a-comprehensive-guide-to-getting-back-deleted-autocad-projects/"><u>Retrieve and Restore: A Comprehensive Guide to Getting Back Deleted AutoCAD Projects</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-a1x-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo A1x 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-server-sicherungsstrategien-fur-it-dienstleister-pc-und-cloud-basierte-backups/"><u>Top-Server-Sicherungsstrategien Für IT-Dienstleister: PC Und Cloud-Basierte Backups</u></a></li>
-<li><a href="https://win-net.techidaily.com/umsetzen-von-windows-11-auf-eine-neue-datentragerung-ohne-daten-zu-verlieren/"><u>Umsetzen Von Windows 11 Auf Eine Neue Datenträgerung - Ohne Daten Zu Verlieren</u></a></li>
-<li><a href="https://article-posts.techidaily.com/visionary-8-must-haves-in-vr-gaming-worlds-for-2024/"><u>Visionary 8 Must-Haves in VR Gaming Worlds for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-narzo-n55-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme Narzo N55? Here is How | Dr.fone</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/yl-softwares-easy-method-for-reorganizing-your-documents-in-windows-by-shifting-folders-quick-and-simple-solutions/"><u>YL Software's Easy Method for Reorganizing Your Documents in Windows by Shifting Folders - Quick & Simple Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-blending-brands-joining-instagram-and-facebook-effortlessly-for-2024/"><u>[Updated] Blending Brands Joining Instagram and Facebook Effortlessly for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shine-bright-easy-brightening-for-iphones-visual-content/"><u>[Updated] Shine Bright Easy Brightening for iPhone's Visual Content</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-superior-cams-for-traditional-animation/"><u>[Updated] Superior Cams for Traditional Animation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209939372-9781982154684-contemporary-prayers-to-whatever-works/"><u>Contemporary Prayers to Whatever Works | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-instant-chatting-in-mozilla-thunderbird-step-by-step-tutorial/"><u>Effective Instant Chatting in Mozilla Thunderbird – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-net.techidaily.com/gerer-efficacement-vos-donnees-avec-les-sauvegardes-partielles-et-totales-tout-savoir-sur-la-fusion/"><u>Gérer Efficacement Vos Données Avec Les Sauvegardes Partielles Et Totales : Tout Savoir Sur La Fusion !</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-to-set-up-your-data-safety-net-5-phases-with-aomei-backupper/"><u>How To Set Up Your Data Safety Net: 5 Phases With AOMEI Backupper</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-t2x-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo T2x 5G Phone that is Locked?</u></a></li>
+<li><a href="https://win-net.techidaily.com/1728497974987-onedrive3/"><u>OneDriveファイル消失を回避するための重要なステップ3点</u></a></li>
+<li><a href="https://win-net.techidaily.com/professionelle-tipps-zur-verwendung-der-quick-access-security-funktionen-in-windows-11-eine-anleitung-fur-anfanger/"><u>Professionelle Tipps Zur Verwendung Der Quick Access Security Funktionen in Windows 11: Eine Anleitung Für Anfänger</u></a></li>
+<li><a href="https://win-net.techidaily.com/recovering-lost-audio-files-a-comprehensive-guide-for-windows-and-ios-users/"><u>Recovering Lost Audio Files: A Comprehensive Guide for Windows and iOS Users</u></a></li>
+<li><a href="https://win-tips.techidaily.com/recuperacion-de-datos-perdidos-metodos-faciles-en-windows-server-2012-r2/"><u>Recuperación De Datos Perdidos: Métodos Fáciles en Windows Server 2012 R2</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-retrieving-deleted-files-from-an-external-hard-drive-using-windows/"><u>Step-by-Step Guide: Retrieving Deleted Files From an External Hard Drive Using Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-data-erasure-technique-revealed-for-businesses-watch-the-bitraser-enterprise-software-demo/"><u>The Ultimate Data Erasure Technique Revealed for Businesses: Watch the BitRaser Enterprise Software Demo</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-y78-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo Y78 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/windows-spezifische-kostenfreie-losungen-zur-datenaufwartssynchronisation-und-verwaltung/"><u>Windows-Spezifische Kostenfreie Lösungen Zur Datenaufwärtssynchronisation Und -Verwaltung</u></a></li>
 </ul></div>
 
